@@ -15907,7 +15907,7 @@
    "tiers": "1",
    "gloss": "NA 5.16.3: **Epicurean simulacra theory of vision** — atoms streaming from objects to eyes. Atomic optics.",
    "latin": "Epicurus afluere semper ex omnibus corporibus simulacra quaedam corporum ipsorum eaque sese in oculos inferre atque ita fieri sensum videndi putat.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Epicurus afluere semper ex omnibus corporibus simulacra",
     "sese in oculos inferre"
@@ -15936,7 +15936,7 @@
    "tiers": "2",
    "gloss": "**NA 5.16.4**: **Plato's emission theory of vision** — \"genus quoddam ignis lucisque de oculis exire idque, coniunctum continuatumque vel cum luce solis vel cum alterius ignis lumine\". Substantive mathematical optics, parallel to Epicurean simulacra at T1 5.16.3.",
    "latin": "Plato existimat, genus quoddam ignis lucisque de oculis exire idque, coniunctum continuatumque vel cum luce solis vel cum alterius ignis lumine, sua vi et externa nixum efficere ut quaecumque offenderit inlustraveritque cernamus.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "genus quoddam ignis lucisque de oculis exire",
     "coniunctum continuatumque vel cum luce solis",
@@ -24035,7 +24035,7 @@
    ],
    "gloss": "**Merged record** (5 components: 4.164-230, 4.193, 4.201, 4.214, 4.230).\n\n• [4.164-230] **Merged record** (5 components: 4.164-738, 4.193, 4.201, 4.214, 4.230).\n\n• [4.164-738] **Merged record** (12 components: 4.164, 4.193, 4.201, 4.214, 4.230, 4.298, 4.317, 4.503, 4.648, 4.655, 4.656, 4.738).\n\n• [4.164] **DRN 4.164**: simulacra travel in an instant. Atomic optics + speed of vision.\n• [4.193] DRN 4.193: continuation. CLUSTER.\n• [4.201] DRN 4.201: continuation. CLUSTER.\n• [4.214] DRN 4.214: imago in puncto temporis. CLUSTER.\n• [4.230] DRN 4.230: tactile shape vs visual shape. CLUSTER.\n• [4.298] **DRN 4.298**: mirror-vision — \"rectam si fronte figuram\". CLUSTER.\n• [4.317] **DRN 4.317**: \"flexa figura docet speculi convertier ad nos\" — the curved mirror inverts the image. Substantive atomic-mirror optics. CLUSTER.\n• [4.503] DRN 4.503: causes of the figurae. CLUSTER.\n• [4.648] DRN 4.648: seeds vary in figura. CLUSTER.\n• [4.655] DRN 4.655: \"figurarum ratio ut motusque reposcunt\". CLUSTER.\n• [4.656] DRN 4.656: continuation — atomic shapes and pores. CLUSTER.\n• [4.738] DRN 4.738: composite from atomic figurae. CLUSTER.\n• [4.193] DRN 4.193: continuation. CLUSTER.\n• [4.201] DRN 4.201: continuation. CLUSTER.\n• [4.214] DRN 4.214: imago in puncto temporis. CLUSTER.\n• [4.230] DRN 4.230: tactile shape vs visual shape. CLUSTER.\n• [4.193] DRN 4.193: continuation. CLUSTER.\n• [4.201] DRN 4.201: continuation. CLUSTER.\n• [4.214] DRN 4.214: imago in puncto temporis. CLUSTER.\n• [4.230] DRN 4.230: tactile shape vs visual shape. CLUSTER.",
    "latin": "[4.164-230] [4.164-738] [4.164] temporis in puncto rerum simulacra ferantur\n\n[4.193] temporis in puncto, primum quod parvola causa\n\n[4.201] ac vapor, haec puncto cernuntur lapsa diei\n\n[4.214] iamne vides igitur quam puncto tempore imago\n\n[4.230] Praeterea quoniam manibus tractata figura\n\n[4.298] atque ea continuo rectam si fronte figuram\n\n[4.317] flexa figura docet speculi convertier ad nos.\n\n[4.503] reddere mendose causas utriusque figurae,\n\n[4.648] proinde et seminibus constant variantque figura.\n\n[4.655] namque figurarum ratio ut motusque reposcunt,\n\n[4.656] proinde foraminibus debent differe figurae\n\n[4.738] et quae confiunt ex horum facta figuris.\n\n[4.193] temporis in puncto, primum quod parvola causa\n\n[4.201] ac vapor, haec puncto cernuntur lapsa diei\n\n[4.214] iamne vides igitur quam puncto tempore imago\n\n[4.230] Praeterea quoniam manibus tractata figura\n\n[4.193] temporis in puncto, primum quod parvola causa\n\n[4.201] ac vapor, haec puncto cernuntur lapsa diei\n\n[4.214] iamne vides igitur quam puncto tempore imago\n\n[4.230] Praeterea quoniam manibus tractata figura",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "temporis in puncto rerum simulacra ferantur"
    ],
@@ -40942,7 +40942,7 @@
    "text": "Videamus nunc, quemadmodum fiat is fulgor, qui sidera circumuenit. Memoriae proditum est, quo die urbem diuus Augustus' Apollonia reuersus intrauit, circa solem uisum coloris uarii circulum, qualis esse in arcu solet. Hunc Graeci G-halo uocant, nos dicere coronam aptissime possumus. Quae quemadmodum fieri dicatur, exponam.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "quemadmodum fiat is fulgor, qui sidera circumuenit",
     "circa solem uisum coloris uarii circulum",
@@ -40971,7 +40971,7 @@
    "text": "[1.2.2-4] \n\n[1.2.3] Ob hoc tales splendores Graeci areas uocauerunt, quia fere terendis frugibus destinata loca rotunda sunt. Non est autem, quod existimemus istas, siue areae siue coronae sunt, in uicinia siderum fieri. Plurimum enim ab his abstint, quamuis cingere ea et coronare uideantur: non longe a terra fit talis effigies, quam uisus noster solita imbecillitate deceptus circa ipsum sidus putat positam.\n\n[1.2.4] In uicinia autem stellarum et solis nihil tale fieri potest, quia illic tenuis aether est. Nam formae crassis demum spissisque corporibus imprimi solent, in subtilibus non habent, ubi consistant aut haereant: in balneis quoque circa lucernam tale quiddam aspici solet ob aeris densi obscuritatem, frequentissime autem austro, cum caelum maxime graue et spissum est.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Graeci areas uocauerunt",
     "in balneis quoque circa lucernam tale quiddam aspici solet"
@@ -41199,7 +41199,7 @@
    "text": "[1.3.5-6] \n\n[1.3.6] Hoc sic colligunt: pelues, inquiunt, mille sereno die porte, omnes habebunt imagines solis; in singulis foliis dispone guttas, singulae habebunt imaginem solis. At contra ingens stagnum non amplius habebit quam unam imaginem. Quare? Quia omnis circumscripta leuitas et circumdata suis finibus speculum est. Itaque piscinam ingentis magnitudinis insertis parietibus diuide, totidem illa habebit imagines solis, quot lacus habuerit; relinque illam sic ut est: diffusa semel tibi imaginem reddet. Nihil refert, quam exiguus sit umor aut lacus: si determinatus est, speculum est. Ergo stillicidia illa infinita, quae imber cadens defert, totidem specula sunt, totidem solis facies habent; hae contra intuenti perturbatae apparent, nec dispiciuntur interualla, quibus singulae distant, spatio prohibente discerni; unde pro singulis apparet una facies turbida ex omnibus.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "ingens stagnum non amplius habebit quam unam imaginem"
    ],
@@ -41259,7 +41259,7 @@
    "text": "[1.3.7-8] \n\n[1.3.8] Itaque quod in aliis efficit densus aer, in his facit omnis; satis enim ualet qualiscumque ad imbecillam aciem repellendam. Longe autem magis uisum nobis nostrum remittit aqua, quia crassior est et peruinci non potest, sed radios luminum nostrorum moratur et eo, unde exierunt, reflectit. Ergo cum multa stillicidia sint, totidem specula sunt; sed quia parua sunt, solis colorem sine figura exprimunt. Deinde cum in stillicidiis innumerabilibus et sine interuallo cadentibus reddatur idem color, incipit facies esse non multarum imaginum et intermissarum, sed unius longae atque continuae.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "quia crassior est et peruinci non potest",
     "sed radios luminum nostrorum moratur"
@@ -41322,7 +41322,7 @@
    "text": "[1.3.10-13] \n\n[1.3.12] Varietas autem non ob aliam causam fit, quam quia pars coloris sole est, pars a nube: in illa umor modo caeruleas lineas modo uirides modo purpurae similes et luteas aut igneas ducit, duobus coloribus hanc uarietatem efficientibus, remisso et intento. Sic enim et purpura eodem conchylio non in unum modum exit: interest, quamdiu macerata sit, crassius medicamentum an aquatius traxerit, saepius mersa sit et excocta an semel tincta.\n\n[1.3.13] Non est ergo mirum si, cum duae res sint, sol et nubes, id est corpus et speculum, tam multa genera colorum exprimuntur, quam multis generibus possunt ista incitari aut relanguescere: alius est enim color ex igneo lumine, alius ex obtunso et leniore.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "caeruleas lineas modo uirides modo purpurae similes et luteas aut igneas",
     "cum duae res sint, sol et nubes, id est corpus et speculum"
@@ -41410,7 +41410,7 @@
    "text": "[1.4.1-2] \n\n[1.4.2] Inter argumenta sic nascentis arcus pono, quod celerrime nascitur. Ingens enim uariumque corpus intra momentum subtexitur caelo et aeque celeriter aboletur; nihil autem tam cito redditur quam a speculo imago; non enim facit quicquam sed ostendit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Ingens enim uariumque corpus intra momentum subtexitur caelo",
     "nihil autem tam cito redditur quam a speculo imago"
@@ -41501,7 +41501,7 @@
    "text": "[1.5.1-4] \n\n[1.5.3] Deinde cum uelis speculum inesse aeri, des oportet mihi eandem leuitatem corporis, eandem aequalitatem, eandem nitorem. Atqui nullae nubes habent similitudinem speculi: per medias saepe transimus nec in illis nos cernimus; qui montium summa conscendunt, despectant nubem nec tamen imaginem in illa suam aspiciunt.\n\n[1.5.4] \"Singula stillicidia singula specula sunt\". Concedo; sed illud nego, ex stillicidiis constare nubem. Habet enim quaedam, ex quibus fieri stillicidia possint, non ipsa; ne aquam quidem habent nubes sed materiam futurae aquae.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "nullae nubes habent similitudinem speculi",
     "qui montium summa conscendunt, despectant nubem",
@@ -41590,7 +41590,7 @@
    "text": "[1.5.5-9] \n\n[1.5.6] Quid ergo?, inquit. Non et aqua rupta fistula sparsa et remo excussa habere quiddam simile his, quos uidemus in arcu, coloribus solet? Verum est, sed non ex hac causa, ex qua tu uideri uis, quia unaquaeque stilla recipiat imaginem solis. Citius enim cadunt stillae, quam ut concipere imagines possint: standum est, ut id, quod imitantur, excipiant. Quid ergo fit? Colorem, non imaginem ducunt. Alioquin, ut ait Nero Caesar disertissime, \"colla Cytheriacae splendent agitata columbae\" et uariis coloribus pauonum ceruix, quotiens aliquo deflectitur, nitet: numquid ergo dicemus specula eiusmodi plumas, quarum omnis inclinatio in colores nouos transit?\n\n[1.5.8] Quid enim simile speculis habent nubes, cum illa non perluceant, hae transmittant lucem, illa densa et coacta, hae rarae sint; illa eiusdem materiae tota, hae e diuersis temere compositae et ob hoc discordes nec diu cohaesurae? Praeterea uidemus ortu solis partem quandam caeli rubere, uidemus nubes aliquando ignei coloris: quid ergo prohibet, quomodo hunc unum colorem accipiunt solis occursu, sic multos ab illis trahi, quamuis non habeant speculi potentiam?\n\n[1.5.9] Modo, inquit, inter argumenta ponebas semper arcum contra solem excitari, quia ne a speculo quidem imago redderetur nisi aduerso. Hoc, inquit, commune nobis est: nam quemadmodum opponendum est speculo id, cuius in se imaginem transferat, sic, ut nubes infici possint, ita sol ad hoc apte ponendus est; non enim idem facit, undecumque effulsit, et ad hoc opus est radiorum idoneus ictus.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Non et aqua rupta fistula sparsa",
     "unaquaeque stilla recipiat imaginem solis",
@@ -41948,7 +41948,7 @@
    "text": "At maior aliquanto est arcus quam sol. Dixi modo fieri specula, quae multiplicent omne corpus, quod imitantur. Illud adiciam, omnia per aquam uidentibus longe esse maiora: litterae quamuis minutae et obscurae per uitream pilam aqua plenam maiores clarioresque cernuntur; poma formosiora quam sunt uidentur, si innatant uitro. Sidera ampliora per nubem aspicienti uidentur, quia acies nostra in umido labitur nec apprehendere quod uult fideliter potest. Quod manifestum fiet, si poculum impleueris aqua et in id conieceris anulum: nam cum in ipso fundo anulus iaceat, facies eius in summa aqua redditur.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "litterae quamuis minutae et obscurae per uitream pilam aqua plenam maiores clarioresque cernuntur"
    ],
@@ -42002,7 +42002,7 @@
    "text": "Primum in hoc argumento multa pro me sunt: quod apparet a sole fieri; quod apparet leue quiddam esse debere et simile speculo, quod solem repercutiat; deinde quod apparet non fieri ullum colorem sed speciem falsi coloris, qualem, ut dixi, columbarum ceruix et sumit et ponit, utcumque deflectitur. Hoc autem et in speculo est, cui nullus inditur color, sed simulatio quaedam coloris alieni.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "speciem falsi coloris",
     "columbarum ceruix"
@@ -42264,7 +42264,7 @@
    "text": "Quomodo nunc me hoc loco geram? Quid uocem imagines solis? Historici soles uocant et binos ternosque apparuisse memoriae tradunt; Graeci parhelia appellant, quia in propinquo fere a sole uisuntur aut quia accedunt ad aliquam similitudinem solis. Non enim totum imitantur sed magnitudinem eius figuramque: ceterum nihil habent ardoris hebetes et languidi. His quod nomen imponimus? An facio quod Vergilius, qui dubitauit de nomine, deinde id, de quo dubitauerat, posuit? \"Et quo te nomine dicam, Rhaetica? Nec cellis ideo contende Falernis.\" Nihil ergo prohibet illas parhelia uocari.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Historici soles uocant et binos ternosque apparuisse memoriae tradunt",
     "Graeci parhelia appellant",
@@ -42308,7 +42308,6 @@
    "verdict": "KEEP",
    "substantive": true,
    "topics": [
-    "optics",
     "astronomy"
    ],
    "figures": [],
@@ -42350,7 +42349,7 @@
    "text": "[1.13.1-2] \n\n[1.13.2] Debent autem hae nubes, quae hoc praestant, densae esse, leues, splendidae, planae, naturae solidae. Ob hoc omnia eiusmodi simulacra candida sunt, et similia lunaribus circulis, quia ex percussu oblique accepto sole resplendent: nam si infra solem nubes fuerit et propior, ab eo dissipatur; longe autem posita radios non remittet nec imaginem effciet. <quare?> Quia apud nos quoque specula, cum procul a nobis abducta sunt, faciem non reddunt, quia acies nostra non habet usque ad nos recursum.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "densae esse, leues, splendidae, planae, naturae solidae",
     "similia lunaribus circulis"
@@ -42811,8 +42810,7 @@
    "verdict": "KEEP*",
    "substantive": true,
    "topics": [
-    "astronomy",
-    "optics"
+    "astronomy"
    ],
    "figures": [],
    "search_terms": [],
@@ -43817,7 +43815,7 @@
    "text": "Clidemos ait fulgurationem speciem inanem esse, non ignem; sic enim per noctem splendorem motu remorum uideri. Dissimile est exemplum. Illic enim splendor intra ipsam aquam apparet ; hic, qui fit in aere, erumpit et exilit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Clidemos ait fulgurationem speciem inanem esse, non ignem",
     "sic enim per noctem splendorem motu remorum uideri"
@@ -44902,7 +44900,6 @@
    "verdict": "KEEP*",
    "substantive": true,
    "topics": [
-    "optics",
     "geometry"
    ],
    "figures": [],
