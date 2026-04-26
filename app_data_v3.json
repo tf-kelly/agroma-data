@@ -118,37 +118,6 @@
    "provenance": "verified-from-source-parse"
   },
   {
-   "id": "phi1212:phi001:15",
-   "author": "Apuleius",
-   "author_id": "phi1212",
-   "work_short": "Apologia",
-   "work_full": "Apologia",
-   "work_id": "phi001",
-   "citation": "15",
-   "verdict": "KEEP*",
-   "substantive": "N",
-   "topics": [
-    "biographical-educational"
-   ],
-   "figures": [
-    "Archytas",
-    "Epicurus"
-   ],
-   "search_terms": [
-    "Epicur",
-    "Archyt"
-   ],
-   "tiers": "1",
-   "gloss": "Apol. 15: in defence of having a mirror — Archytas is mentioned alongside Epicurus among philosophers who used mirrors. ",
-   "latin": "Aut igitur unius Hagesilai Lacedaemonii sententia nobis sequenda est, qui se neque pingi neque fingi unquam diffidens formae suae passus est, aut si mos omnium ceterorum hominum retinendus uidetur in statuis et imaginibus non repudiandis, cur existimes imaginem suam cuique uisendam potius in lapide quam in argento, magis in tabula quam in speculo? an turpe arbitraris formam suam spectaculo assiduo explorare? an non Socrates philosophus ultro etiam suasisse fertur discipulis suis, crebro ut semet in speculo contemplarentur, ut qui eorum foret pulchritudine sibi complacitus impendio procuraret, ne dignitatem corporis malis moribus dedecoraret, qui uero minus se commendabilem forma putaret sedulo operam daret, ut uirtutis laude turpitudinem tegeret? adeo uir omnium sapientissimus speculo etiam ad disciplinam morum utebatur. Demost h enen uero, primarium dicendi artificem, quis est qui non sciat semper ante speculum quasi ante magistrum causas meditatum: ita ille summus orator cum a Platone philosopho facundiam h ausisset, ab Eubulide dialectico argumentationes edidicisset, nouissimam pronuntiandi congruentiam ab speculo petiuit. utrum igitur putas maiorem curam decoris in adseueranda oratione suscipiendam rhetori iurganti an philosopho obiurganti, apud iudices sorte ductos paulisper disceptanti an apud omnis homines semper disserenti, de finibus agrorum litiganti an de finibus bonorum et malorum docenti? quid, quod nec ob haec debet tantummodo philosophus speculum inuisere; nam saepe oportet non modo similitudinem suam, uerum etiam ipsius similitudinis rationem considerare: num, ut ait Epicurus, profectae a nobis imagines uelut quaedam exuuiae iugi fluore a corporibus manantes, cum leue aliquid et solidum offenderunt, illisae reflectantur et retro expressae contrauersim respondeant an, ut alii philosophi disputant, radii nostri seu mediis oculis proliquati et lumini extrario mixti atque ita uniti, ut Plato arbitratur, seu tantum oculis profecti sine ullo foris amminiculo, ut Archytas putat, seu intentu ae+ris f acti, ut Stoici rentur, cum alicui corpori inciderunt spisso et splendido et leui, paribus angulis quibus inciderant resultent ad faciem suam reduces atque ita, quod extra tangant ac uisant, id intra speculum imaginentur.",
-   "strictness": "strict",
-   "highlights": [
-    "speculo",
-    "imaginem suam"
-   ],
-   "provenance": "verified-from-source-parse"
-  },
-  {
    "id": "phi1212:phi001:16",
    "author": "Apuleius",
    "author_id": "phi1212",
@@ -170,7 +139,7 @@
     "Archimed"
    ],
    "tiers": "1",
-   "gloss": "**Apologia 16** — Apuleius's extended defence of mirror-physics: why does a plane mirror produce upright reflections, while concave and convex produce different deformations? Cites Archimedes's technical writings on the rainbow and reflections. **One of the densest pieces of mathematical optics in classical Latin.**",
+   "gloss": "**Apologia 16** — Apuleius's extended defence of mirror-physics: why does a plane mirror produce upright reflections, while concave and convex produce different deformations? Cites Archimedes's technical writings on the rainbow and reflections. ",
    "latin": "uideturne uobis debere philosophia haec omnia uestigare et inquirere et cuncta specula, uel uda uel suda soli, uidere? quibus praeter ista quae dixi etiam illa ratiocinatio necessaria est, cur in planis quidem speculis ferme pares optutus et imagines uideantur, in tumidis uero et globosis omnia defectiora, at contra in cauis auctiora; ubi et cur laeua cum dexteris permutentur; quando se imago eodem speculo tum recondat penitus, tum foras exerat; cur caua specula, si exaduersum soli retineantur, appositum fomitem accendant; qui fiat ut arcus in nubibus uarie, duo s soles aemula similitudine uisantur, alia praeterea eiusdem modi plurima, quae tractat uolumine ingenti Archimedes Syracusanus, uir in omni quidem geometria multum ante alios admirabilis subtilitate, sed haud sciam an propter hoc uel maxime memorandus, quod inspexerat speculum saepe ac diligenter. quem tu librum, Aemiliane, si nosses ac non modo campo et glebis, uerum etiam abaco et puluisculo te dedisses, mihi istud crede, quanquam teterrimum os tuum minimum a Thyesta tragico demutet, tamen profecto discendi cupidine speculum inuiseres et aliquando relicto aratro mirarere tot in facie tua sulcos rugarum. At ego non mirer, si boni consulis me de isto distortissimo uultu tuo dicere, de moribus tuis multo truculentioribus reticere. ea res est: praeter quod non sum iurgiosus, etiam libenter te nuper usque albus an ater esses ignoraui et adhuc h ercle non satis noui. id adeo factum, quod et tu rusticando obscurus es et ego discendo occupatus. ita et tibi umbra ignobilitatis a probatore obstitit, et ego numquam studui male facta cuiusquam cognoscere, sed semper potius duxi mea peccata tegere quam aliena indagare. igitur hoc mihi aduersum te usu uenit, quod qui forte constitit in loco lumine conlustrato atque eum alter e tenebris prospectat. nam ad eundem modum tu quidem, quid ego in propatulo et celebri agam, facile e tenebris tuis arbitraris, cum ipse humilitate",
    "strictness": "strict",
    "highlights": [
@@ -251,45 +220,6 @@
    "gloss": "Apol. 26: Plato's definition of magic. Brief.",
    "latin": "auditisne magiam, qui eam temere accusatis, artem esse dis immortalibus acceptam, colendi eos ac uenerandi pergnaram, piam scilicet et diuini scientem, iam inde a Zoroastre et Oromaze auctoribus suis nobilem, caelitum antistitam, quippe qui inter prima regalia docetur nec ulli temere inter Persas concessum est magum esse, haud magis quam regnare. idem Plato in alia sermocinatione de Zalmoxi quodam Thraci generis, sed eiusdem artis uiro ita scriptum reliquit: τὰς δὲ ἐπῳδὰς εἶναι τοὺς λόγους τοὺς καλούς. quod si ita est, cur mihi nosse non liceat uel Zalmoxi bona uerba uel Zoroastri sacerdotia? sin uero more uulgari eum isti proprie magum existimant, qui communione loquendi cum deis immortalibus ad omnia quae uelit incredibili a quadam ui cantaminum polleat, oppido miror, cur accusare non timuerint quem posse tantum fatentur. neque enim tam occulta et diuina potentia caueri potest itidem ut cetera. sicarium qui in iudicium uocat, comitatus uenit; qui uenenarium accusat, scrupulosius cibatur; qui furem arguit, sua custodit. enimuero qui magum qualem isti dicunt in discrimen capitis deducit, quibus comitibus, quibus scrupulis, quibus custodibus perniciem caecam et ineuitabilem prohibeat? nullis scilicet; et ideo id genus crimen non est eius accusare, qui credit.",
    "strictness": "excluded",
-   "provenance": "verified-from-source-parse"
-  },
-  {
-   "id": "phi1212:phi001:27",
-   "author": "Apuleius",
-   "author_id": "phi1212",
-   "work_short": "Apologia",
-   "work_full": "Apologia",
-   "work_id": "phi001",
-   "citation": "27",
-   "verdict": "KEEP",
-   "substantive": "Y",
-   "topics": [
-    "atomism",
-    "cosmology",
-    "biographical-educational"
-   ],
-   "figures": [
-    "Anaxagoras",
-    "Pythagoras",
-    "Democritus",
-    "Empedocles",
-    "Epicurus"
-   ],
-   "search_terms": [
-    "Pythag",
-    "Democrit",
-    "Anaxagor",
-    "Empedocl",
-    "Epicur"
-   ],
-   "tiers": "1",
-   "gloss": "**Apol. 27**: Apuleius's grand doxographical list of pre-Socratic philosophers — Anaxagoras, Pythagoras, Democritus, Empedocles, Epicurus — and their physical doctrines. Substantive on the reception of pre-Socratic natural philosophy in 2nd-century Latin.",
-   "latin": "uerum haec ferme communi quodam errore imperitorum philosophis obiectantur, ut partim eorum qui corporum causas meras et simplicis rimantur irreligiosos putent eoque aiant deos abnuere, ut Anaxagoram et Leucippum et Democritum et Epicurum ceterosque rerum naturae patronos, partim autem, qui prouidentiam mundi curiosius uestigant et impensius deos celebrant, eos uero uulgo magos nominent, quasi facere etiam sciant quae sciant fieri, ut olim fuere Epimenides et Orpheus et Pythagoras et Ostanes, ac dein similiter suspectata Empedocli catharmoe, Socrati daemonion, Platonis τὸ ἀγαθόν . gratulor igitur mihi, cum et ego tot ac tantis uiris adnumeror. Ceterum ea quae ab illis ad ostendendum crimen obiecta sunt uana et inepta simpliciter uereor, ne ideo tantum crimina putes, quod obiecta sunt. cur inquit piscium quaedam genera quaesisti? quasi id cognitionis gratia philosopho facere non liceat, quod luxurioso gulae causa liceret. cur mulier libera tibi nupsit post annos XIII uiduitatis? quasi non magis mirandum sit quod tot annis non nubserit. cur prius, quam tibi nuberet, scripsit nescio quid in epistula quod sibi uidebatur? quasi quisquam debeat causas alienae sententiae reddere. at enim maior natu non est iuuenem aspernata. igitur hoc ipsum argumentum est nihil opus magia fuisse, ut nubere uellet mulier uiro, uidua caelibi, maior iuniori. iam et illa similia: habet quiddam Apuleius domi quod sancte colit: quasi non id potius crimen sit, quod colas non habere. cecidit praesente Apuleio puer. quid enim, si iuuenis, quid, si etiam senex adsistente me corruisset uel morbo corporis impeditus uel lubrico soli prolapsus? hiscine argumentis magian probatis, casu pueruli et matrimonio mulieris et obsonio piscium?",
-   "strictness": "strict",
-   "highlights": [
-    "Anaxagoram et Leucippum et Democritum et Epicurum",
-    "corporum causas meras et simplicis rimantur"
-   ],
    "provenance": "verified-from-source-parse"
   },
   {
@@ -447,39 +377,6 @@
    "provenance": "verified-from-source-parse"
   },
   {
-   "id": "phi1212:phi001:49",
-   "author": "Apuleius",
-   "author_id": "phi1212",
-   "work_short": "Apologia",
-   "work_full": "Apologia",
-   "work_id": "phi001",
-   "citation": "49",
-   "verdict": "KEEP",
-   "substantive": "Y",
-   "topics": [
-    "cosmology",
-    "liberal-arts"
-   ],
-   "figures": [
-    "Plato"
-   ],
-   "search_terms": [
-    "caelum",
-    "mund",
-    "Plato"
-   ],
-   "tiers": "2",
-   "gloss": "**Apol. 49**: **Plato's Timaeus on the soul's three powers** — \"Plato philosophus in illo praeclarissimo Timaeo caelesti quadam facundia universum mundum molitus\". Substantive on the cosmological psychology of the Timaeus.",
-   "latin": "Plato philosophus in illo praeclarissimo Timaeo caelesti quadam facundia uniuersum mundum molitus, is igitur postquam de nostri quoque animi trinis potestatibus sollertissime disseruit et, cur quaeque membra nobis diuina prouidentia fabricata sint, aptissime docuit, causam morborum omnium trifariam percenset. primam causam primordiis corporis adtribuit, si ipsae elementorum qualitates, uuida et frigida et h i is duae aduorsae, non congruant; id adeo euenit, cum quaepiam earum modo excessit aut loco demigrauit. sequens causa morborum inest in eorum uitio, quae iam concreta ex simplicibus elementis una tamen specie coaluerunt, ut est sanguinis species et uisceris et ossi et medullae, porro illa quae ex hisce singularibus mixta sunt. tertio in corpore concrementa uarii fellis et turbidi spiritus et pinguis humoris nouissima aegritudinum incitamenta sunt.",
-   "strictness": "strict",
-   "highlights": [
-    "Plato philosophus in illo praeclarissimo Timaeo",
-    "caelesti quadam facundia uniuersum mundum molitus",
-    "trinis potestatibus"
-   ],
-   "provenance": "verified-from-source-parse"
-  },
-  {
    "id": "phi1212:phi001:51",
    "author": "Apuleius",
    "author_id": "phi1212",
@@ -557,7 +454,8 @@
    "strictness": "strict",
    "highlights": [
     "quod me aiunt ad magica maleficia",
-    "sigilli fabricatione"
+    "sigilli fabricatione",
+    "cum apud eum multas geometricas formas e buxo uidissem subtiliter et adfabre factas"
    ],
    "provenance": "verified-from-source-parse"
   },
@@ -48489,7 +48387,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "Comets predict the year as a whole, in the laws of the cosmos.",
+   "gloss": "**Merged record** (2 components: 7.28.1-2, 7.28.2).\n\n• [7.28.1-2] **Merged record** (2 components: 7.28.1, 7.28.2).\n• [7.28.2] **NQ 7.28.2**: continuation — comets predict the year as a whole, in the laws of the cosmos.",
    "latin": "[7.28.1-2] \n\n[7.28.2] Hoc ut scias ita esse, non statim cometas ortus uentos et pluuias minatur, ut Aristoteles ait, sed annum totum suspectum facit; ex quo apparet illum non ex proximo quae in proximum daret signa traxisse, sed habere reposita et comprensa legibus mundi.",
    "text": "[7.28.1-2] \n\n[7.28.2] Hoc ut scias ita esse, non statim cometas ortus uentos et pluuias minatur, ut Aristoteles ait, sed annum totum suspectum facit; ex quo apparet illum non ex proximo quae in proximum daret signa traxisse, sed habere reposita et comprensa legibus mundi.",
    "author": "Seneca, Lucius Annaeus",
@@ -48504,7 +48402,7 @@
     "7.28.1-2",
     "7.28.2"
    ],
-   "provenance": "manual check"
+   "provenance": "verified-from-source-parse"
   },
   {
    "id": "phi1017:phi017:7.28.2",
@@ -48708,7 +48606,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Catullus 5.7-13** —  famous *basia mille* counting passage. ",
+   "gloss": "**Catullus 5.7-13** — the famous *basia mille* counting passage. Sequential addition of kisses (mille + centum + mille altera + secunda centum + altera mille + centum) culminating in deliberate accounting-confusion: \"Dein, cum milia multa fecerimus, conturbabimus illa, ne sciamus.\" The verb *conturbare* is the technical term for confusing accounts (or going bankrupt) and reads against the calculus-and-tabula world of practical Roman arithmetic. Quintessential AgRoMa-frame passage: Roman lyric using the structures of counting and accounting as material for love poetry.",
    "latin": "da mi basia mille, deinde centum,\ndein mille altera, dein secunda centum,\ndeinde usque altera mille, deinde centum,\ndein, cum milia multa fecerimus,\nconturbabimus illa, ne sciamus,\naut ne quis malus invidere possit,\ncum tantum sciat esse basiorum.",
    "text": "da mi basia mille, deinde centum,\ndein mille altera, dein secunda centum,\ndeinde usque altera mille, deinde centum,\ndein, cum milia multa fecerimus,\nconturbabimus illa, ne sciamus,\naut ne quis malus invidere possit,\ncum tantum sciat esse basiorum.",
    "highlights": [
@@ -48717,7 +48615,7 @@
     "deinde usque altera mille, deinde centum",
     "cum tantum sciat esse basiorum"
    ],
-   "provenance": "manual check"
+   "provenance": "verified-from-source-parse"
   },
   {
    "id": "phi0690:phi001:3.40-42",
@@ -49010,7 +48908,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Apuleius Apologia 89** — Apuleius reckoning Pudentilla's age in court, with explicit reference to the FINGER GESTURES used for different number-classes: \"**si triginta annos pro decem dixisses, posses uideri computationis gestu errasse, quos circulare debueris digitos adgessisse. cum uero quadraginta, quae facilius ceteris porrecta palma significantur**\" — if you had said 30 instead of 10, you might have seemed to have erred in the gesture of computation, having pushed forward fingers you should have circled. But 40, which more easily than the others is signified by an outstretched palm... Single most explicit ancient passage on the configuration of finger-counting for specific number-classes (10s vs 30s vs 40s). Foundational source.",
+   "gloss": "**Apuleius Apologia 89** — Apuleius reckoning Pudentilla's age in court, with explicit reference to the finger gestures used for different number-classes: \"**si triginta annos pro decem dixisses, posses uideri computationis gestu errasse, quos circulare debueris digitos adgessisse. cum uero quadraginta, quae facilius ceteris porrecta palma significantur**\" — if you had said 30 instead of 10, you might have seemed to have erred in the gesture of computation, having pushed forward fingers you should have circled. But 40, which more easily than the others is signified by an outstretched palm... ",
    "latin": "De aetate uero Pudentillae, de qua post ista satis confidenter mentitus es, ut etiam sexaginta annos natam diceres nubsisse, de ea tibi paucis respondebo: nam non necesse est in re tam perspicua pluribus disputare. Pater eius natam sibi filiam more ceterorum professus est. tabulae eius partim tabulario publico partim domo adseruantur, quae iam tibi ob os obiciuntur. porrige tu Aemiliano tabulas istas: linum consideret, signa quae impressa sunt recognoscat, consules legat, annos computet, quos sexaginta mulieri adsignabat. probet quinque et quinquaginta: lustro mentitus sit. parum hoc est, liberalius agam,—nam et ipse Pudentillae multos annos largitus est, redonabo igitur uicissim decem annos— Mezentius cum Vlixe errauit: quinquaginta saltem annorum mulierem ostendat. quid multis? ut cum quadruplatore agam, bis duplum quinquennium faciam, uiginti annos semel detraham. iube, Maxime, consules computari: nisi fallor, inuenies nunc Pudentillae haud multo amplius quadragensimum annum aetatis ire. o falsum audax et nimium, o mendacium uiginti annorum exilio puniendum. dimidio tanta, Aemiliane, mentiris, falsa audes sesquealtera. si triginta annos pro decem dixisses, posses uideri computationis gestu errasse, quos circulare debueris digitos adgessisse. cum uero quadraginta, quae facilius ceteris porrecta palma significantur, ea quadraginta tu dimidio auges, non potes t digitorum gestu errasse, nisi forte triginta annorum Pudentillam ratus binos cuiusque anni consules numerasti.",
    "text": "De aetate uero Pudentillae, de qua post ista satis confidenter mentitus es, ut etiam sexaginta annos natam diceres nubsisse, de ea tibi paucis respondebo: nam non necesse est in re tam perspicua pluribus disputare. Pater eius natam sibi filiam more ceterorum professus est. tabulae eius partim tabulario publico partim domo adseruantur, quae iam tibi ob os obiciuntur. porrige tu Aemiliano tabulas istas: linum consideret, signa quae impressa sunt recognoscat, consules legat, annos computet, quos sexaginta mulieri adsignabat. probet quinque et quinquaginta: lustro mentitus sit. parum hoc est, liberalius agam,—nam et ipse Pudentillae multos annos largitus est, redonabo igitur uicissim decem annos— Mezentius cum Vlixe errauit: quinquaginta saltem annorum mulierem ostendat. quid multis? ut cum quadruplatore agam, bis duplum quinquennium faciam, uiginti annos semel detraham. iube, Maxime, consules computari: nisi fallor, inuenies nunc Pudentillae haud multo amplius quadragensimum annum aetatis ire. o falsum audax et nimium, o mendacium uiginti annorum exilio puniendum. dimidio tanta, Aemiliane, mentiris, falsa audes sesquealtera. si triginta annos pro decem dixisses, posses uideri computationis gestu errasse, quos circulare debueris digitos adgessisse. cum uero quadraginta, quae facilius ceteris porrecta palma significantur, ea quadraginta tu dimidio auges, non potes t digitorum gestu errasse, nisi forte triginta annorum Pudentillam ratus binos cuiusque anni consules numerasti.",
    "highlights": [
@@ -49019,7 +48917,7 @@
     "quadraginta, quae facilius ceteris porrecta palma significantur",
     "iube, Maxime, consules computari"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0972:phi001:44",
