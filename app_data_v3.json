@@ -139,7 +139,7 @@
     "Archyt"
    ],
    "tiers": "1",
-   "gloss": "Apol. 15: in defence of having a mirror — Archytas is mentioned alongside Epicurus among philosophers who used mirrors. Disciplinary-biographical.",
+   "gloss": "Apol. 15: in defence of having a mirror — Archytas is mentioned alongside Epicurus among philosophers who used mirrors. ",
    "latin": "Aut igitur unius Hagesilai Lacedaemonii sententia nobis sequenda est, qui se neque pingi neque fingi unquam diffidens formae suae passus est, aut si mos omnium ceterorum hominum retinendus uidetur in statuis et imaginibus non repudiandis, cur existimes imaginem suam cuique uisendam potius in lapide quam in argento, magis in tabula quam in speculo? an turpe arbitraris formam suam spectaculo assiduo explorare? an non Socrates philosophus ultro etiam suasisse fertur discipulis suis, crebro ut semet in speculo contemplarentur, ut qui eorum foret pulchritudine sibi complacitus impendio procuraret, ne dignitatem corporis malis moribus dedecoraret, qui uero minus se commendabilem forma putaret sedulo operam daret, ut uirtutis laude turpitudinem tegeret? adeo uir omnium sapientissimus speculo etiam ad disciplinam morum utebatur. Demost h enen uero, primarium dicendi artificem, quis est qui non sciat semper ante speculum quasi ante magistrum causas meditatum: ita ille summus orator cum a Platone philosopho facundiam h ausisset, ab Eubulide dialectico argumentationes edidicisset, nouissimam pronuntiandi congruentiam ab speculo petiuit. utrum igitur putas maiorem curam decoris in adseueranda oratione suscipiendam rhetori iurganti an philosopho obiurganti, apud iudices sorte ductos paulisper disceptanti an apud omnis homines semper disserenti, de finibus agrorum litiganti an de finibus bonorum et malorum docenti? quid, quod nec ob haec debet tantummodo philosophus speculum inuisere; nam saepe oportet non modo similitudinem suam, uerum etiam ipsius similitudinis rationem considerare: num, ut ait Epicurus, profectae a nobis imagines uelut quaedam exuuiae iugi fluore a corporibus manantes, cum leue aliquid et solidum offenderunt, illisae reflectantur et retro expressae contrauersim respondeant an, ut alii philosophi disputant, radii nostri seu mediis oculis proliquati et lumini extrario mixti atque ita uniti, ut Plato arbitratur, seu tantum oculis profecti sine ullo foris amminiculo, ut Archytas putat, seu intentu ae+ris f acti, ut Stoici rentur, cum alicui corpori inciderunt spisso et splendido et leui, paribus angulis quibus inciderant resultent ad faciem suam reduces atque ita, quod extra tangant ac uisant, id intra speculum imaginentur.",
    "strictness": "strict",
    "highlights": [
@@ -48504,7 +48504,7 @@
     "7.28.1-2",
     "7.28.2"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manual check"
   },
   {
    "id": "phi1017:phi017:7.28.2",
@@ -48708,7 +48708,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Catullus 5.7-13** — the famous *basia mille* counting passage. Sequential addition of kisses (mille + centum + mille altera + secunda centum + altera mille + centum) culminating in deliberate accounting-confusion: \"Dein, cum milia multa fecerimus, conturbabimus illa, ne sciamus.\" The verb *conturbare* is the technical term for confusing accounts (or going bankrupt) and reads against the calculus-and-tabula world of practical Roman arithmetic. Quintessential AgRoMa-frame passage: Roman lyric using the structures of counting and accounting as material for love poetry.",
+   "gloss": "**Catullus 5.7-13** —  famous *basia mille* counting passage. ",
    "latin": "da mi basia mille, deinde centum,\ndein mille altera, dein secunda centum,\ndeinde usque altera mille, deinde centum,\ndein, cum milia multa fecerimus,\nconturbabimus illa, ne sciamus,\naut ne quis malus invidere possit,\ncum tantum sciat esse basiorum.",
    "text": "da mi basia mille, deinde centum,\ndein mille altera, dein secunda centum,\ndeinde usque altera mille, deinde centum,\ndein, cum milia multa fecerimus,\nconturbabimus illa, ne sciamus,\naut ne quis malus invidere possit,\ncum tantum sciat esse basiorum.",
    "highlights": [
@@ -48717,7 +48717,7 @@
     "deinde usque altera mille, deinde centum",
     "cum tantum sciat esse basiorum"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manual check"
   },
   {
    "id": "phi0690:phi001:3.40-42",
