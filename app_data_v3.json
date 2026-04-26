@@ -1289,7 +1289,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "quant-astro",
+   "strictness": "loose",
    "highlights": [
     "γεωγραφικὰ quae constitueram magnum"
    ],
@@ -2061,8 +2061,7 @@
     "biographical-educational",
     "prose-rhythm",
     "liberal-arts",
-    "geometry",
-    "arithmetic"
+    "geometry"
    ],
    "figures": [],
    "search_terms": [
@@ -7863,7 +7862,6 @@
    "verdict": "KEEP",
    "substantive": "Y",
    "topics": [
-    "arithmetic",
     "astronomy",
     "geometry",
     "harmonics",
@@ -8969,7 +8967,6 @@
    "verdict": "KEEP*",
    "substantive": "Y",
    "topics": [
-    "arithmetic",
     "liberal-arts",
     "geometry"
    ],
@@ -10990,7 +10987,6 @@
    "verdict": "KEEP",
    "substantive": "Y",
    "topics": [
-    "arithmetic",
     "geometry",
     "mensuration",
     "prose-rhythm"
@@ -12015,7 +12011,6 @@
    "verdict": "KEEP",
    "substantive": "Y",
    "topics": [
-    "arithmetic",
     "geometry",
     "mensuration"
    ],
@@ -18155,7 +18150,7 @@
    "tiers": "2",
    "gloss": "NA 15.9 argument: same. CLUSTER with 15.9.4.",
    "latin": "Argument Quod Caecilius poeta frontem genere virili non poetice, sed cum probatione et cum analogia appellavit.",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -28546,7 +28541,6 @@
    "substantive": "Y",
    "topics": [
     "geometry",
-    "arithmetic",
     "liberal-arts",
     "mensuration"
    ],
@@ -28665,8 +28659,7 @@
    "substantive": "Y",
    "topics": [
     "geometry",
-    "mensuration",
-    "arithmetic"
+    "mensuration"
    ],
    "figures": [],
    "search_terms": [
@@ -31074,8 +31067,7 @@
    "verdict": "KEEP",
    "substantive": "Y",
    "topics": [
-    "prose-rhythm",
-    "arithmetic"
+    "prose-rhythm"
    ],
    "figures": [],
    "search_terms": [
@@ -31206,8 +31198,7 @@
    "verdict": "CLUSTER",
    "substantive": "N",
    "topics": [
-    "prose-rhythm",
-    "arithmetic"
+    "prose-rhythm"
    ],
    "figures": [],
    "search_terms": [
