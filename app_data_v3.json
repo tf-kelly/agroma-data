@@ -19816,10 +19816,10 @@
     "Archyt"
    ],
    "tiers": "1",
-   "gloss": "Horace Carm. 1.28.2: opens the famous **Archytas Ode** — addressing Archytas as \"mensorem cohibent\" — the measurer of land and sea who himself is now confined to a small heap of earth. Substantive Latin reception of Archytas as mathematician-cosmographer. (CLUSTER with the broader poem 1.28 — this is line 2.)",
+   "gloss": "Horace Carm. 1.28.2:  addressing Archytas as  the measurer of land and sea who himself is now confined to a small heap of earth. ",
    "latin": "mensorem cohibent, Archyta,",
    "strictness": "strict",
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0893:phi001:3.2",
@@ -20252,7 +20252,7 @@
     "dimens"
    ],
    "tiers": "2",
-   "gloss": "**BG 4.17.3**: **Rhine bridge construction** — \"Tigna bina sesquipedalia paulum ab imo praeacuta dimensa ad altitudinem fluminis intervallo pedum duorum\". Substantive engineering-mathematics.",
+   "gloss": "**BG 4.17.3**: **Rhine bridge construction** (as mathematics for engineering)",
    "latin": "Rationem pontis hanc instituit. Tigna bina sesquipedalia paulum ab imo praeacuta dimensa ad altitudinem fluminis intervallo pedum duorum inter se iungebat.",
    "strictness": "strict",
    "highlights": [
@@ -20372,7 +20372,7 @@
    "tiers": "1",
    "gloss": "**Caesar BG 6.24.2**: **Eratosthenes named as authority on the Hercynian Forest** (\"Eratostheni et quibusdam Graecis fama notam esse video\"). The only Eratosthenes-by-name reference in Caesar; treats him as a geographer/cosmographer.",
    "latin": "Itaque ea quae fertilissima Germaniae sunt loca circum Hercyniam silvam, quam Eratostheni et quibusdam Graecis fama notam esse video, quam illi Orcyniam appellant, Volcae Tectosages occupaverunt atque ibi consederunt;",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Hercyniam silvam, quam Eratostheni et quibusdam Graecis fama notam esse video",
     "Orcyniam appellant"
@@ -48662,7 +48662,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Plautus Miles Gloriosus 2.2.200-214** — Periplectomenus describes Palaestrio thinking aloud about a stratagem: \"**dextera digitis rationem computat, ferit femur** / dexterum\" (line 204-205) — RIGHT hand counts the calculation on fingers, slaps the right thigh; \"**concrepuit digitis: laborat**\" (206) — snaps fingers, struggling. Earliest sustained literary depiction of Roman finger-counting: right-hand for the high places (cf. Quintilian on the orator's digital gestures, Juvenal 10.249 on Nestor counting on the right hand). Major source.",
+   "gloss": "**Plautus Miles Gloriosus 2.2.200-214**: finger counting",
    "latin": "[2.2.200] Quaere: ego hinc abscessero aps te huc interim. illuc sis vide,\n[2.2.201] quem ad modum adstitit, severo fronte curans cogitans.\n[2.2.202] pectus digitis pultat, cor credo evocaturust foras;\n[2.2.203] ecce avortit: nixus laevo in femine habet laevam manum,\n[2.2.204] dextera digitis rationem computat, ferit femur\n[2.2.205] dexterum. ita vehementer icit: quod agat aegre suppetit.\n[2.2.206] concrepuit digitis: laborat; crebro commutat status,\n[2.2.207] eccere autem capite nutat: non placet quod repperit.\n[2.2.208] quidquid est, incoctum non expromet, bene coctum dabit.\n[2.2.209] ecce autem aedificat: columnam mento suffigit suo.\n[2.2.210] apage, non placet profecto mi illaec aedificatio;\n[2.2.211] nam os columnatum poetae esse indaudivi barbaro,\n[2.2.212] cui bini custodes semper totis horis occubant.\n[2.2.213] euge, euscheme hercle astitit et dulice et comoedice;\n[2.2.214] numquam hodie quiescet prius quam id quod petit perfecerit.",
    "text": "[2.2.200] Quaere: ego hinc abscessero aps te huc interim. illuc sis vide,\n[2.2.201] quem ad modum adstitit, severo fronte curans cogitans.\n[2.2.202] pectus digitis pultat, cor credo evocaturust foras;\n[2.2.203] ecce avortit: nixus laevo in femine habet laevam manum,\n[2.2.204] dextera digitis rationem computat, ferit femur\n[2.2.205] dexterum. ita vehementer icit: quod agat aegre suppetit.\n[2.2.206] concrepuit digitis: laborat; crebro commutat status,\n[2.2.207] eccere autem capite nutat: non placet quod repperit.\n[2.2.208] quidquid est, incoctum non expromet, bene coctum dabit.\n[2.2.209] ecce autem aedificat: columnam mento suffigit suo.\n[2.2.210] apage, non placet profecto mi illaec aedificatio;\n[2.2.211] nam os columnatum poetae esse indaudivi barbaro,\n[2.2.212] cui bini custodes semper totis horis occubant.\n[2.2.213] euge, euscheme hercle astitit et dulice et comoedice;\n[2.2.214] numquam hodie quiescet prius quam id quod petit perfecerit.",
    "highlights": [
@@ -48671,7 +48671,7 @@
     "dextera digitis rationem computat, ferit femur",
     "concrepuit digitis: laborat"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0893:phi004:1.6.70-79",
@@ -48700,7 +48700,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Horace Saturae 1.6.70-79** — Horace describes Roman schoolboys with their *loculi* and *tabula* slung on the left arm: \"**laevo suspensi loculos tabulamque lacerto**\" (1.6.74). The standard equipment of elementary Roman education: a case for stylus + writing-materials, and a counting-board. Father-son educational scene, embedded in Horace's autobiographical defense of his upbringing.",
+   "gloss": "**Horace Saturae 1.6.70-79** Horace describes Roman schoolboys with their *loculi* and *tabula* slung on the left arm: \"",
    "latin": "[Sat. 1.6.70] ut me collaudem, si et vivo carus amicis,\n[Sat. 1.6.71] causa fuit pater his; qui macro pauper agello\n[Sat. 1.6.72] noluit in Flavi ludum me mittere, magni\n[Sat. 1.6.73] quo pueri magnis e centurionibus orti\n[Sat. 1.6.74] laevo suspensi loculos tabulamque lacerto\n[Sat. 1.6.75] ibant octonos referentes Idibus aeris,\n[Sat. 1.6.76] sed puerum est ausus Romam portare docendum\n[Sat. 1.6.77] artis quas doceat quivis eques atque senator\n[Sat. 1.6.78] semet prognatos. vestem servosque sequentis,",
    "text": "[Sat. 1.6.70] ut me collaudem, si et vivo carus amicis,\n[Sat. 1.6.71] causa fuit pater his; qui macro pauper agello\n[Sat. 1.6.72] noluit in Flavi ludum me mittere, magni\n[Sat. 1.6.73] quo pueri magnis e centurionibus orti\n[Sat. 1.6.74] laevo suspensi loculos tabulamque lacerto\n[Sat. 1.6.75] ibant octonos referentes Idibus aeris,\n[Sat. 1.6.76] sed puerum est ausus Romam portare docendum\n[Sat. 1.6.77] artis quas doceat quivis eques atque senator\n[Sat. 1.6.78] semet prognatos. vestem servosque sequentis,",
    "highlights": [
