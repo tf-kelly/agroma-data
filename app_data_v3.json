@@ -1139,7 +1139,7 @@
     "geometr*"
    ],
    "tiers": "1,2",
-   "gloss": "**Acad. 1.6**: **\"adhibenda etiam geometria est\"** — Stoic physical doctrine, says Cicero, requires geometric demonstration to handle \"the matter shaped by efficient cause\". Brief but programmatic on the role of mathematics in physics.",
+   "gloss": "**Acad. 1.6**: **\"adhibenda etiam geometria est\"**: Stoic physical doctrine requires geometric demonstration ",
    "latin": "Iam vero physica, si Epicurum id est si Democritum probarem, possem scribere ita plane ut Amafinius. quid est enim magnum, cum causas rerum efficientium sustuleris, de corpusculorum (ita enim appellat atomos) concursione fortuita loqui? nostra tu physica nosti; quae cum contineantur ex effectione et ex materia ea quam fingit et format effectio, adhibenda etiam geometria est; quam quibusnam quisquam enuntiare verbis aut quem ad intellegendum poterit adducere? Haec ipsa de vita et moribus et de expetendis fugiendisque rebus illi simpliciter, pecudis enim et hominis idem bonum esse censent; apud nostros autem non ignoras quae sit et quanta subtilitas.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -1490,7 +1490,7 @@
     "Greek 'Ἀρχιμήδειον'"
    ],
    "tiers": "letter",
-   "gloss": "'sed de Catone πρόβλημα Ἀρχιμήδειον est' — \"writing about Cato is an Archimedean problem\". Cicero's famous metaphor: writing the eulogy of Cato while Caesar lives is mathematically intractable. A direct, substantive reference to Archimedes. **Missed by the Tier 1 search because the name appears in Greek script.**",
+   "gloss": "'sed de Catone πρόβλημα Ἀρχιμήδειον est': writing about Cato is an Archimedean problem\". ",
    "latin": "sed de Catone πρόβλημα Ἀρχιμήδειον est. non adsequor ut scribam quod tui convivae non modo libenter sed etiam aequo animo legere possint; quin etiam si a sententiis eius dictis, si ab omni voluntate consiliisque quae de re publica habuit recedam ψιλῶσque velim gravitatem constantiamque eius laudare, hoc ipsum tamen istis odiosum ἄκουσμα sit. sed vere laudari ille vir non potest nisi haec ornata sint, quod ille ea quae nunc sunt et futura viderit et ne fierent contenderit et facta ne videret vitam reliquerit. horum quid est quod Aledio probare possimus? sed cura, obsecro, ut valeas eamque quam ad omnis res adhibes in primis ad convalescendum adhibe prudentiam.",
    "english": "**'Πρόβλημα Ἀρχιμήδειον'.** Cicero on the impossible commission of writing a eulogy of Cato while Caesar lives: 'about Cato it is an Archimedean problem'. The mathematical metaphor, in Greek, for an intractable difficulty. The most famous mathematical figure of speech in the Ciceronian correspondence.",
    "highlight": true,
@@ -1519,7 +1519,7 @@
     "Greek 'γεωμετρικῶς'"
    ],
    "tiers": "letter",
-   "gloss": "'sed tu me γεωμετρικῶς refelleras, te autem nunc Brutus et Fannius' — \"but you had refuted me geometrically; now Brutus and Fannius do it to you\". Geometric proof as the gold standard of refutation. **Missed because of Greek script.**",
+   "gloss": "'sed tu me γεωμετρικῶς refelleras, te autem nunc Brutus et Fannius': Geometric proof as the gold standard of refutation. ",
    "latin": "Tubulum praetorem video L. Metello Q. Maximo consulibus. nunc velim P. Scaevola, pontifex maximus, quibus consulibus tribunus pl. equidem puto proximis, Caepione et Pompeio; praetor enim L. Furio Sex. Atilio. dabis igitur tribunatum et, si poteris, Tubulus quo crimine. et vide, quaeso, L. Libo, ille qui de Ser. Galba, Censorinone et Manilio an T. Quinctio M'. Acilio consulibus tribunus pl. fuerit. conturbabat enim me epitome Bruti Fanniana, in Bruti epitoma Fannianorum scripsi quod erat in extremo, idque ego secutus hunc Fannium qui scripsit historiam generum esse scripseram Laeli. sed tu me γεωμετρικῶσ refelleras, te autem nunc Brutus et Fannius. ego tamen de bono auctore Hortensio sic acceperam ut apud Brutum est. hunc igitur locum expedies.",
    "english": "**'Γεωμετρικῶς refelleras'.** Cicero acknowledges to Atticus that 'you had refuted me geometrically' — geometric refutation as the standard for rigorous demonstration. A second Greek-script mathematical metaphor in this circle of letters.",
    "highlight": true,
@@ -1604,7 +1604,7 @@
     "arithmetic*"
    ],
    "tiers": "1",
-   "gloss": "**Att. 14.12.3**: **Vestorius \"in arithmeticis satis exercitatum\"** — described as well-practised in arithmetic. Direct biographical reference to mathematical accomplishment. The only direct Latin use of *arithmetica* as a personal accomplishment.",
+   "gloss": "**Att. 14.12.3**: **Vestorius \"in arithmeticis satis exercitatum\"**: described as well-practised in arithmetic. ",
    "latin": "quam dudum nihil habeo quod ad te scribam! scribo tamen non ut delectem his litteris sed ut eliciam tuas. tu si quid erit de ceteris, de Bruto utique quicquid. haec conscripsi x Kal. accubans apud Vestorium, hominem remotum a dialecticis, in arithmeticis satis exercitatum.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -1715,7 +1715,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "kata\\ *dio/dwron kri/nein",
     "Chrysippi an haec, quam noster Diodotus non concoquebat"
@@ -2067,7 +2067,7 @@
     "ratio"
    ],
    "tiers": "1,3",
-   "gloss": "**Brutus 175**: **Sex. Pompeius Sex. F.** distinguished by combining \"iuris civilis et ad **perfectam geometriae** et rerum Stoicarum scientiam\" — a Roman noble who attained perfection in geometry. Substantive biographical-disciplinary.",
+   "gloss": "**Brutus 175**: **Sex. Pompeius Sex. F.** distinguished by combining 'iuris civilis et ad **perfectam geometriae** et rerum Stoicarum scientiam'",
    "latin": "multum etiam in causis versabatur isdem fere temporibus D. Brutus, is qui consul cum Mamerco fuit, homo et Graecis doctus litteris et Latinis. Dicebat etiam L. Scipio non imperite Gnaeusque Pompeius Sex. F. aliquem numerum obtinebat. Nam Sex. frater eius praestantissimum ingenium contulerat ad summam iuris civilis et ad perfectam geometriae et rerum Stoicarum scientiam. †Item in iure et ante hos M. Brutus et paulo post eum C. Billienus homo per se magnus prope simili ratione summus evaserat; qui consul factus esset, nisi in Marianos consulatus et in eas petitionis angustias incidisset.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -2267,7 +2267,7 @@
    "tiers": [
     1
    ],
-   "gloss": "**De Div. 1.23**: Cicero (recording Quintus's argument) deploys the earliest extant Latin probabilistic argument — \"Quattuor tali iacti casu Venerium efficiunt; num etiam centum Venerios, si quadringentos talos ieceris, casu futuros putas?\" Four dice cast at once produce a Venus-throw by chance; could 100 Venus-throws result by chance from 400 dice? Followed by the \"A litteram\" argument: a pig pressing an A into the ground would not thereby write Ennius's *Andromache*. Substantive probabilistic-mathematical reasoning against attributing ordered outcomes to pure chance.",
+   "gloss": "**De Div. 1.23**: Cicero (recording Quintus's argument) deploys probabilistic argument — \"Quattuor tali iacti casu Venerium efficiunt; num etiam centum Venerios, si quadringentos talos ieceris, casu futuros putas?\" Four dice cast at once produce a Venus-throw by chance; could 100 Venus-throws result by chance from 400 dice? ",
    "latin": "Quid? quaeris, Carneades, cur haec ita fiant aut qua arte perspici possint? Nescire me fateor, evenire autem te ipsum dico videre. Casu, inquis. Itane vero? quicquam potest casu esse factum, quod omnes habet in se numeros veritatis? Quattuor tali iacti casu Venerium efficiunt; num etiam centum Venerios, si quadringentos talos ieceris, casu futuros putas? Aspersa temere pigmenta in tabula oris liniamenta efficere possunt; num etiam Veneris Coae pulchritudinem effici posse aspersione fortuita putas? Sus rostro si humi A litteram inpresserit, num propterea suspicari poteris Andromacham Ennii ab ea posse describi? Fingebat Carneades in Chiorum lapicidinis saxo diffisso caput extitisse Panisci; credo, aliquam non dissimilem figuram, sed certe non talem, ut eam factam a Scopa diceres. Sic enim se profecto res habet, ut numquam perfecte veritatem casus imitetur.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -2755,7 +2755,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Solis defectiones itemque lunae praedicuntur in multos annos",
     "siderum motus numeris persequuntur",
@@ -2968,7 +2968,7 @@
    "latin": "Ad Chaldaeorum monstra veniamus; de quibus Eudoxus, Platonis auditor, in astrologia iudicio doctissimorum hominum facile princeps, sic opinatur, id quod scriptum reliquit, Chaldaeis in praedictione et in notatione cuiusque vitae ex natali die minime esse credendum.",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Eudoxus, Platonis auditor",
     "in astrologia iudicio doctissimorum hominum facile princeps",
@@ -2998,7 +2998,7 @@
    "latin": "Nominat etiam Panaetius, qui unus e Stoicis astrologorum praedicta reiecit, Anchialum et Cassandrum, summos astrologos illius aetatis, qua erat ipse, cum in ceteris astrologiae partibus excellerent, hoc praedictionis genere non usos. Scylax Halicarnassius, familiaris Panaetii, excellens in astrologia idemque in regenda sua civitate princeps, totum hoc Chaldaicum praedicendi genus repudiavit.",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Panaetius, qui unus e Stoicis astrologorum praedicta reiecit",
     "Anchialum et Cassandrum, summos astrologos illius aetatis",
@@ -3069,7 +3069,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Chaldaeis quasi quadam praevaricatione concedit"
    ],
@@ -3302,7 +3302,7 @@
     "geometr*"
    ],
    "tiers": "1",
-   "gloss": "**Div. 2.122**: **geometry as a domain requiring formal instruction** — \"aut geometricum quiddam aut physicum aut dialecticum explicare\"; not the kind of thing that comes through dreams. Brief but methodologically important.",
+   "gloss": "**Div. 2.122**: **geometry as a domain requiring formal instruction** — \"aut geometricum quiddam aut physicum aut dialecticum explicare\"; ",
    "latin": "Quodsi ita natura paratum esset, ut ea dormientes agerent, quae somniarent, alligandi omnes essent, qui cubitum irent; maiores enim quam ulli insani efficerent motus somniantes. Quodsi insanorum visis fides non est habenda, quia falsa sunt, cur credatur somniantium visis, quae multo etiam perturbatiora sunt, non intellego; an quod insani sua visa coniectori non narrant, narrant, qui somniaverunt? Quaero etiam, si velim scribere quid aut legere aut canere vel voce vel fidibus aut geometricum quiddam aut physicum aut dialecticum explicare, somniumne exspectandum sit an ars adhibenda; sine qua nihil earum rerum nec fieri nec expediri potest. Atqui, ne si navigare quidem velim, ita gubernem, ut somniaverim; praesens enim poena sit.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -3500,7 +3500,7 @@
    "latin": "Sint igitur astrologorum percepta huius modi: Si quis verbi causa oriente Canicula natus est, is in mari non morietur. Vigila, Chrysippe, ne tuam causam, in qua tibi cum Diodoro, valente dialectico, magna luctatio est, deseras. Si enim est verum, quod ita conectitur: Si quis oriente Canicula natus est, in mari non morietur, illud quoque verum est: Si Fabius oriente Canicula natus est, Fabius in mari non morietur. Pugnant igitur haec inter se, Fabium oriente Canicula natum esse, et Fabium in mari moriturum; et quoniam certum in Fabio ponitur, natum esse eum Canicula oriente, haec quoque pugnant, et esse Fabium, et in mari esse moriturum. Ergo haec quoque coniunctio est ex repugnantibus: Et est Fabius, et in mari Fabius morietur, quod, ut propositum est, ne fieri quidem potest. Ergo illud: Morietur in mari Fabius ex eo genere est, quod fieri non potest. Omne ergo, quod falsum dicitur in futuro, id fieri non potest.",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Si quis verbi causa oriente Canicula natus est",
     "is in mari non morietur",
@@ -3532,7 +3532,7 @@
     "sphaer*"
    ],
    "tiers": "1,2",
-   "gloss": "Geometers' disjunction: 'In sphaera maximi orbes medii inter se dividuntur' — in a sphere, the great circles bisect each other. A specific geometric theorem cited as paradigm of mathematical truth.",
+   "gloss": " 'In sphaera maximi orbes medii inter se dividuntur' — in a sphere, the great circles bisect each other.",
    "latin": "Hoc loco Chrysippus aestuans falli sperat Chaldaeos ceterosque divinos, neque eos usuros esse coniunctionibus, ut ita sua percepta pronuntient: Si quis natus est oriente Canicula, is in mari non morietur, sed potius ita dicant: Non et natus est quis oriente Canicula, et is in mari morietur. O licentiam iocularem! ne ipse incidat in Diodorum, docet Chaldaeos, quo pacto eos exponere percepta oporteat. Quaero enim, si Chaldaei ita loquantur, ut negationes infinitarum coniunctionum potius quam infinita conexa ponant, cur idem medici, cur geometrae, cur reliqui facere non possint. Medicus in primis, quod erit ei perspectum in arte, non ita proponet: Si cui venae sic moventur, is habet febrim, sed potius illo modo: Non et venae sic cui moventur, et is febrim non habet. Itemque geometres non ita dicet: In sphaera maximi orbes medii inter se dividuntur, sed potius illo modo: Non et sunt in sphaera maximi orbes, et ii non medii inter se dividuntur.",
    "english": "Diodorus's argument: that 'whatever has happened or is happening or will happen' is necessary, by the same kind of inference geometers use to demonstrate the sphere or any other figure — Cicero credits Diodorus with an attempt at mathematical-style necessity in modal logic.",
    "highlight": true,
@@ -3540,7 +3540,6 @@
    "author_id": "phi0474",
    "strictness": "strict",
    "highlights": [
-    "Si quis natus est oriente Canicula, is in mari non morietur",
     "In sphaera maximi orbes medii inter se dividuntur"
    ],
    "provenance": "verified-from-source-parse"
@@ -3565,16 +3564,16 @@
     "sphaer*"
    ],
    "tiers": "1",
-   "gloss": "**De Fato 16**: **\"in sphaera maximi orbes medii inter se dividuntur\"** — the geometric theorem that great circles on a sphere bisect each other. A genuine theorem stated in Latin as illustrative example, with reformulation in different propositional forms (\"Si in sphaera maximi orbes erunt...\"). Substantive on geometry-logic.",
+   "gloss": "**De Fato 16**: **\"in sphaera maximi orbes medii inter se dividuntur\"** ",
    "latin": "Quid est, quod non possit isto modo ex conexo transferri ad coniunctionum negationem? Et quidem aliis modis easdem res efferre possumus. Modo dixi: In sphaera maximi orbes medii inter se dividuntur; possum dicere: Si in sphaera maximi orbes erunt, possum dicere: Quia in sphaera maximi orbes erunt. Multa genera sunt enuntiandi nec ullum distortius quam hoc, quo Chrysippus sperat Chaldaeos contentos Stoicorum causa fore.",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "In sphaera maximi orbes medii inter se dividuntur",
     "Si in sphaera maximi orbes erunt"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0474:phi054:22",
@@ -3601,7 +3600,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "declinat atomus intervallo minimo",
     "id appellat e)la/- xiston",
@@ -48591,7 +48590,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Catullus 5.7-13** — the famous *basia mille* counting passage. Sequential addition of kisses (mille + centum + mille altera + secunda centum + altera mille + centum) culminating in deliberate accounting-confusion: \"Dein, cum milia multa fecerimus, conturbabimus illa, ne sciamus.\" The verb *conturbare* is the technical term for confusing accounts (or going bankrupt) and reads against the calculus-and-tabula world of practical Roman arithmetic. Quintessential AgRoMa-frame passage: Roman lyric using the structures of counting and accounting as material for love poetry.",
+   "gloss": "**Catullus 5.7-13**:  *basia mille* counting passage. ",
    "latin": "da mi basia mille, deinde centum,\ndein mille altera, dein secunda centum,\ndeinde usque altera mille, deinde centum,\ndein, cum milia multa fecerimus,\nconturbabimus illa, ne sciamus,\naut ne quis malus invidere possit,\ncum tantum sciat esse basiorum.",
    "text": "da mi basia mille, deinde centum,\ndein mille altera, dein secunda centum,\ndeinde usque altera mille, deinde centum,\ndein, cum milia multa fecerimus,\nconturbabimus illa, ne sciamus,\naut ne quis malus invidere possit,\ncum tantum sciat esse basiorum.",
    "highlights": [
@@ -49186,7 +49185,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Augustine De Civitate Dei 11.29**: what angels know directly vs. what humans know by indirect inference; \"**aliter scitur rectitudo linearum seu veritas figurarum, cum intellecta conspicitur, aliter cum in puluere scribitur**\": the straightness of lines, or the truth of figures, is known one way when it is beheld with the intellect, another way when it is written in the dust.  *pulvis*-board of geometric demonstration (cf. Persius 1.131 \"abaco numeros et secto in pulvere metas\"; Apuleius *Apol.* 16 \"abaco et puluisculo\").",
+   "gloss": "**Augustine De Civitate Dei 11.29**: \"**aliter scitur rectitudo linearum seu veritas figurarum, cum intellecta conspicitur, aliter cum in puluere scribitur**\": the straightness of lines, or the truth of figures, is known one way when it is beheld with the intellect, another way when it is written in the dust.  *pulvis*-board of geometric demonstration (cf. Persius 1.131 \"abaco numeros et secto in pulvere metas\"; Apuleius *Apol.* 16 \"abaco et puluisculo\").",
    "latin": "Illi quippe angeli sancti non per uerba sonantia Deum discunt, sed per ipsam praesentiam inmutabilis ueritatis, hoc est Verbum eius unigenitum, et ipsum Verbum et Patrem et eorum Spiritum sanctum, eamque esse inseparabilem trinitatem singulasque in ea personas esse substantiam, et tamen omnes non tres deos esse, sed unum Deum, ita nouerunt, ut eis magis ista, quam nos ipsi nobis cogniti simus. Multum enim differt, utrum in ea ratione cognoscatur aliquid, secundum quam factum est, an in se ipso; sicut aliter scitur rectitudo linearum seu veritas figurarum, cum intellecta conspicitur, aliter cum in puluere scribitur; et aliter iustitia in ueritate incommutabili, aliter in anima iusti.",
    "text": "Illi quippe angeli sancti non per uerba sonantia Deum discunt, sed per ipsam praesentiam inmutabilis ueritatis, hoc est Verbum eius unigenitum, et ipsum Verbum et Patrem et eorum Spiritum sanctum, eamque esse inseparabilem trinitatem singulasque in ea personas esse substantiam, et tamen omnes non tres deos esse, sed unum Deum, ita nouerunt, ut eis magis ista, quam nos ipsi nobis cogniti simus. Multum enim differt, utrum in ea ratione cognoscatur aliquid, secundum quam factum est, an in se ipso; sicut aliter scitur rectitudo linearum seu veritas figurarum, cum intellecta conspicitur, aliter cum in puluere scribitur; et aliter iustitia in ueritate incommutabili, aliter in anima iusti.",
    "highlights": [
@@ -49222,7 +49221,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Augustine De Civitate Dei 11.30** — the canonical Christian-mathematical exposition of the **perfect number 6**. \"**Numerus quippe senarius primus completur suis partibus, id est sexta sui parte et tertia et dimidia, quae sunt unum et duo et tria, quae in summam ducta sex fiunt**\" — six is the first number completed by its parts: its sixth (1) + third (2) + half (3) = 6. Augustine lays out the parallel arithmetic of 9, 10, 12 to show why 6 is uniquely perfect. Closes with the foundational scriptural authority for medieval-mathematical thought: \"**Omnia in mensura et numero et pondere disposuisti**\" (Wisdom 11:21). The single most-cited Augustine passage on number-theory.",
+   "gloss": "**Augustine De Civitate Dei 11.30**: the **perfect number 6**. ",
    "latin": "Haec autem propter senarii numeri perfectionem eodem die sexiens repetito sex diebus perfecta narrantur, non quia Deo fuerit necessaria mora temporum, quasi qui non potuerit creare omnia simul, quae deinceps congruis motibus peragerent tempora; sed quia per senarium numerum est operum significata perfectio. Numerus quippe senarius primus completur suis partibus, id est sexta sui parte et tertia et dimidia, quae sunt unum et duo et tria, quae in summam ducta sex fiunt. Partes autem in hac consideratione numerorum illae intellegendae sunt, quae quotae sint dici potest; sicut dimidia, tertia, quarta et deinceps ab aliquo numero denominatae. Neque enim exempli gratia quia in nouenario numero quattuor pars aliqua eius est, ideo dici potest quota eius sit; unum autem potest, nam nona eius est; et tria potest, nam tertia eius est. Coniunctae uero istae duae partes eius, nona scilicet atque tertia, id est unum et tria, longe sunt a tota summa eius, quod est nouem. Itemque in denario quaternarius est aliqua pars eius; sed quota sit dici non potest; unum autem potest; nam decima pars eius est. Habet et quintam, quod sunt duo; habet et dimidiam, quod sunt quinque. Sed hae tres partes eius, decima et quinta et dimidia, id est unum et duo et quinque, simul ductae non complent decem; sunt enim octo. Duodenarii uero numeri partes in summam ductae transeunt eum; habet enim duodecimam, quod est unum; habet sextam, quae sunt duo; habet quartam, quae sunt tria; habet tertiam, quae sunt quattuor; habet et dimidiam, quae sunt sex; unum autem et duo et tria et quattuor et sex non duodecim, sed amplius, id est sedecim, fiunt. Hoc breuiter commemorandum putaui ad commendandam senarii numeri perfectionem, qui primus, ut dixi, partibus suis in summam redactis ipse perficitur; in quo perfecit Deus opera sua. Vnde ratio numeri contemnenda non est, quae in multis sanctarum scripturarum locis quam magni aestimanda sit elucet diligenter intuentibus. Nec frustra in laudibus Dei dictum est: Omnia in mensura et numero et pondere disposuisti.",
    "text": "Haec autem propter senarii numeri perfectionem eodem die sexiens repetito sex diebus perfecta narrantur, non quia Deo fuerit necessaria mora temporum, quasi qui non potuerit creare omnia simul, quae deinceps congruis motibus peragerent tempora; sed quia per senarium numerum est operum significata perfectio. Numerus quippe senarius primus completur suis partibus, id est sexta sui parte et tertia et dimidia, quae sunt unum et duo et tria, quae in summam ducta sex fiunt. Partes autem in hac consideratione numerorum illae intellegendae sunt, quae quotae sint dici potest; sicut dimidia, tertia, quarta et deinceps ab aliquo numero denominatae. Neque enim exempli gratia quia in nouenario numero quattuor pars aliqua eius est, ideo dici potest quota eius sit; unum autem potest, nam nona eius est; et tria potest, nam tertia eius est. Coniunctae uero istae duae partes eius, nona scilicet atque tertia, id est unum et tria, longe sunt a tota summa eius, quod est nouem. Itemque in denario quaternarius est aliqua pars eius; sed quota sit dici non potest; unum autem potest; nam decima pars eius est. Habet et quintam, quod sunt duo; habet et dimidiam, quod sunt quinque. Sed hae tres partes eius, decima et quinta et dimidia, id est unum et duo et quinque, simul ductae non complent decem; sunt enim octo. Duodenarii uero numeri partes in summam ductae transeunt eum; habet enim duodecimam, quod est unum; habet sextam, quae sunt duo; habet quartam, quae sunt tria; habet tertiam, quae sunt quattuor; habet et dimidiam, quae sunt sex; unum autem et duo et tria et quattuor et sex non duodecim, sed amplius, id est sedecim, fiunt. Hoc breuiter commemorandum putaui ad commendandam senarii numeri perfectionem, qui primus, ut dixi, partibus suis in summam redactis ipse perficitur; in quo perfecit Deus opera sua. Vnde ratio numeri contemnenda non est, quae in multis sanctarum scripturarum locis quam magni aestimanda sit elucet diligenter intuentibus. Nec frustra in laudibus Dei dictum est: Omnia in mensura et numero et pondere disposuisti.",
    "highlights": [
@@ -49230,7 +49229,7 @@
     "sexta sui parte et tertia et dimidia, quae sunt unum et duo et tria",
     "Omnia in mensura et numero et pondere disposuisti"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manual"
   },
   {
    "id": "stoa0040:civ:11.31",
@@ -49256,7 +49255,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Augustine De Civitate Dei 11.31** — companion to 11.30 on the perfection of 7: \"**totus inpar primus numerus ternarius est, totus par quaternarius; ex quibus duobus septenarius constat**\" — the first whole-odd is 3, the first whole-even is 4; from these two, 7 is composed. Augustine argues that 7 stands for universality (citing Septiens cadet iustus, Septiens in die laudabo te, etc.). Closes the perfect-numbers discussion of book 11 with a self-aware caveat that he must not over-indulge in numerological argument: \"**ne forte, cum de numero multum loquimur, mensuram et pondus neglegere iudicemur**\".",
+   "gloss": "**Augustine De Civitate Dei 11.31** ",
    "latin": "In septimo autem die, id est eodem die septiens repetito, qui numerus etiam ipse alia ratione perfectus est, Dei requies commendatur, in qua primum sanctificatio sonat. Ita Deus noluit istum diem in ullis suis operibus sanctificare, sed in requie sua, quae non habet uesperam; neque enim ulla creatura est, ut etiam ipsa aliter in Dei Verbo, aliter in se cognita faciat aliam uelut diurnam, aliam uelut uespertinam notitiam. De septenarii porro numeri perfectione dici quidem plura possunt; sed et liber iste iam prolixus est, et uereor ne occasione comperta scientiolam nostram leuiter magis quam utiliter iactare uelle uideamur. Habenda est itaque ratio moderationis atque grauitatis, ne forte, cum de numero multum loquimur, mensuram et pondus neglegere iudicemur. Hoc itaque satis sit admonere, quod totus inpar primus numerus ternarius est, totus par quaternarius; ex quibus duobus septenarius constat. Ideo pro uniuerso saepe ponitur, sicuti est: Septiens cadet iustus, et resurget; id est: Quotienscumque ceciderit, non peribit; quod non de iniquitatibus, sed de tribulationibus ad humilitatem perducentibus intellegi uoluit; et: Septiens in die laudabo te; quod alibi alio modo dictum est: Semper laus eius in ore meo; et multa huius modi in diuinis auctoritatibus reperiuntur, in quibus septenarius numerus, ut dixi, pro cuiusque rei uniuersitate poni solet.",
    "text": "In septimo autem die, id est eodem die septiens repetito, qui numerus etiam ipse alia ratione perfectus est, Dei requies commendatur, in qua primum sanctificatio sonat. Ita Deus noluit istum diem in ullis suis operibus sanctificare, sed in requie sua, quae non habet uesperam; neque enim ulla creatura est, ut etiam ipsa aliter in Dei Verbo, aliter in se cognita faciat aliam uelut diurnam, aliam uelut uespertinam notitiam. De septenarii porro numeri perfectione dici quidem plura possunt; sed et liber iste iam prolixus est, et uereor ne occasione comperta scientiolam nostram leuiter magis quam utiliter iactare uelle uideamur. Habenda est itaque ratio moderationis atque grauitatis, ne forte, cum de numero multum loquimur, mensuram et pondus neglegere iudicemur. Hoc itaque satis sit admonere, quod totus inpar primus numerus ternarius est, totus par quaternarius; ex quibus duobus septenarius constat. Ideo pro uniuerso saepe ponitur, sicuti est: Septiens cadet iustus, et resurget; id est: Quotienscumque ceciderit, non peribit; quod non de iniquitatibus, sed de tribulationibus ad humilitatem perducentibus intellegi uoluit; et: Septiens in die laudabo te; quod alibi alio modo dictum est: Semper laus eius in ore meo; et multa huius modi in diuinis auctoritatibus reperiuntur, in quibus septenarius numerus, ut dixi, pro cuiusque rei uniuersitate poni solet.",
    "highlights": [
@@ -49264,7 +49263,7 @@
     "ex quibus duobus septenarius constat",
     "cum de numero multum loquimur, mensuram et pondus neglegere"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "stoa0040:conf:10.9.16",
@@ -49397,7 +49396,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Augustine De Civitate Dei 12.19** — major Augustinian engagement with the foundations of number-theory, framed as a refutation of the claim that not even God can comprehend infinity. Augustine asserts the strict infinity of numbers (\"**Eos quippe infinitos esse, certissimum est**\") and the uniqueness of every number's properties (\"**Ita uero suis quisque numerus proprietatibus terminatur, ut nullus eorum par esse cuicumque alteri possit**\"). He marshals Plato — \"**apud quos Plato Deum magna auctoritate commendat mundum numeris fabricantem**\" — alongside scriptural authority (\"**Omnia in mensura et numero et pondere disposuisti**\", and \"**Capilli, inquit, uestri omnes numerati sunt**\") to argue that the infinite multiplicity of numbers is comprehensible to God. The chapter fuses Platonist mathematical metaphysics with Christian providence, and supplies one of the most explicit late-antique Latin statements that the world is mathematically structured.",
+   "gloss": "**Augustine De Civitate Dei 12.19** ",
    "latin": "Illud autem aliud quod dicunt, nec Dei scientia quae infinita sunt posse conprehendi: restat eis, ut dicere audeant atque huic se uoragini profundae inpietatis inmergant, quod non omnes numeros Deus nouerit. Eos quippe infinitos esse, certissimum est; quoniam in quocumque numero finem faciendum putaueris, idem ipse, non dico uno addito augeri, sed quamlibet sit magnus et quamlibet ingentem multitudinem continens, in ipsa ratione atque scientia numerorum non solum duplicari, uerum etiam multiplicari potest. Ita uero suis quisque numerus proprietatibus terminatur, ut nullus eorum par esse cuicumque alteri possit. Ergo et dispares inter se atque diuersi sunt, et singuli quique finiti sunt, et omnes infiniti sunt. Itane numeros propter infinitatem nescit omnes Deus, et usque ad quandam summam numerorum scientia Dei peruenit, ceteros ignorat? Quis hoc etiam dementissimus dixerit? Nec audebunt isti contemnere numeros et eos dicere ad Dei scientiam non pertinere, apud quos Plato Deum magna auctoritate commendat mundum numeris fabricantem. Et apud nos Deo dictum legitur: Omnia in mensura et numero et pondere disposuisti; de quo et propheta dicit: Qui profert numerose saeculum, et Saluator in euangelio: Capilli, inquit, uestri omnes numerati sunt. Absit itaque ut dubitemus, quod ei notus sit omnis numerus, cuius intellegentiae, sicut in psalmo canitur, non est numerus. Infinitas itaque numeri, quamuis infinitorum numerorum nullus sit numerus, non est tamen inconprehensibilis ei, cuius intellegentiae non est numerus. Quapropter si, quidquid scientia conprehenditur, scientis conprehensione finitur: profecto et omnis infinitas quodam ineffabili modo Deo finita est, quia scientiae ipsius inconprehensibilis non est.",
    "text": "Illud autem aliud quod dicunt, nec Dei scientia quae infinita sunt posse conprehendi: restat eis, ut dicere audeant atque huic se uoragini profundae inpietatis inmergant, quod non omnes numeros Deus nouerit. Eos quippe infinitos esse, certissimum est; quoniam in quocumque numero finem faciendum putaueris, idem ipse, non dico uno addito augeri, sed quamlibet sit magnus et quamlibet ingentem multitudinem continens, in ipsa ratione atque scientia numerorum non solum duplicari, uerum etiam multiplicari potest. Ita uero suis quisque numerus proprietatibus terminatur, ut nullus eorum par esse cuicumque alteri possit. Ergo et dispares inter se atque diuersi sunt, et singuli quique finiti sunt, et omnes infiniti sunt. Itane numeros propter infinitatem nescit omnes Deus, et usque ad quandam summam numerorum scientia Dei peruenit, ceteros ignorat? Quis hoc etiam dementissimus dixerit? Nec audebunt isti contemnere numeros et eos dicere ad Dei scientiam non pertinere, apud quos Plato Deum magna auctoritate commendat mundum numeris fabricantem. Et apud nos Deo dictum legitur: Omnia in mensura et numero et pondere disposuisti; de quo et propheta dicit: Qui profert numerose saeculum, et Saluator in euangelio: Capilli, inquit, uestri omnes numerati sunt. Absit itaque ut dubitemus, quod ei notus sit omnis numerus, cuius intellegentiae, sicut in psalmo canitur, non est numerus. Infinitas itaque numeri, quamuis infinitorum numerorum nullus sit numerus, non est tamen inconprehensibilis ei, cuius intellegentiae non est numerus. Quapropter si, quidquid scientia conprehenditur, scientis conprehensione finitur: profecto et omnis infinitas quodam ineffabili modo Deo finita est, quia scientiae ipsius inconprehensibilis non est.",
    "highlights": [
@@ -49407,7 +49406,7 @@
     "Omnia in mensura et numero et pondere disposuisti",
     "Capilli, inquit, uestri omnes numerati sunt"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "stoa0040:trin:4.4",
@@ -49418,7 +49417,7 @@
    "work_id": "trin",
    "citation": "4.4",
    "verdict": "KEEP",
-   "strictness": "strict",
+   "strictness": "loose",
    "substantive": true,
    "topics": [
     "music-theory",
@@ -49471,7 +49470,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Augustine De Trinitate 4.7** — re-statement of the perfect-6 doctrine (cf. *Civ. Dei* 11.30) applied to the **six ages of world-history**: \"**Sed hoc totum quod dixi ad senarium peruenit; unum enim et duo et tria sex fiunt. Qui numerus propterea perfectum dicitur quia partibus suis completur**.\" Augustine then deploys **6 in chronological computation**: the eighteen-year infirmity of the woman in the Gospel (\"**decem et octo annos habebat in infirmitate, quod est ter seni**\" — 3×6=18) and the months of three years (\"**menses trium annorum quadratum senarium faciunt, quod est sexies seni**\" — 6×6=36). Distinct from Civ. Dei 11.30 in its historical-chronological application.",
+   "gloss": "**Augustine De Trinitate 4.7** restatement of the perfect-6 doctrine (cf. *Civ. Dei* 11.30) applied to the six ages of world-history",
    "latin": "Haec autem ratio simpli ad duplum oritur quidem a ternario numero; unum quippe ad duo tria sunt. Sed hoc totum quod dixi ad senarium peruenit; unum enim et duo et tria sex fiunt. Qui numerus propterea perfectum dicitur quia partibus suis completur; habet enim eas tres: sextam, tertiam, dimidiam; nec ulla pars alia quae dici possit quota sit inuenitur in eo. Sexta ergo eius unum est, tertia duo, dimidia tria. Vnum autem et duo et tria consummant eundem senarium. Cuius perfectionem nobis sancta scriptura commendat in eo maxime quod deus sex diebus perfecit opera sua, et sexto die factus est homo ad imaginem dei. Et sexta aetate generis humani filius dei uenit et factus est filius hominis ut nos reformaret ad imaginem dei. Ea quippe nunc aetas agitur siue milleni anni singulis distribuantur aetatibus, siue in diuinis litteris memorabiles atque insignes quasi articulos temporum uestigemus ut prima aetas inueniatur ab Adam usque ad Noe, inde secunda usque ad Abraham, et deinceps sicut Matthaeus euangelista distinxit ab Abraham usque ad Dauid, a Dauid usque ad transmigrationem in Babyloniam, atque inde usque ad uirginis partum. Quae tres aetates coniunctae illis duabus quinque faciunt. Proinde sextam inchoauit natiuitas domini, quae nunc agitur usque ad occultum temporis finem. Hunc senarium numerum quandam temporis gerere figuram etiam in illa ratione tripertitae distributionis agnoscimur qua unum tempus computamus ante legem, alterum sub lege, tertium sub gratia. Haec autem mulier decem et octo annos habebat in infirmitate, quod est ter seni. Menses autem annorum decem et octo inueniuntur in numero solidi quadrati senarii, quod est exies seni et hoc sexies. Iuxta quippe est in eodem euangelii loco arbor quoque illa ficulnea cuius miseram sterilitatem etiam tertius annus arguebat. Nam et tres anni ad eandem tripertitam distributionem pertinent, et menses trium annorum quadratum senarium faciunt, quod est sexies seni.",
    "text": "Haec autem ratio simpli ad duplum oritur quidem a ternario numero; unum quippe ad duo tria sunt. Sed hoc totum quod dixi ad senarium peruenit; unum enim et duo et tria sex fiunt. Qui numerus propterea perfectum dicitur quia partibus suis completur; habet enim eas tres: sextam, tertiam, dimidiam; nec ulla pars alia quae dici possit quota sit inuenitur in eo. Sexta ergo eius unum est, tertia duo, dimidia tria. Vnum autem et duo et tria consummant eundem senarium. Cuius perfectionem nobis sancta scriptura commendat in eo maxime quod deus sex diebus perfecit opera sua, et sexto die factus est homo ad imaginem dei. Et sexta aetate generis humani filius dei uenit et factus est filius hominis ut nos reformaret ad imaginem dei. Ea quippe nunc aetas agitur siue milleni anni singulis distribuantur aetatibus, siue in diuinis litteris memorabiles atque insignes quasi articulos temporum uestigemus ut prima aetas inueniatur ab Adam usque ad Noe, inde secunda usque ad Abraham, et deinceps sicut Matthaeus euangelista distinxit ab Abraham usque ad Dauid, a Dauid usque ad transmigrationem in Babyloniam, atque inde usque ad uirginis partum. Quae tres aetates coniunctae illis duabus quinque faciunt. Proinde sextam inchoauit natiuitas domini, quae nunc agitur usque ad occultum temporis finem. Hunc senarium numerum quandam temporis gerere figuram etiam in illa ratione tripertitae distributionis agnoscimur qua unum tempus computamus ante legem, alterum sub lege, tertium sub gratia. Haec autem mulier decem et octo annos habebat in infirmitate, quod est ter seni. Menses autem annorum decem et octo inueniuntur in numero solidi quadrati senarii, quod est exies seni et hoc sexies. Iuxta quippe est in eodem euangelii loco arbor quoque illa ficulnea cuius miseram sterilitatem etiam tertius annus arguebat. Nam et tres anni ad eandem tripertitam distributionem pertinent, et menses trium annorum quadratum senarium faciunt, quod est sexies seni.",
    "highlights": [
@@ -49480,7 +49479,7 @@
     "decem et octo annos habebat in infirmitate, quod est ter seni",
     "menses trium annorum quadratum senarium faciunt, quod est sexies seni"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "stoa0040:trin:4.8",
@@ -49508,7 +49507,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Augustine De Trinitate 4.8** — sustained piece of practical arithmetic on the lunar/solar year. \"**Quod enim ualent sex in primo ordine numerorum qui constat ex unis ut perueniatur ad decem, hoc ualent sexaginta in secundo ordine qui constat ex denis ut perueniatur ad centum**\" — Augustine working with **place-value arithmetic** (6 in the units row corresponds to 60 in the tens row). The full computation: \"**per senarium primi uersus multiplicatur tamquam senarius secundi uersus et fiunt sexies sexageni, trecenti et sexaginta dies, qui sunt integri duodecim menses**\" — 6×60=360 days = 12 months. Then accounts for the 5¼-day remainder, the **bissextum** (intercalary leap day every 4 years), and the 24 hours of a day with 6 hours = ¼ day. Rare specimen of explicit calendrical arithmetic in Augustine.",
+   "gloss": "**Augustine De Trinitate 4.8** \"**Quod enim ualent sex in primo ordine numerorum qui constat ex unis ut perueniatur ad decem, hoc ualent sexaginta in secundo ordine qui constat ex denis ut perueniatur ad centum**\" — Augustine working with **place-value arithmetic** (6 in the units row corresponds to 60 in the tens row). \"**per senarium primi uersus multiplicatur tamquam senarius secundi uersus et fiunt sexies sexageni, trecenti et sexaginta dies, qui sunt integri duodecim menses**\" — 6×60=360 days = 12 months. ",
    "latin": "Annus etiam unus si duodecim menses integri considerentur quos triceni dies complent (talem quippe mensem ueteres obseruauerunt quem circuitus lunaris ostendit), senario numero pollet. Quod enim ualent sex in primo ordine numerorum qui constat ex unis ut perueniatur ad decem, hoc ualent sexaginta in secundo ordine qui constat ex denis ut perueniatur ad centum. Sexagenarius ergo numerus dierum sexta pars anni est. Proinde per senarium primi uersus multiplicatur tamquam senarius secundi uersus et fiunt sexies sexageni, trecenti et sexaginta dies, qui sunt integri duodecim menses. Sed quoniam sicut mensem circuitus lunae ostendit hominibus sic annus circuitu solis animaduersus est, restant autem quinque dies et quadrans diei ut sol impleat cursum suum annumque concludat; quattuor enim quadrantes faciunt unum diem quem necesse est intercalari excurso quadriennio quod bissextum uocant ne temporum ordo turbetur. Etiam ipsos quinque dies et quadrantem si consideremus, senarius numerus in eis plurimum ualet; primo quia sicut fieri solet ut a parte totum computetur, non sunt iam dies quinque sed potius sex ut quadrans ille accipiatur pro die; deinde quia in ipsis quinque diebus sexta pars mensis est, ipse autem quadrans sex horas habet; totus enim dies, id est cum sua nocte, uiginti quattuor horae sunt quarum pars quarta qui est quadrans diei sex horae inueniuntur. Ita in anni cursu senarius numerus plurimum ualet.",
    "text": "Annus etiam unus si duodecim menses integri considerentur quos triceni dies complent (talem quippe mensem ueteres obseruauerunt quem circuitus lunaris ostendit), senario numero pollet. Quod enim ualent sex in primo ordine numerorum qui constat ex unis ut perueniatur ad decem, hoc ualent sexaginta in secundo ordine qui constat ex denis ut perueniatur ad centum. Sexagenarius ergo numerus dierum sexta pars anni est. Proinde per senarium primi uersus multiplicatur tamquam senarius secundi uersus et fiunt sexies sexageni, trecenti et sexaginta dies, qui sunt integri duodecim menses. Sed quoniam sicut mensem circuitus lunae ostendit hominibus sic annus circuitu solis animaduersus est, restant autem quinque dies et quadrans diei ut sol impleat cursum suum annumque concludat; quattuor enim quadrantes faciunt unum diem quem necesse est intercalari excurso quadriennio quod bissextum uocant ne temporum ordo turbetur. Etiam ipsos quinque dies et quadrantem si consideremus, senarius numerus in eis plurimum ualet; primo quia sicut fieri solet ut a parte totum computetur, non sunt iam dies quinque sed potius sex ut quadrans ille accipiatur pro die; deinde quia in ipsis quinque diebus sexta pars mensis est, ipse autem quadrans sex horas habet; totus enim dies, id est cum sua nocte, uiginti quattuor horae sunt quarum pars quarta qui est quadrans diei sex horae inueniuntur. Ita in anni cursu senarius numerus plurimum ualet.",
    "highlights": [
@@ -49517,7 +49516,7 @@
     "quattuor enim quadrantes faciunt unum diem quem necesse est intercalari excurso quadriennio quod bissextum uocant",
     "totus enim dies, id est cum sua nocte, uiginti quattuor horae sunt quarum pars quarta qui est quadrans diei sex horae inueniuntur"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "stoa0040:trin:4.9",
@@ -49542,7 +49541,7 @@
    "tiers": [
     "T2"
    ],
-   "gloss": "**Augustine De Trinitate 4.9** — explicit multiplication: \"**Quadraginta et sex annis aedificatum templum, et quadragies sexies seni fiunt ducenti septuaginta sex**\" — 46 × 6 = 276. Augustine reads the 46-year temple-construction reference (John 2:20) as days of gestation: 276 days reaches \"nine months and six days\" corresponding to the standard ten-month gestational reckoning. Aligns with the kalendric computation in 4.8 to fit the senarial frame.",
+   "gloss": "**Augustine De Trinitate 4.9** — explicit multiplication: \"**Quadraginta et sex annis aedificatum templum, et quadragies sexies seni fiunt ducenti septuaginta sex**\" — 46 × 6 = 276.  46-year temple-construction  (John 2:20) as days of gestation: 276 days reaches \"nine months and six days\" corresponding to the standard ten-month gestational reckoning. ",
    "latin": "Nec immerito in aedificatione dominici corporis, in cuius figura templum a iudaeis destructum triduo se resuscitaturum esse dicebat, numerus ipse senarius pro anno positus intellegitur. Dixerunt enim: Quadraginta et sex annis aedificatum templum, et quadragies sexies seni fiunt ducenti septuaginta sex. Qui numerus dierum complet nouem menses et sex dies qui tamquam decem menses parientibus feminis imputantur, non quia omnes ad sextum diem post nonum mensem perueniunt, sed quia ipsa perfectio corporis domini tot diebus ad partum perducta comperitur sicut a maioribus traditum suscipiens ecclesiae custodit auctoritas. Octauo enim kalendas apriles conceptus creditur quo et passus; ita monumento nouo quo sepultus est ubi nullus erat positus mortuorum nec ante nec postea congruit uterus uirginis quo conceptus est ubi nullus seminatus est mortalium. Natus autem traditur octauo kalendas ianuarias; ab illo ergo die usque ad istum computati ducenti septuaginta sex reperiuntur dies, qui senarium numerum quadragies sexies habet. Quo numero annorum templum aedificatum est quia eo numero senariorum corpus domini perfectum est quod mortis passione destructum triduo resuscitauit.",
    "text": "Nec immerito in aedificatione dominici corporis, in cuius figura templum a iudaeis destructum triduo se resuscitaturum esse dicebat, numerus ipse senarius pro anno positus intellegitur. Dixerunt enim: Quadraginta et sex annis aedificatum templum, et quadragies sexies seni fiunt ducenti septuaginta sex. Qui numerus dierum complet nouem menses et sex dies qui tamquam decem menses parientibus feminis imputantur, non quia omnes ad sextum diem post nonum mensem perueniunt, sed quia ipsa perfectio corporis domini tot diebus ad partum perducta comperitur sicut a maioribus traditum suscipiens ecclesiae custodit auctoritas. Octauo enim kalendas apriles conceptus creditur quo et passus; ita monumento nouo quo sepultus est ubi nullus erat positus mortuorum nec ante nec postea congruit uterus uirginis quo conceptus est ubi nullus seminatus est mortalium. Natus autem traditur octauo kalendas ianuarias; ab illo ergo die usque ad istum computati ducenti septuaginta sex reperiuntur dies, qui senarium numerum quadragies sexies habet. Quo numero annorum templum aedificatum est quia eo numero senariorum corpus domini perfectum est quod mortis passione destructum triduo resuscitauit.",
    "highlights": [
@@ -49579,7 +49578,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Augustine De Trinitate 4.10** — Cuomo's specific citation; perhaps the densest single piece of mathematical reasoning in *De Trinitate*. Augustine computes the death-to-resurrection interval: \"**A uespera autem sepulturae usque ad diluculum resurrectionis triginta sex horae sunt, qui est quadratus senarius**\" — 36 hours = 6². He then ties this back to the 1:2 octave ratio of 4.4: \"**Refertur autem ad illam rationem simpli ad duplum ubi est coaptationis maxima consonantia. Duodecim enim ad uiginti quattuor simplo ad duplum conueniunt et fiunt triginta sex**\" — 12+24=36, and 12:24 is the 1:2 ratio of musical consonance. Also cross-references the perfect ten (\"**habent enim quandam perfectionem decem, et ea quater multiplicata faciunt quadraginta**\" — 4×10=40). Augustine explicitly defends the practice of arithmetic-as-exegesis: \"**frustra tamen eos esse in scripturis positos et nullas esse causas mysticas cur illic isti numeri commemorentur nemo tam stultus ineptusque contenderit**\".",
+   "gloss": "**Augustine De Trinitate 4.10**",
    "latin": "Ipsum autem triduum non totum et plenum fuisse scriptura testis est; sed primus dies a parte extrema totus annumeratus est; dies uero tertius a parte prima et ipse totus; medius autem inter eos, id est secundus dies, absolute totus uiginti quattuor horis suis, duodecim nocturnis et duodecim diurnis. Crucifixus est enim primo iudaeorum uocibus hora tertia cum esset dies sexta sabbati; deinde in ipsa cruce suspensus hora sexta et spiritum tradidit hora nona; sepultus est autem cum iam sero factum esset sicut sese habent uerba euangelii, quod intellegitur in fine diei. Ab hora ergo mortis usque ad diluculum resurrectionis horae quadraginta ut et ipsa nona connumeretur, cui numero congruit etiam uita eius super terram post resurrectionem in quadraginta diebus. Et est iste numerus in scripturis frequentissimus ad insinuandum mysterium perfectionis in quadripertito mundo; habent enim quandam perfectionem decem, et ea quater multiplicata faciunt quadraginta. A uespera autem sepulturae usque ad diluculum resurrectionis triginta sex horae sunt, qui est quadratus senarius. Refertur autem ad illam rationem simpli ad duplum ubi est coaptationis maxima consonantia. Duodecim enim ad uiginti quattuor simplo ad duplum conueniunt et fiunt triginta sex, nox tota cum die toto et nocte tota, neque hoc sine illo sacramento quod supra memoraui. Non absurde quippe spiritum diei comparamus, corpus autem nocti; dominicum enim corpus in morte ac resurrectione et spiritus nostri figuram et corporis gerebat exemplum. Etiam sic ergo apparet illa ratio simpli ad duplum in horis triginta sex cum duodecim ad uiginti quattuor conferuntur. Et horum quidem numerorum causas cur in scripturis sanctis positi sint potest alius alias indagare uel quibus istae quas ego reddidi praeponendae sint uel aeque probabiles uel istis etiam probabiliores; frustra tamen eos esse in scripturis positos et nullas esse causas mysticas cur illic isti numeri commemorentur nemo tam stultus ineptusque contenderit.",
    "text": "Ipsum autem triduum non totum et plenum fuisse scriptura testis est; sed primus dies a parte extrema totus annumeratus est; dies uero tertius a parte prima et ipse totus; medius autem inter eos, id est secundus dies, absolute totus uiginti quattuor horis suis, duodecim nocturnis et duodecim diurnis. Crucifixus est enim primo iudaeorum uocibus hora tertia cum esset dies sexta sabbati; deinde in ipsa cruce suspensus hora sexta et spiritum tradidit hora nona; sepultus est autem cum iam sero factum esset sicut sese habent uerba euangelii, quod intellegitur in fine diei. Ab hora ergo mortis usque ad diluculum resurrectionis horae quadraginta ut et ipsa nona connumeretur, cui numero congruit etiam uita eius super terram post resurrectionem in quadraginta diebus. Et est iste numerus in scripturis frequentissimus ad insinuandum mysterium perfectionis in quadripertito mundo; habent enim quandam perfectionem decem, et ea quater multiplicata faciunt quadraginta. A uespera autem sepulturae usque ad diluculum resurrectionis triginta sex horae sunt, qui est quadratus senarius. Refertur autem ad illam rationem simpli ad duplum ubi est coaptationis maxima consonantia. Duodecim enim ad uiginti quattuor simplo ad duplum conueniunt et fiunt triginta sex, nox tota cum die toto et nocte tota, neque hoc sine illo sacramento quod supra memoraui. Non absurde quippe spiritum diei comparamus, corpus autem nocti; dominicum enim corpus in morte ac resurrectione et spiritus nostri figuram et corporis gerebat exemplum. Etiam sic ergo apparet illa ratio simpli ad duplum in horis triginta sex cum duodecim ad uiginti quattuor conferuntur. Et horum quidem numerorum causas cur in scripturis sanctis positi sint potest alius alias indagare uel quibus istae quas ego reddidi praeponendae sint uel aeque probabiles uel istis etiam probabiliores; frustra tamen eos esse in scripturis positos et nullas esse causas mysticas cur illic isti numeri commemorentur nemo tam stultus ineptusque contenderit.",
    "highlights": [
@@ -49588,7 +49587,7 @@
     "Duodecim enim ad uiginti quattuor simplo ad duplum conueniunt et fiunt triginta sex",
     "habent enim quandam perfectionem decem, et ea quater multiplicata faciunt quadraginta"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   }
  ],
  "vocab": {
