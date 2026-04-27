@@ -35881,7 +35881,7 @@
    "tiers": "2",
    "gloss": "Ep. 77.12: **\"In hoc punctum coniectus es\"** — humans cast into a *punctum* (geometric point/instant) of existence. Brief cosmological-existential reflection on the geometric image.",
    "latin": "In hoc punctum coniectus es, quod ut extendas, quo usque extendes? Quid fles? Quid optas? Perdis operam. Desine fata deum flecti sperare precando. Rata et fixa sunt et magna atque aeterna necessitate ducuntur. Eo ibis, quo omnia eunt. Quid tibi novi est? Ad hanc legem natus es. Hoc patri tuo accidit, hoc matri, hoc maioribus, hoc omnibus ante te, hoc omnibus post te. Series invicta et nulla mutabilis ope inligavit ac trahit cuncta.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "In hoc punctum coniectus es"
    ],
@@ -36085,7 +36085,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "Letter 88.4: Geometry and music examined as candidates for moral philosophy. \"Ad geometriam transeamus et ad musicen; nihil apud illas invenies, quod vetet timere, vetet cupere.\" A foundational moment in the letter's argument.",
+   "gloss": "Letter 88.4: Geometry and music examined as candidates for moral philosophy.",
    "latin": "Quaeritur After frenat MSS. give ad geometriam transeamus et ad musicen; nihil apud illas invenies, quod vetet timere, vetet cupere. Quisquis ignorat, alia frustra scit, leaving an impossible syntax before utrum. Videndum utrum later MSS. Quaeritur would be a reasonable conjecture. utrum doceant isti virtutem an non; si non docent, ne tradunt quidem. Si docent, philosophi sunt. Vis scire, quam non ad docendam virtutem consederint? Aspice, quam dissimilia inter se omnium studia sint; atqui similitudo esset idem docentium.",
    "strictness": "strict",
    "highlights": [
@@ -36135,7 +36135,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "Letter 88.10: Famous critique of the geometer who teaches measurement of estates rather than what is *enough* for a man. \"Metiri me geometres docet latifundia potius quam doceat, quomodo metiar, quantum homini satis sit.\" Engages directly with mensuration and arithmetic.",
+   "gloss": "Letter 88.10: critique of the geometer who teaches measurement of estates rather than what is enough for a man",
    "latin": "Metiri me geometres docet latifundia potius quam doceat, quomodo metiar, quantum homini satis sit. Numerare docet me et avaritiae commodat digitos potius quam doceat nihil ad rem pertinere istas conputationes, non esse feliciorem, cuius patrimonium tabularios lassat, immo quam supervacua possideat, qui infelicissimus futurus est, si quantum habeat per se conputare cogetur.",
    "strictness": "strict",
    "highlights": [
@@ -36164,7 +36164,7 @@
     "cuomo-add"
    ],
    "tiers": "1",
-   "gloss": "**Sen. Ep. 88.11**: **explicit *decempeda* and *iugerum* references** — \"Quid mihi prodest scire agellum in partes dividere, si nescio cum fratre dividere? Quid prodest *colligere subtiliter pedes iugeri* et conprendere etiam si quid *decempedam* effugit?\" (\"What does it profit me to know how to divide a small field into parts, if I don't know how to divide it with my brother? What does it profit to gather precisely the feet of a *iugerum* and to grasp anything that escapes the ten-foot rod?\"). Continuation of Letter 88's critique of the geometer-as-land-measurer. Cuomo cites Sen Ep 88.10-13 as a unit; this is the previously-missed paragraph 88.11.",
+   "gloss": "**Sen. Ep. 88.11**:  Continuation of Letter 88's critique of the geometer-as-land-measurer. ",
    "latin": "Quid mihi prodest scire agellum in partes dividere, si nescio cum fratre dividere? Quid prodest colligere subtiliter pedes iugeri et conprendere etiam si quid decempedam effugit, si tristem me facit vicinus inpotens et aliquid ex meo abradens? Docet quomodo nihil perdam ex finibus meis; at ego discere volo, quomodo totos hilaris amittam.",
    "strictness": "strict",
    "highlights": [
@@ -36218,7 +36218,7 @@
     "linea"
    ],
    "tiers": "2",
-   "gloss": "Letter 88.13 — **explicit squaring-the-circle reference**: \"Scis rotunda metiri, in quadratum redigis quamcumque acceperis formam, intervalla siderum dicis\" — \"you know how to measure circular things, you reduce whatever shape you receive to a square, you tell the distances of the stars.\" A direct address to the geometer/astronomer with explicit mathematical content. Found via Tier 2 (sidera + mens-metiri + linea); high-precision Tier 1 missed it because no figures named.",
+   "gloss": "Letter 88.13 squaring-the-circle reference",
    "latin": "O egregiam artem! Scis rotunda metiri, in quadratum redigis quamcumque acceperis formam, intervalla siderum dicis, nihil est, quod in mensuram tuam non cadat. Si artifex es, metire hominis animum. Dic quam magnus sit, dic quam pusillus sit. Scis, quae recta sit linea; quid tibi prodest, si quid in vita rectum sit ignoras?",
    "strictness": "strict",
    "highlights": [
@@ -36352,9 +36352,9 @@
     "Posidoni"
    ],
    "tiers": "1",
-   "gloss": "Letter 88.21: Posidonius's four-fold classification of arts (vulgar/ludic/puerile/liberal). Crucial methodological framing for the relationship between mathematics and philosophy.",
+   "gloss": "Letter 88.21: Posidonius's four-fold classification of arts (vulgar/ludic/puerile/liberal). ",
    "latin": "Quattuor ait esse artium Posidonius genera: sunt volgares et sordidae, sunt ludicrae, sunt pueriles, sunt liberales. Volgares opificum, quae manu constant et ad instruendam vitam occupatae sunt, in quibus nulla decoris, nulla honesti simulatio est.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Quattuor ait esse artium Posidonius genera",
     "volgares et sordidae, sunt ludicrae, sunt pueriles, sunt liberales"
@@ -36380,7 +36380,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "Letter 88.24: geometry is *not* a part of philosophy, only an aid,  even though \"naturales quaestiones\" lean on geometric demonstration (\"geometriae testimonio statur\").",
+   "gloss": "Letter 88.24: geometry is *not* a part of philosophy, only an aid",
    "latin": "Quemadmodum, inquit, est aliqua pars philosophiae naturalis, est aliqua moralis, est aliqua rationalis, sic et haec quoque liberalium artium turba locum sibi in philosophia vindicat. Cum ventum est ad naturales quaestiones, geometriae testimonio statur; ergo eius, quam adiuvat, pars est.",
    "strictness": "strict",
    "highlights": [
