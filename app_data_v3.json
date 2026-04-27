@@ -28222,7 +28222,7 @@
     "linea"
    ],
    "tiers": "2",
-   "gloss": "**Inst. 1.10.3**: **the rhetorical opponent's parody** — \"scire, quemadmodum data linea constitui triangula aequis lateribus possint?\" — knowing how to construct an equilateral triangle on a given line (= Euclid Elements I.1). Substantive geometric reference. CLUSTER with T1 1.10.4.",
+   "gloss": "**Inst. 1.10.3**: **the rhetorical opponent's parody**: knowing how to construct an equilateral triangle on a given line ",
    "latin": "nam quid, inquiunt, ad agendam causam dicendamve sententiam pertinet, scire, quemadmodum data linea constitui triangula aequis lateribus possint? aut quo melius vel defendet reum vel reget consilia, qui citharae sonos nominibus et spatiis distinxerit?",
    "strictness": "strict",
    "provenance": "verified-from-source-parse"
@@ -28249,9 +28249,9 @@
    "tiers": [
     "1"
    ],
-   "gloss": "**Merged record** (2 components: 1.10.4-6, 1.10.6).\n\n• [1.10.4-6] **Merged record** (2 components: 1.10.4, 1.10.6).\n• [1.10.6] Inst. 1.10.6: continuation — geometry and music as auxiliaries to the orator. CLUSTER.",
+   "gloss": "",
    "latin": "[1.10.4-6] \n\n[1.10.6] similiter oratorem, qui delet esse sapiens, non geometres faciet aut musicus quaeque his alia subiungam, sed hae quoque artes, ut sit consummatus, iuvabunt. nisi forte antidotus quidem atque alia, quae oculis aut vulneribus medentur, ex multis atque interim contrariis quoque inter se effectibus componi videmus, quorum ex diversis fit una illa mixtura, quae nulli earum similis est, ex quibus constat, sed proprias vires ex omnibus sumit;",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[1.10.4-6] \n\n[1.10.6] similiter oratorem, qui delet esse sapiens, non geometres faciet aut musicus quaeque his alia subiungam, sed hae quoque artes, ut sit consummatus, iuvabunt. nisi forte antidotus quidem atque alia, quae oculis aut vulneribus medentur, ex multis atque interim contrariis quoque inter se effectibus componi videmus, quorum ex diversis fit una illa mixtura, quae nulli earum similis est, ex quibus constat, sed proprias vires ex omnibus sumit;",
    "merged_from": [
@@ -28310,7 +28310,7 @@
    "tiers": "1",
    "gloss": "**Inst. 1.10.12**: Pythagoras and his followers spread the doctrine \"mundum ipsum ratione esse compositum, quam postea sit lyra imitata\" — the cosmos itself is composed in proportion which the lyre afterwards imitated. **Cosmic harmonics** explicitly attributed to Pythagoras.",
    "latin": "atque claros nomine sapientiae viros, nemo dubitaverit, studiosos musices fuisse, cum Pythagoras atque eum secuti acceptam sine dubio antiquitus opinionem vulgaverint, mundum ipsum ratione esse compositum, quam postea sit lyra imitata, nec illa modo contenti dissimilium concordia, quam vocant ἁρμονίαν, sonum quoque iis motibus dederint.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "mundum ipsum ratione esse compositum",
     "lyra imitata",
@@ -28340,7 +28340,7 @@
     "Plato"
    ],
    "tiers": "2",
-   "gloss": "**Inst. 1.10.13**: **Plato's Timaeus only intelligible to those trained in this discipline** (i.e. music/mathematics). One of the clearer Roman pedagogical statements about the prerequisites for reading the Timaeus.",
+   "gloss": "**Inst. 1.10.13**: **Plato's Timaeus only intelligible to those trained in this discipline** (i.e. music/mathematics). ",
    "latin": "nam Plato, cum in aliis quibusdam tum praecipue in Timaeo, ne intelligi quidem nisi ab iis, qui hanc quoque partem disciplinae diligenter perceperint, potest. de philosophis loquor, quorum fons ipse Socrates iam senex institui lyra non erubescebat?",
    "strictness": "strict",
    "highlights": [
@@ -28373,7 +28373,7 @@
    "tiers": "2",
    "gloss": "Inst. 1.10.15: **Plato's Republic on music as necessary for the politikos**. Methodological-educational.",
    "latin": "non igitur frustra Plato civili viro, quem πολιτικὸν vocat, necessariam musicen credidit. et eius sectae, quae aliis severissima aliis asperrima videtur, principes in hac fuere sententia, ut existimarent sapientium aliquos nonnullam operam his studiis accommodaturos. et Lycurgus, durissimarum Lacedaemoniis legum auctor, musices disciplinam probavit.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Plato civili viro, quem πολιτικὸν vocat, necessariam musicen credidit"
    ],
@@ -28407,7 +28407,7 @@
    ],
    "gloss": "**Merged record** (2 components: 1.10.17-18, 1.10.18).\n\n• [1.10.17-18] **Merged record** (2 components: 1.10.17, 1.10.18).\n• [1.10.18] Inst. 1.10.18: continuation — Eupolis on Prodamus teaching music and letters. CLUSTER with 1.10.17.",
    "latin": "[1.10.17-18] \n\n[1.10.18] cum moreretur, habuisse credatur, tum Eupolis, apud quem Prodamus et musicen et litteras docet, et Maricas, qui est Hyperbolus, nihil se ex musice scire nisi litteras confitetur. Aristophanes quoque non uno libro sic institui pueros antiquitus solitos esse demonstrat, et apud Menandrum in Hypobolimaeo senex, qui reposcenti filium patri velut rationem impendiorum, quae in educationem contulerit, exponens, psaltis se et geometris multa dicit dedisse.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[1.10.17-18] \n\n[1.10.18] cum moreretur, habuisse credatur, tum Eupolis, apud quem Prodamus et musicen et litteras docet, et Maricas, qui est Hyperbolus, nihil se ex musice scire nisi litteras confitetur. Aristophanes quoque non uno libro sic institui pueros antiquitus solitos esse demonstrat, et apud Menandrum in Hypobolimaeo senex, qui reposcenti filium patri velut rationem impendiorum, quae in educationem contulerit, exponens, psaltis se et geometris multa dicit dedisse.",
    "merged_from": [
@@ -28463,7 +28463,7 @@
    "tiers": "1",
    "gloss": "**Inst. 1.10.22**: Aristoxenian *numeri* — \"numeros musice duplices habet in vocibus et in corpore\" — explicit doubling of musical *numeri* in voice and body. Mathematical-rhythmical content.",
    "latin": "verum quid ex ea proprie petat futurus orator, disseramus. numeros musice duplices habet in vocibus et in corpore, utriusque enim rei aptus quidam modus desideratur. vocis rationem Aristoxenus musicus dividit in ῥυθμόν et μέλος, quorum alterum modulatione, alterum canore ac sonis constat. num igitur non haec omnia oratori necessaria? quorum unum ad gestum, alterum ad collocationem verborum, tertium ad flexus vocis, qui sunt in agendo quoque plurimi, pertinet:",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "numeros musice duplices habet in vocibus et in corpore",
     "Aristoxenus musicus dividit in ῥυθμόν et μέλος"
@@ -28514,7 +28514,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "**Inst. 1.10.34**: opens the geometry-specific defence. \"in geometria partem fatentur esse utilem teneris aetatibus\" — admits geometry trains young minds, sharpens wits. Methodological framing.",
+   "gloss": "**Inst. 1.10.34**:  geometry trains young minds, sharpens wits. ",
    "latin": "in geometria partem fatentur esse utilem teneris aetatibus. agitari namque animos et acui ingenia et celeritatem percipiendi venire inde concedunt, sed prodesse eam non ut ceteras artes, cum perceptae sint, sed cum discatur, existimant: ea vulgaris opinio est.",
    "strictness": "strict",
    "highlights": [
@@ -28548,7 +28548,7 @@
     "1",
     "2"
    ],
-   "gloss": "**Merged record** (2 components: 1.10.35-36, 1.10.36).\n\n• [1.10.35-36] **Merged record** (2 components: 1.10.35, 1.10.36).\n• [1.10.36] Inst. 1.10.36: **\"linearis ratio\"** — the linear/measuring side of geometry that is relevant in disputes about boundaries and measures. CLUSTER with T1 1.10.40.",
+   "gloss": "\n• [1.10.36] Inst. 1.10.36: **\"linearis ratio\"** — the linear/measuring side of geometry that is relevant in disputes about boundaries and measures.",
    "latin": "[1.10.35-36] \n\n[1.10.36] ilia vero linearis ratio et ipsa quidem cadit frequenter in causas (nam de terminis mensurisque sunt lites), sed habet maiorem quandam aliam cum arte oratoria cognationem.",
    "strictness": "strict",
    "highlights": [],
@@ -28603,7 +28603,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "**Inst. 1.10.37**: **The famous parallel between geometric and rhetorical demonstration**: \"ex prioribus geometria probat insequentia, ex certis incerta; nonne id in dicendo facimus?\" — geometry proves the consequents from the antecedents, the uncertain from the certain; do we not do the same in speaking? Foundational for the geometry-as-model-of-reasoning argument.",
+   "gloss": "**Inst. 1.10.37**: parallel between geometric and rhetorical demonstration.",
    "latin": "iam primum ordo est geometriae necessarius; nonne et eloquentiae? ex prioribus geometria probat insequentia, ex certis incerta; nonne id in dicendo facimus? quid ? illa propositarum quaestionum conclusio non fere tota constat syllogismis? propter quod plures invenias, qui dialecticae similem quam qui rhetoricae fateantur hanc artem. verum et orator etiamsi raro non tamen nunquam probabit dialectice.",
    "strictness": "strict",
    "highlights": [
@@ -28631,7 +28631,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "**Inst. 1.10.39**: Geometric methods of detecting fallacies — \"falsa quoque veris similia geometrica ratione deprehendit\". The Greek *pseudographies* — pseudo-proofs that children once played with. Methodological-mathematical.",
+   "gloss": "**Inst. 1.10.39**: Geometric methods of detecting fallacies ",
    "latin": "falsa quoque veris similia geometrica ratione deprehendit. fit hoc et in numeris per quasdam, quas ψευδογραφίας vocant, quibus pueri ludere solebamus. sed alia maiora sunt. nam quis non ita proponenti credat? quorum locorum extremae lineae eandem mensuram colligunt, eorum spatium quoque, quod iis lineis continetur, par sit necesse est.",
    "strictness": "strict",
    "highlights": [
@@ -28665,7 +28665,7 @@
     "1",
     "2"
    ],
-   "gloss": "**Merged record** (3 components: 1.10.40-44, 1.10.41, 1.10.44).\n\n• [1.10.40-44] **Merged record** (3 components: 1.10.40, 1.10.41, 1.10.44).\n• [1.10.41] **Inst. 1.10.41**: substantive isoperimetric reasoning — \"ideoque illa circumcurrens linea si efficiet orbem... amplius spatium complectetur quam si quadratum paribus oris efficiat\". The circle encloses more area than the square of the same perimeter. CLUSTER with T1 1.10.40.\n• [1.10.44] **Inst. 1.10.44**: **continued isoperimetric calculations** — 19×19 vs other rectangular forms with same perimeter. Substantive arithmetic-geometric reasoning.",
+   "gloss": "\n• [1.10.41] **Inst. 1.10.41**: substantive isoperimetric reasoning — \"ideoque illa circumcurrens linea si efficiet orbem... amplius spatium complectetur quam si quadratum paribus oris efficiat\". The circle encloses more area than the square of the same perimeter.",
    "latin": "[1.10.40-44] \n\n[1.10.41] ideoque illa circumcurrens linea si efficiet orbem, quae forma est in planis maxime perfecta, amplius spatium complectetur quam si quadratum paribus oris efficiat, rursus quadrata triangulis, triangula ipsa plus aequis lateribus quam inaequalibus.\n\n[1.10.44] si vero porrecti utrinque undeviceni singulis distent, non plures intus quadratos habebunt, quam per quot longitudo ducetur; quae circumibit autem linea, eiusdem spatii erit, cuius ea quae centum continet. ita quidquid formae quadrati detraxeris, amplitudini quoque peribit.",
    "strictness": "strict",
    "highlights": [],
@@ -28746,7 +28746,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "**Inst. 1.10.46**: **Geometry rises to the rationale of the cosmos** — \"se eadem geometria tollit ad rationem usque mundi: in qua, cum siderum certos constitutosque cursus numeris docet, discimus nihil esse inordinatum atque fortuitum.\" Substantive on geometry as the discipline through which the cosmos's order becomes intelligible — the orator-pedagogical defence of mathematical learning.",
+   "gloss": "**Inst. 1.10.46**:  geometry as the discipline through which the cosmos's order becomes intelligible ",
    "latin": "quid quod se eadem geometria tollit ad rationem usque mundi? in qua, cum siderum certos constitutosque cursus numeris docet, discimus nihil esse inordinatum atque fortuitum; quod ipsum nonnunquam pertinere ad oratorem potest.",
    "strictness": "strict",
    "highlights": [
@@ -28803,7 +28803,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "**Inst. 1.10.49**: closing — geometry handles questions like \"*de ratione dividendi, de sectione in infinitum*\" — division and infinite sectioning. Substantive mathematical content (division, infinity).",
+   "gloss": "**Inst. 1.10.49**: geometry handles questions like \"*de ratione dividendi, de sectione in infinitum*\"",
    "latin": "illud utique iam proprium ad efficiendum quod intendimus, plurimas quaestiones, quibus difficilior alia ratione explicatio est, ut de ratione dividendi, de sectione in infinitum, de celeritate augenda, linearibus illis probationibus solvi solere; ut, si est oratori (quod proximus demonstrabit liber) de omnibus rebus dicendum, nullo modo sine geometria esse possit orator.",
    "strictness": "strict",
    "highlights": [
@@ -28874,7 +28874,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "Inst. 1.12.6: list of disciplines for orator — grammarian, *geometra*, musician. Curriculum-defending.",
+   "gloss": "Inst. 1.12.6: list of disciplines for orator: grammarian, *geometra*, musician.",
    "latin": "aut dicant isti mihi, quae sit alia ratio discendi. grammatico soli deserviamus, deinde geometrae tantum, omittamus interim quod didicimus? mox transeamus ad musicum, excidant priora? et cum Latinis studebimus litteris, non respiciamus ad Graecas, et, ut semel finiam, nihil faciamus nisi novissimum?",
    "strictness": "strict",
    "highlights": [
@@ -28903,7 +28903,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "Inst. 1.12.14: orator should not descend \"ad minutissima usque geometriae opera\" — must not get bogged in technical details of geometry. Disciplinary discussion.",
+   "gloss": "Inst. 1.12.14: orator should not descend 'ad minutissima usque geometriae opera'",
    "latin": "nam nec ego consumi studentem in his artibus volo, nec moduletur aut musicis notis cantica excipiat, nec utique ad minutissima usque geometriae opera descendat, non comoedum in pronuntiando nec saltatorem in gestu facio; quae si omnia exigerem, suppeditabat tamen tempus. longa est enim, quae discit, aetas, et ego non de tardis ingeniis loquor.",
    "strictness": "strict",
    "highlights": [
@@ -28934,7 +28934,7 @@
    "tiers": "1",
    "gloss": "Inst. 1.12.15: Plato's mastery of disciplines including the journey to Italy to learn from the Pythagoreans, then to Egypt for further learning. Biographical-mathematical.",
    "latin": "denique cur in his omnibus, quae discenda oratori futuro puto, eminuit Plato? qui non contentus disciplinis, quas praestare poterant Athenae, non Pythagoreorum, ad quos in Italiam navigaverat, Aegypti quoque sacerdotes adiit atque eorum arcana perdidicit.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Pythagoreorum, ad quos in Italiam navigaverat",
     "Aegypti"
@@ -29366,7 +29366,7 @@
    "tiers": "1",
    "gloss": "Inst. 2.18.1: classification of arts: contemplative arts include \"astrologia\" — purely cognitive, no action. Disciplinary classification.",
    "latin": "cum sint autem artium aliae positae in inspectione, id est cognitione et aestimatione rerum, qualis est astrologia, nullum exigens actum sed ipso rei, cuius studium habet, intellectu contenta, quae θεωρητικὴ vocatur; aliae in agendo, quarum in hoc finis est et ipso actu perficitur nihilque post actum operis relinquit, quae πρακτική dicitur, qualis saltatio est;",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "astrologia, nullum exigens actum",
     "ipso rei, cuius studium habet, intellectu contenta",
@@ -29506,7 +29506,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "**Inst. 2.21.19**: orator deals with \"mensuras et numeros\" — measurements and numbers — therefore must touch on *geometriae partem*. Substantive disciplinary inclusion.",
+   "gloss": "**Inst. 2.21.19**: orator deals with \"mensuras et numeros\" ",
    "latin": "livores et tumores in corpore cruditatis an veneni signa sint, non tractat orator? at est id ex ratione medicinae. circa mensuras et numeros non versabitur? dicamus has geometriae esse partes. equidem omnia fere credo posse casu aliquo venire in officium oratoris; quod si non accidet, non erunt ei subiecta.",
    "strictness": "strict",
    "highlights": [
@@ -29882,7 +29882,7 @@
    ],
    "gloss": "**Merged record** (2 components: 3.6.23-49, 3.6.49).\n\n• [3.6.23-49] **Merged record** (2 components: 3.6.23, 3.6.49).\n• [3.6.49] Inst. 3.6.49: continuation — Aristotle's rhetorical questions involve \"an sit, quale, quantum\". CLUSTER.",
    "latin": "[3.6.23-49] \n\n[3.6.49] Aristoteles in rhetoricis, an sit , quale , quantum , et quam multum sit? quaerendum putat. quodam tamen loco finitionis quoque vim intelligit, quo dicit quaedam sic defendi, sustuli , sed non furtum feci; Percussi, sed non iniuriam feci.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[3.6.23-49] \n\n[3.6.49] Aristoteles in rhetoricis, an sit , quale , quantum , et quam multum sit? quaerendum putat. quodam tamen loco finitionis quoque vim intelligit, quo dicit quaedam sic defendi, sustuli , sed non furtum feci; Percussi, sed non iniuriam feci.",
    "merged_from": [
@@ -30449,7 +30449,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "**Inst. 5.10.7**: \"Ἀπόδειξις est evidens probatio, ideoque apud Geometras γραμμικαὶ ἀποδείξεις dicuntur\" — among the geometers, \"linear demonstrations\" are so called. Direct technical reference to the *Elements*-style proof.",
+   "gloss": "**Inst. 5.10.7**: among the geometers, \"linear demonstrations\" are so called. ",
    "latin": "Ἀπόδειξις est evidens probatio, ideoque apud Geometras γραμμικαὶ ἀποδείξεις dicuntur Hanc et ab epichiremate Caecilius putat differre solo genere conclusionis et esse apodixin imperfectum epichirema eadem causa, qua diximus enthymema syllogismo distare. nam et epichirema syllogismi pars est. quidam inesse epichiremati apodixin putant et esse partem eius confirmantem.",
    "strictness": "strict",
    "highlights": [
@@ -30604,7 +30604,7 @@
     "Greek-anomal"
    ],
    "tiers": "1",
-   "gloss": "**Inst. 5.11.34**: Ἀναλογία defined: \"ut unum ad decem, ita decem ad centum\" — as 1 is to 10, so 10 is to 100. **Explicit numerical proportion** with example. Strict.",
+   "gloss": "**Inst. 5.11.34**: Ἀναλογία defined: as 1 is to 10, so 10 is to 100. ",
    "latin": "Ἀναλογίαν quidam a simili separaverunt, nos eam subiectam huic generi putamus. nam , ut unum ad decem, ita ita, Spalding : et, MSS. decem ad centum simile certe est; et ut hostis, sic malus civis. quanquam haec ulterius quoque procedere solent: si turpis dominae consuetudo cum servo, turpis domino cum ancilla; si mutis animalibus finis voluptas, idem homini.",
    "strictness": "strict",
    "highlights": [
@@ -31073,7 +31073,7 @@
    ],
    "gloss": "**Merged record** (4 components: 9.4.27-52, 9.4.45, 9.4.48, 9.4.52).\n\n• [9.4.27-52] **Merged record** (4 components: 9.4.27-85, 9.4.45, 9.4.48, 9.4.52).\n\n• [9.4.27-85] **Merged record** (5 components: 9.4.27, 9.4.45, 9.4.48, 9.4.52, 9.4.85).\n\n• [9.4.27] **Inst. 9.4.27**: **dimensio of words to feet** — \"non enim ad pedes verba dimensa sunt\". The rhetorical-rhythmic mathematics of word-arrangement. Substantive on prose-rhythm as quantitative.\n• [9.4.45] **Inst. 9.4.45**: **structure and dimensio of voice** — \"constat aut numeris (numeros ῥυθμούς)... aut μέτροις, id est dimensione quadam\". Explicit doubling of the mathematical foundation of prose rhythm. CLUSTER.\n• [9.4.48] Inst. 9.4.48: continuation — metrical feet. CLUSTER.\n• [9.4.52] Inst. 9.4.52: dimensio in oratorical composition. CLUSTER.\n• [9.4.85] Inst. 9.4.85: dimensio of syllabic feet. CLUSTER.\n• [9.4.45] **Inst. 9.4.45**: **structure and dimensio of voice** — \"constat aut numeris (numeros ῥυθμούς)... aut μέτροις, id est dimensione quadam\". Explicit doubling of the mathematical foundation of prose rhythm. CLUSTER.\n• [9.4.48] Inst. 9.4.48: continuation — metrical feet. CLUSTER.\n• [9.4.52] Inst. 9.4.52: dimensio in oratorical composition. CLUSTER.\n• [9.4.45] **Inst. 9.4.45**: **structure and dimensio of voice** — \"constat aut numeris (numeros ῥυθμούς)... aut μέτροις, id est dimensione quadam\". Explicit doubling of the mathematical foundation of prose rhythm. CLUSTER.\n• [9.4.48] Inst. 9.4.48: continuation — metrical feet. CLUSTER.\n• [9.4.52] Inst. 9.4.52: dimensio in oratorical composition. CLUSTER.",
    "latin": "[9.4.27-52] [9.4.27-85] [9.4.27] non enim ad pedes verba dimensa sunt, ideoque ex loco transferuntur ut locum, ut iungantur, quo congruunt maxime, sicut ut structura saxorum rudium etiam ipsa enormitas invenit, cui applicari et ut quo possit insistere. felicissimus tamen sermo est, cui et rectus ordo et apta iunctura et cum his numerus opportune cadens contigit. quaedam vero transgressiones et longae sunt nimis,\n\n[9.4.45] omnis structura ac dimensio et copulatio vocum constat aut numeris (numeros ῥυθμούς accipi volo) aut μέτροις , id est dimensione quadam. quod , etiamsi constat utrumque pedibus, habet tamen non simplicem differentiam.\n\n[9.4.48] sunt hi et metrici pedes, sed hoc interest, quod rhythmo indifferens, dactylicusne ille priores habeat breves an sequentes; tempus enim solum metitur, ut a sublatione ad positionem idem spatii sit. proinde alia dimensio est versuum; pro dactylico poni non poterit anapaestus aut spondeus, nec paean eadem ratione brevibus incipiet ac desinet.\n\n[9.4.52] in compositione orationis certior et magis omnibus aperta servari debet dimensio. est igitur ut pedibus et metricis quidem pedibus, qui qui added by Halm. adeo reperiuntur ut oratione, ut ut ea frequenter non sentientibus nobis omnium generum excidant versus; et contra nihil non, quod est prosa scriptum, redigi possit ut quaedam versiculorum genera vel ut membra, sicut sicut, Spalding : sint at (ad, G ), AG. ut molestos incidimus grammaticos,\n\n[9.4.85] veritas vero quia patitur aeque brevem esse vel longam vocalem, cum est sola, quam cum eam consonantes una pluresve praecedunt, certe ut dimensione pedum syllaba, quae est brevis, insequente alia vel longa vel longs, added by Christ. vel brevi, quae tamen duas primas consonantes habeat, fit longa, ut agrestem tenui musam: nam A brevis,\n\n[9.4.45] omnis structura ac dimensio et copulatio vocum constat aut numeris (numeros ῥυθμούς accipi volo) aut μέτροις , id est dimensione quadam. quod , etiamsi constat utrumque pedibus, habet tamen non simplicem differentiam.\n\n[9.4.48] sunt hi et metrici pedes, sed hoc interest, quod rhythmo indifferens, dactylicusne ille priores habeat breves an sequentes; tempus enim solum metitur, ut a sublatione ad positionem idem spatii sit. proinde alia dimensio est versuum; pro dactylico poni non poterit anapaestus aut spondeus, nec paean eadem ratione brevibus incipiet ac desinet.\n\n[9.4.52] in compositione orationis certior et magis omnibus aperta servari debet dimensio. est igitur ut pedibus et metricis quidem pedibus, qui qui added by Halm. adeo reperiuntur ut oratione, ut ut ea frequenter non sentientibus nobis omnium generum excidant versus; et contra nihil non, quod est prosa scriptum, redigi possit ut quaedam versiculorum genera vel ut membra, sicut sicut, Spalding : sint at (ad, G ), AG. ut molestos incidimus grammaticos,\n\n[9.4.45] omnis structura ac dimensio et copulatio vocum constat aut numeris (numeros ῥυθμούς accipi volo) aut μέτροις , id est dimensione quadam. quod , etiamsi constat utrumque pedibus, habet tamen non simplicem differentiam.\n\n[9.4.48] sunt hi et metrici pedes, sed hoc interest, quod rhythmo indifferens, dactylicusne ille priores habeat breves an sequentes; tempus enim solum metitur, ut a sublatione ad positionem idem spatii sit. proinde alia dimensio est versuum; pro dactylico poni non poterit anapaestus aut spondeus, nec paean eadem ratione brevibus incipiet ac desinet.\n\n[9.4.52] in compositione orationis certior et magis omnibus aperta servari debet dimensio. est igitur ut pedibus et metricis quidem pedibus, qui qui added by Halm. adeo reperiuntur ut oratione, ut ut ea frequenter non sentientibus nobis omnium generum excidant versus; et contra nihil non, quod est prosa scriptum, redigi possit ut quaedam versiculorum genera vel ut membra, sicut sicut, Spalding : sint at (ad, G ), AG. ut molestos incidimus grammaticos,",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "non enim ad pedes verba dimensa sunt"
    ],
@@ -31201,7 +31201,7 @@
    "tiers": "2",
    "gloss": "Inst. 9.4.85: dimensio of syllabic feet. CLUSTER.",
    "latin": "veritas vero quia patitur aeque brevem esse vel longam vocalem, cum est sola, quam cum eam consonantes una pluresve praecedunt, certe ut dimensione pedum syllaba, quae est brevis, insequente alia vel longa vel longs, added by Christ. vel brevi, quae tamen duas primas consonantes habeat, fit longa, ut agrestem tenui musam: nam A brevis,",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -32084,7 +32084,7 @@
    "tiers": "2",
    "gloss": "**Inst. 12.11.22**: **Plato's and Aristotle's mastery of all disciplines** — \"quae tandem ars digna litteris Platoni defuit? quot saeculis Aristoteles didicit, ut non solum quae ad philosophos atque oratores pertinent, scientia complecteretur\". Substantive on the polymathic ideal of philosophical education including mathematics.",
    "latin": "quae tandem ars digna litteris Platoni defuit? quot sacculis Aristoteles didicit, ut non solum, quae ad philosophos atque oratores pertinent, scientia complecteretur, sed animalium satorumque naturas omnes perquireret? illis haec invenienda fuerunt, nobis cognoscenda sunt. tot nos praeceptoribus, tot exemplis instruxit antiquitas, ut possit videri nulla sorte nascendi aetas felicior quam nostra, cui docendae priores elaborarunt.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "quae tandem ars digna litteris Platoni defuit",
     "Aristoteles didicit",
@@ -49080,7 +49080,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Quintilian Inst. 1.10.35** — geometry as orator's subject; \"in causis vero vel frequentissime versari solet; in quibus actor, non dico, si circa summas trepidat, **sed si digitorum saltem incerto aut indecoro gestu a computatione dissentit**\" — if the orator merely dissents from the calculation by an uncertain or unbecoming gesture of the fingers, he discredits himself. Treats finger-arithmetic as standard oratorical equipment.",
+   "gloss": "**Quintilian Inst. 1.10.35**: geometry as orator's subject; ",
    "latin": "nec sine causa summi viri etiam impensam huic scientiae operam dederunt. nam cum sit geometria divisa in numeros atque formas, numerorum quidem notitia non oratori modo, sed cuicunque saltem primis litteris erudito necessaria est. in causis vero vel frequentissime versari solet; in quibus actor, non dico, si circa summas trepidat, sed si digitorum saltem incerto aut indecoro gestu a computatione dissentit, iudicatur indoctus.",
    "text": "nec sine causa summi viri etiam impensam huic scientiae operam dederunt. nam cum sit geometria divisa in numeros atque formas, numerorum quidem notitia non oratori modo, sed cuicunque saltem primis litteris erudito necessaria est. in causis vero vel frequentissime versari solet; in quibus actor, non dico, si circa summas trepidat, sed si digitorum saltem incerto aut indecoro gestu a computatione dissentit, iudicatur indoctus.",
    "highlights": [
