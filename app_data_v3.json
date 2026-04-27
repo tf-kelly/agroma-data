@@ -36845,7 +36845,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "Letter 90.17: **Alexander the Great learning geometry** to discover how small the earth is. The teacher's reply: \"ista omnibus eadem sunt, aeque difficilia\" — these things are equally difficult for everyone. Substantive engagement with geometry as an intellectual discipline.",
+   "gloss": "Letter 90.17: Alexander the Great learning geometr\n\n",
    "latin": "Alexander Macedonum rex discere geometriam coeperat, infelix, sciturus, quam pusilla terra esset, ex qua minimum occupaverat. Ita dico: infelix ob hoc, quod intellegere debebat falsum se gerere cognomen. Quis enim esse magnus in pusillo potest? Erant illa, quae tradebantur, suptilia et diligenti intentione discenda, non quae perciperet vesanus homo et trans oceanum cogitationes suas mittens. Facilia, inquit, me doce. Cui praeceptor ista, inquit, omnibus eadem sunt, aeque difficilia.",
    "strictness": "strict",
    "highlights": [
@@ -36877,7 +36877,7 @@
    "tiers": "1",
    "gloss": "Letter 90.20: Posidonius on the geometric mechanics of weaving — warp and woof, suspended weights, the comb-like reed. Explicitly geometric description of a craft.",
    "latin": "Incredibilest, mi Lucili, quam facile etiam magnos viros dulcedo orationis abducat vero. Ecce Posidonius, ut mea fert opinio, ex is is Buecheler; his BA. qui plurimum philosophiae contulerunt, dum vult describere primum, quemadmodum alia torqueantur fila, alia ex molli solidoque ducantur, deinde quemadmodum tela suspensis ponderibus rectum stamen extendet, quemadmodum subtemen insertum, quod duritiam utrimque utrimque later MSS.; utrumque BA. conprimentis tramae remolliat, spatha coire cogatur et iungi. Textrini quoque artem a sapientibus dixit iuventam, oblitus postea repertum hoc subtilius genus, in quo Tela iugo vincta vincta (with Ovid) a later MS.; iuncta BA. est, stamen secernit harundo, Inseritur medium radiis subtemen acutis, Quod lato paviunt paviunt Gruter; pariunt BA. insecti pectine dentes. Quid, si contigisset illi adire adire later MSS.; addere BA. has nostri temporis telas, quibus quibus later MSS.; in quibus BA. vestis nihil celatura conficitur, in qua non dico nullum corpori auxilium, sed nullum pudori est?",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Posidonius",
     "quemadmodum alia torqueantur fila",
