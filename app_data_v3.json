@@ -49102,7 +49102,7 @@
    "work_id": "civ",
    "citation": "11.5",
    "verdict": "KEEP",
-   "strictness": "strict",
+   "strictness": "loose",
    "substantive": true,
    "topics": [
     "cosmology",
@@ -49152,7 +49152,7 @@
    "tiers": [
     "T2"
    ],
-   "gloss": "**Augustine De Civitate Dei 11.9** — Augustine setting up the six/seven framework: \"**ad inplendum senarium uel septenarium numerum repetitus est propter septenariam cognitionem; senariam scilicet operum, quae fecit Deus, et septimam quietis Dei**\" — the day repeated to fill the senary or septenary number, on account of the sevenfold knowing: senary of the works God made, seventh of God's rest. Programmatic introduction to the numerological reading developed in 11.30-31.",
+   "gloss": "**Augustine De Civitate Dei 11.9** setting up the six/seven framework",
    "latin": "Nimirum ergo si ad istorum dierum opera Dei pertinent angeli, ipsi sunt illa lux, quae diei nomen accepit, cuius unitas ut commendaretur, non est dictus dies primus, sed dies unus. Nec alius est dies secundus aut tertius aut ceteri; sed idem ipse unus ad inplendum senarium uel septenarium numerum repetitus est propter septenariam cognitionem; senariam scilicet operum, quae fecit Deus, et septimam quietis Dei.",
    "text": "Nimirum ergo si ad istorum dierum opera Dei pertinent angeli, ipsi sunt illa lux, quae diei nomen accepit, cuius unitas ut commendaretur, non est dictus dies primus, sed dies unus. Nec alius est dies secundus aut tertius aut ceteri; sed idem ipse unus ad inplendum senarium uel septenarium numerum repetitus est propter septenariam cognitionem; senariam scilicet operum, quae fecit Deus, et septimam quietis Dei.",
    "highlights": [
@@ -49186,14 +49186,14 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Augustine De Civitate Dei 11.29** — Augustine on what angels know directly vs. what humans know by indirect inference: \"**aliter scitur rectitudo linearum seu veritas figurarum, cum intellecta conspicitur, aliter cum in puluere scribitur**\" — the straightness of lines, or the truth of figures, is known one way when it is beheld with the intellect, another way when it is written in the dust. Direct invocation of the *pulvis*-board of geometric demonstration (cf. Persius 1.131 \"abaco numeros et secto in pulvere metas\"; Apuleius *Apol.* 16 \"abaco et puluisculo\"). Augustine treats the dust-board geometric figure as the standard reference for sense-bound mathematical cognition.",
+   "gloss": "**Augustine De Civitate Dei 11.29**: what angels know directly vs. what humans know by indirect inference; \"**aliter scitur rectitudo linearum seu veritas figurarum, cum intellecta conspicitur, aliter cum in puluere scribitur**\": the straightness of lines, or the truth of figures, is known one way when it is beheld with the intellect, another way when it is written in the dust.  *pulvis*-board of geometric demonstration (cf. Persius 1.131 \"abaco numeros et secto in pulvere metas\"; Apuleius *Apol.* 16 \"abaco et puluisculo\").",
    "latin": "Illi quippe angeli sancti non per uerba sonantia Deum discunt, sed per ipsam praesentiam inmutabilis ueritatis, hoc est Verbum eius unigenitum, et ipsum Verbum et Patrem et eorum Spiritum sanctum, eamque esse inseparabilem trinitatem singulasque in ea personas esse substantiam, et tamen omnes non tres deos esse, sed unum Deum, ita nouerunt, ut eis magis ista, quam nos ipsi nobis cogniti simus. Multum enim differt, utrum in ea ratione cognoscatur aliquid, secundum quam factum est, an in se ipso; sicut aliter scitur rectitudo linearum seu veritas figurarum, cum intellecta conspicitur, aliter cum in puluere scribitur; et aliter iustitia in ueritate incommutabili, aliter in anima iusti.",
    "text": "Illi quippe angeli sancti non per uerba sonantia Deum discunt, sed per ipsam praesentiam inmutabilis ueritatis, hoc est Verbum eius unigenitum, et ipsum Verbum et Patrem et eorum Spiritum sanctum, eamque esse inseparabilem trinitatem singulasque in ea personas esse substantiam, et tamen omnes non tres deos esse, sed unum Deum, ita nouerunt, ut eis magis ista, quam nos ipsi nobis cogniti simus. Multum enim differt, utrum in ea ratione cognoscatur aliquid, secundum quam factum est, an in se ipso; sicut aliter scitur rectitudo linearum seu veritas figurarum, cum intellecta conspicitur, aliter cum in puluere scribitur; et aliter iustitia in ueritate incommutabili, aliter in anima iusti.",
    "highlights": [
     "aliter scitur rectitudo linearum seu veritas figurarum",
     "cum intellecta conspicitur, aliter cum in puluere scribitur"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "stoa0040:civ:11.30",
@@ -49275,7 +49275,7 @@
    "work_id": "conf",
    "citation": "10.9.16",
    "verdict": "KEEP",
-   "strictness": "strict",
+   "strictness": "loose",
    "substantive": true,
    "topics": [
     "liberal-arts",
@@ -49325,7 +49325,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Augustine Confessions 10.12.19** — central Augustinian passage on the special ontological status of mathematical objects in memory. \"**Item continet memoria numerorum dimensionumque rationes et leges innumerabiles, quarum nullam corporis sensus impressit**\" — memory likewise contains innumerable principles and laws of numbers and dimensions, none of which any bodily sense has impressed. The contrast between physical lines (\"**lineas fabrorum vel etiam tenuissimas, sicut filum araneae**\") and the geometric lines themselves is exact: \"**illae aliae sunt, non sunt imagines earum**.\" Same for numbers: \"**sensi etiam numeros omnibus corporis sensibus quos numeramus, sed illi alii sunt quibus numeramus**\" — the numbers we count with are different from the numbers we sense. Foundational passage for the medieval-philosophical understanding of mathematical objects as intelligible. Cited by Cuomo as a defining locus for Augustine's mathematical metaphysics.",
+   "gloss": "**Augustine Confessions 10.12.19** the special ontological status of mathematical objects in memory. ",
    "latin": "item continet memoria numerorum dimensionumque rationes et leges innumerabiles, quarum nullam corporis sensus impressit, quia nec ipsae coloratae sunt aut sonant aut olent aut gustatae aut contrectatae sunt. audivi sonos verborum, quibus significantur cum de his disseritur, sed illi alii, istae autem alia sunt. nam illi aliter graece, aliter latine sonant, istae vero nec graecae nec latinae sunt nec aliud eloquiorum genus. vidi lineas fabrorum vel etiam tenuissimas, sicut filum araneae, sed illae aliae sunt, non sunt imagines earum quas mihi nuntiavit carnis oculus. novit eas quisquis sine ulla cogitatione qualiscumque corporis intus agnovit eas. sensi etiam numeros omnibus corporis sensibus quos numeramus, sed illi alii sunt quibus numeramus, nec imagines istorum sunt et ideo valde sunt. rideat me ista dicentem qui non eos videt, et ego doleam ridentem me.",
    "text": "item continet memoria numerorum dimensionumque rationes et leges innumerabiles, quarum nullam corporis sensus impressit, quia nec ipsae coloratae sunt aut sonant aut olent aut gustatae aut contrectatae sunt. audivi sonos verborum, quibus significantur cum de his disseritur, sed illi alii, istae autem alia sunt. nam illi aliter graece, aliter latine sonant, istae vero nec graecae nec latinae sunt nec aliud eloquiorum genus. vidi lineas fabrorum vel etiam tenuissimas, sicut filum araneae, sed illae aliae sunt, non sunt imagines earum quas mihi nuntiavit carnis oculus. novit eas quisquis sine ulla cogitatione qualiscumque corporis intus agnovit eas. sensi etiam numeros omnibus corporis sensibus quos numeramus, sed illi alii sunt quibus numeramus, nec imagines istorum sunt et ideo valde sunt. rideat me ista dicentem qui non eos videt, et ego doleam ridentem me.",
    "highlights": [
@@ -49359,7 +49359,7 @@
    "tiers": [
     "T2"
    ],
-   "gloss": "**Augustine Confessions 10.15.23** — companion to 10.12.19, restating the special mode of presence of numbers in memory: \"**nomino numeros quibus numeramus; en adsunt in memoria mea non imagines eorum, sed ipsi**\" — I name the numbers we count with; they are present in my memory not as their images, but they themselves.",
+   "gloss": "**Augustine Confessions 10.15.23**: companion to 10.12.19, the special mode of presence of numbers in memory",
    "latin": "sed utrum per imagines an non, quis facile dixerit? nomino quippe lapidem, nomino solem, cum res ipsae non adsunt sensibus meis; in memoria sane mea praesto sunt imagines earum. nomino dolorem corporis, nec mihi adest dum nihil dolet; nisi tamen adesset imago eius in memoria mea, nescirem quid dicerem nec eum in disputando a voluptate discernerem. nomino salutem corporis cum salvus sum corpore; adest mihi quidem res ipsa. verum tamen nisi et imago eius inesset in memoria mea, nullo modo recordarer quid huius nominis significaret sonus. nomino numeros quibus numeramus; en adsunt in memoria mea non imagines eorum, sed ipsi.",
    "text": "sed utrum per imagines an non, quis facile dixerit? nomino quippe lapidem, nomino solem, cum res ipsae non adsunt sensibus meis; in memoria sane mea praesto sunt imagines earum. nomino dolorem corporis, nec mihi adest dum nihil dolet; nisi tamen adesset imago eius in memoria mea, nescirem quid dicerem nec eum in disputando a voluptate discernerem. nomino salutem corporis cum salvus sum corpore; adest mihi quidem res ipsa. verum tamen nisi et imago eius inesset in memoria mea, nullo modo recordarer quid huius nominis significaret sonus. nomino numeros quibus numeramus; en adsunt in memoria mea non imagines eorum, sed ipsi.",
    "highlights": [
