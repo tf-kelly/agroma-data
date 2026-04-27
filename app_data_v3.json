@@ -3850,16 +3850,14 @@
     "geometr*"
    ],
    "tiers": "1,2",
-   "gloss": "Polyaenus as 'in geometriaque perfecto' (perfect in geometry); Democritus' large sun vs Epicurus' foot-sized sun — mathematical-vs-perceptual debate.",
+   "gloss": "",
    "latin": "nam si omnes atomi declinabunt, nullae umquam cohaerescent, sive aliae declinabunt, aliae suo nutu recte ferentur, primum erit hoc quasi provincias atomis dare, quae recte, quae oblique ferantur, deinde eadem illa atomorum, in quo etiam Democritus haeret, turbulenta concursio hunc mundi ornatum efficere non poterit. ne illud quidem physici, credere aliquid esse minimum, quod profecto numquam putavisset, si a Polyaeno, familiari suo, geometrica discere maluisset quam illum etiam ipsum dedocere. sol Democrito magnus videtur, quippe homini erudito in geometriaque perfecto, huic pedalis fortasse; tantum enim esse censet, quantus videtur, vel paulo aut maiorem aut minorem.",
    "english": "Torquatus, defending Epicurus's reception of natural philosophy from Democritus: from him Epicurus took atoms and void, the infinite universe with innumerable worlds, but corrected him on the swerve. Polyaenus, summum mathematicum, abandoned mathematics on Epicurus's authority — Cicero offers this as evidence of intellectual capitulation, not freedom.",
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
-    "si omnes atomi declinabunt, nullae umquam cohaerescent",
-    "turbulenta concursio",
     "in geometriaque perfecto"
    ],
    "provenance": "verified-from-source-parse"
@@ -4092,7 +4090,7 @@
     "music*"
    ],
    "tiers": "1,3",
-   "gloss": "'geometrae vero et musici, grammatici etiam more quodam loquuntur suo' — geometers, musicians, grammarians have their own technical vocabulary. Programmatic on technical languages.",
+   "gloss": "'geometrae vero et musici, grammatici etiam more quodam loquuntur suo': geometers, musicians, grammarians have their own technical vocabulary",
    "latin": "itaque et dialectici et physici verbis utuntur iis, quae ipsi Graeciae nota non sint, geometrae vero et musici, grammatici etiam more quodam loquuntur suo. ipsae rhetorum artes, quae sunt totae forenses atque populares, verbis tamen in docendo quasi privatis utuntur ac suis. atque ut omittam has artis elegantes et ingenuas, ne opifices quidem tueri sua artificia possent, nisi vocabulis uterentur nobis incognitis, usitatis sibi. quin etiam agri cultura, quae abhorret ab omni politiore elegantia, tamen eas res, in quibus versatur, nominibus notavit novis. quo magis hoc philosopho faciendum est. ars est enim philosophia vitae, de qua disserens arripere verba de foro non potest.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -4100,7 +4098,7 @@
    "highlights": [
     "geometrae vero et musici, grammatici etiam more quodam loquuntur suo"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0474:phi048:3.5",
@@ -4122,7 +4120,7 @@
     "music*"
    ],
    "tiers": "1,3",
-   "gloss": "List of disciplines: 'philosophia, ut rhetorica, dialectica, grammatica, geometria, musica' — geometry as one of the canonical liberal arts. Brief but programmatic.",
+   "gloss": "geometry as one of the canonical liberal arts. ",
    "latin": "Quamquam ex omnibus philosophis Stoici plurima novaverunt, Zenoque, eorum princeps, non tam rerum inventor fuit quam verborum novorum. quodsi in ea lingua, quam plerique uberiorem putant, concessum a Graecia est ut doctissimi homines de rebus non pervagatis inusitatis verbis uterentur, quanto id nobis magis est concedendum, qui ea nunc primum audemus attingere? et quoniam saepe diximus, et quidem cum aliqua querela non Graecorum modo, sed eorum etiam, qui se Graecos magis quam nostros haberi volunt, nos non modo non vinci a Graecis verborum copia, sed esse in ea etiam superiores, elaborandum est ut hoc non in nostris solum artibus, sed etiam in illorum ipsorum adsequamur. quamquam ea verba, quibus instituto veterum utimur pro Latinis, ut ipsa philosophia, ut rhetorica, dialectica, grammatica, geometria, musica, quamquam Latine ea dici poterant, tamen, quoniam usu percepta sunt, nostra ducamus.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -4130,7 +4128,7 @@
    "highlights": [
     "rhetorica, dialectica, grammatica, geometria, musica"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0474:phi048:5.4",
@@ -4199,7 +4197,7 @@
     "ratio"
    ],
    "tiers": "1,3",
-   "gloss": "**Fin. 5.9**: Peripatetic natural philosophy investigated **\"mathematicorum ratione\"** — by mathematical reasoning — to reach knowledge of hidden things. Brief but methodological.",
+   "gloss": "**Fin. 5.9**:  natural philosophy conducted **\"mathematicorum ratione\"** ",
    "latin": "Sic est igitur locutus: Quantus ornatus in Peripateticorum disciplina sit satis est a me, ut brevissime potuit, paulo ante dictum. sed est forma eius disciplinae, sicut fere ceterarum, triplex: una pars est naturae, disserendi altera, vivendi tertia. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poe+tice loquar, praetermissa sit; quin etiam, cum de rerum initiis omnique mundo locuti essent, ut multa non modo probabili argumentatione, sed etiam necessaria mathematicorum ratione concluderent, maximam materiam ex rebus per se investigatis ad rerum occultarum cognitionem attulerunt.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -4288,7 +4286,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "ipsa scientia",
     "gaudeant"
@@ -4313,7 +4311,7 @@
     "geometr*"
    ],
    "tiers": "1",
-   "gloss": "**Fin. 5.83**: **\"ut in geometria, prima si dederis, danda sunt omnia\"** — in geometry, once you grant the first principles, all the consequences must follow. The classic Latin formulation of axiomatic method as model for argument.",
+   "gloss": "**Fin. 5.83**: in geometry, once you grant the first principles, all the consequences must follow. ",
    "latin": "Tamen a proposito, inquam, aberramus. non enim quaero quid verum, sed quid cuique dicendum sit. utinam quidem dicerent alium alio beatiorem! iam ruinas videres. in virtute enim sola et in ipso honesto cum sit bonum positum, cumque nec virtus, ut placet illis, nec honestum crescat, idque bonum solum sit, quo qui potiatur, necesse est beatus sit, cum id augeri non possit, in quo uno positum est beatum esse, qui potest esse quisquam alius alio beatior? videsne, ut haec concinant? et hercule—fatendum est enim, quod sentio—mirabilis est apud illos contextus rerum. respondent extrema primis, media utrisque, omnia omnibus. quid sequatur, quid repugnet, vident. ut in geometria, prima si dederis, danda sunt omnia. concede nihil esse bonum, nisi quod honestum sit: concedendum est in virtute esse positam beatam vitam. vide rursus retro:",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -4350,7 +4348,7 @@
     "ratio"
    ],
    "tiers": "1,2,3",
-   "gloss": "Plato's Egyptian travels to learn 'numeros et caelestia' (numbers and astronomy) from priests, then to Tarentum to Archytas, to other Pythagoreans (Echecrates, Timaeus, Arion). Density of named mathematician-philosophers; Pythagoras' own travels.",
+   "gloss": "Plato's Egyptian travels to learn 'numeros et caelestia' (numbers and astronomy) from priests, then to Tarentum to Archytas, to other Pythagoreans (Echecrates, Timaeus, Arion). ",
    "latin": "quare hoc videndum est, possitne nobis hoc ratio philosophorum dare. pollicetur certe. nisi enim id faceret, cur Plato Aegyptum peragravit, ut a sacerdotibus barbaris numeros et caelestia acciperet? cur post Tarentum ad Archytam? cur ad reliquos Pythagoreos, Echecratem, Timaeum, Arionem, Locros, ut, cum Socratem expressisset, adiungeret Pythagoreorum disciplinam eaque, quae Socrates repudiabat, addisceret? cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? cur tantas regiones barbarorum pedibus obiit, tot maria transmisit? cur haec eadem Democritus? qui —vere falsone, quaerere mittimus—dicitur oculis se privasse; certe, ut quam minime animus a cogitationibus abduceretur, patrimonium neglexit, agros deseruit incultos, quid quaerens aliud nisi vitam beatam? quam si etiam in rerum cognitione ponebat, tamen ex illa investigatione naturae consequi volebat, bono ut esset animo. id enim ille summum bonum eu)qumi/an et saepe a)qambi/an appellat, id est animum terrore liberum.",
    "english": "On the philosophical pilgrimages of antiquity: 'why did Plato traverse Egypt to learn numbers and astronomy from the barbarian priests?' And after Tarentum he sought out Archytas; in Italy he found the Pythagorean tradition which he later represented in his dialogues. The mathematical sciences framed as ancient and revered foreign knowledge.",
    "highlight": true,
@@ -4409,7 +4407,7 @@
    "latin": "dat praeterea potestatem verbo praetoriam, re vera regiam; definit in quinquennium, facit sempiternam; tantis enim confirmat opibus et copiis ut invitis eripi nullo modo possit. deinde ornat apparitoribus, scribis, librariis, praeconibus, architectis, praeterea mulis, tabernaculis, centunculis, supellectili; sumptum haurit ex aerario, suppeditat a sociis; finitores ex equestri loco ducentos, vicenos singulorum stipatores corporis constituit, eosdem ministros et satellites potestatis. formam adhuc habetis, Quirites, et speciem ipsam tyrannorum; insignia videtis potestatis, nondum ipsam potestatem. dixerit enim fortasse quispiam: 'quid me ista laedunt, scriba, lictor, praeco, pullarius?' omnia sunt haec huius modi, Quirites, ut, ea qui habeat sine vestris suffragiis, aut rex non ferendus aut privatus furiosus esse videatur.",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "finitores ex equestri loco ducentos, vicen",
     "apparitoribus, scribis, librariis, praeconibus, architectis"
@@ -36977,7 +36975,7 @@
     "Democrit"
    ],
    "tiers": "1",
-   "gloss": "Letter 90.32: **Democritus credited with inventing the arch** (\"invenisse... fornicem, ut lapidum curvatura paulatim inclinatorum medio saxo alligaretur\"). Seneca disputes the attribution. Geometric-architectural content.",
+   "gloss": "Letter 90.32: **Democritus credited with inventing the arch**",
    "latin": "Democritus, inquit, invenisse dicitur fornicem, ut lapidum curvatura paulatim inclinatorum medio saxo alligaretur. Hoc dicam falsum esse; necesse est enim ante Democritum et pontes et portas fuisse, quarum fere summa curvantur.",
    "strictness": "strict",
    "highlights": [
@@ -37032,7 +37030,7 @@
     "astronom"
    ],
    "tiers": "1",
-   "gloss": "Letter 95.10: \"Praeterea nulla ars contemplativa sine decretis suis est\" — every contemplative art (which would include mathematics, astronomy) requires its *decreta* / *dogmata*. Methodological reflection on mathematical-scientific principles.",
+   "gloss": "Letter 95.10:  every contemplative art (incl. mathematics, astronomy) requires its *decreta* / *dogmata*. ",
    "latin": "Praeterea nulla ars contemplativa sine decretis suis est, quae Graeci vocant dogmata, nobis vel decreta licet appellare vel scita vel placita, quae et in geometria et in astronomia invenies. Philosophia autem et contemplativa est et activa; spectat simul agitque. Erras enim, si tibi illam putas tantum terrestres operas operas later MSS.; opera BA. promittere; altius spirat. Totum, inquit, mundum scrutor nec me intra contubernium mortale contineo suadere vobis ac dissuadere contenta. Magna me vocant supraque vos posita:",
    "strictness": "strict",
    "highlights": [
@@ -37459,7 +37457,7 @@
    ],
    "gloss": "**Merged record** (2 components: 20.4-5, 20.5).\n\n• [20.4-5] **Merged record** (2 components: 20.4, 20.5).\n• [20.5] **Ep. 120.5**: continuation — \"Quae sit haec analogia, dicam. Noveramus corporis sanitatem; ex hac cogitavimus esse aliquam et animi\". The strict method of proportional inference applied to philosophy. CLUSTER.",
    "latin": "[20.4-5] \n\n[20.5] Quae sit haec analogia, dicam. Noveramus corporis sanitatem; ex hac cogitavimus esse aliquam et animi. Noveramus vires corporis; ex his collegimus esse et animi robur. Aliqua benigna facta, aliqua humana, aliqua fortia nos obstupefecerant; haec coepimus tamquam perfecta mirari. Suberant illis multa vitia, quae species conspicui alicuius facti fulgorque celabat; haec dissimulavimus. Natura iubet augere laudanda, nemo non gloriam ultra verum tulit; ex his ergo speciem ingentis boni traximus.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[20.4-5] \n\n[20.5] Quae sit haec analogia, dicam. Noveramus corporis sanitatem; ex hac cogitavimus esse aliquam et animi. Noveramus vires corporis; ex his collegimus esse et animi robur. Aliqua benigna facta, aliqua humana, aliqua fortia nos obstupefecerant; haec coepimus tamquam perfecta mirari. Suberant illis multa vitia, quae species conspicui alicuius facti fulgorque celabat; haec dissimulavimus. Natura iubet augere laudanda, nemo non gloriam ultra verum tulit; ex his ergo speciem ingentis boni traximus.",
    "merged_from": [
@@ -38248,7 +38246,7 @@
    "tiers": "1",
    "gloss": "**Livy 1.18.2** — *the* foundational Roman discussion of whether Numa was a pupil of Pythagoras: \"auctorem doctrinae eius, quia non extat alius, falso Samium Pythagoram edunt\". Livy decisively rejects the legend on chronological grounds (Pythagoras lived 100+ years after Servius Tullius). Important Roman methodological-historical passage on Pythagorean influence at Rome.",
    "latin": "auctorem doctrinae eius, quia non extat alius, falso Samium Pythagoram edunt, quem Servio Tullio regnante Romae, centum amplius post annos, in ultima Italiae ora circa Metapontum Heracleamque et Crotona iuvenum aemulantium studia coetus habuisse constat.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Pythagoram",
     "Metapontum Heracleamque et Crotona",
@@ -38543,9 +38541,9 @@
    "tiers": [
     "1"
    ],
-   "gloss": "**Merged record** (3 components: 24.34.2-13, 24.34.8, 24.34.13).\n\n• [24.34.2-13] **Merged record** (3 components: 24.34.2, 24.34.8, 24.34.13).\n• [24.34.8] Livy 24.34.8: continuation — Archimedes's graduated artillery (\"variae magnitudinis tormenta\"), arranged on the walls; long-range stones for distant ships, lighter and more frequent for closer ones. Substantive technical detail.\n• [24.34.13] Livy 24.34.13: continuation — same defensive apparatus on the seaward side. CLUSTER with 24.34.2.",
+   "gloss": "\n• [24.34.8] Livy 24.34.8: continuation — Archimedes's graduated artillery (\"variae magnitudinis tormenta\"), arranged on the walls; long-range stones for distant ships, lighter and more frequent for closer ones. Substantive technical detail.\n",
    "latin": "[24.34.2-13] \n\n[24.34.8] adversus hunc navalem apparatum Archimedes variae magnitudinis tormenta in muris disposuit. in eas, quae procul erant, navis saxa ingenti pondere emittebat, propiores levioribus eoque magis crebris petebat telis;\n\n[24.34.13] sed ea quoque pars eodem omni apparatu tormentorum instructa erat Hieronis inpensis curaque per multos annos, Archimedis unica arte.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[24.34.2-13] \n\n[24.34.8] adversus hunc navalem apparatum Archimedes variae magnitudinis tormenta in muris disposuit. in eas, quae procul erant, navis saxa ingenti pondere emittebat, propiores levioribus eoque magis crebris petebat telis;\n\n[24.34.13] sed ea quoque pars eodem omni apparatu tormentorum instructa erat Hieronis inpensis curaque per multos annos, Archimedis unica arte.",
    "merged_from": [
@@ -38627,7 +38625,7 @@
     "Archimed"
    ],
    "tiers": "1",
-   "gloss": "**Livy 25.31.9**: **Archimedes's death** — \"intentum formis [in pulvere descriptis]\". The canonical Latin death-anecdote with explicit reference to his geometric figures in the dust. Parallels Cicero Tusc. 5.64 and Valerius Maximus 8.7e.7.",
+   "gloss": "**Livy 25.31.9**: **Archimedes's death** 'intentum formis [in pulvere descriptis]'",
    "latin": "cum multa irae, multa avaritiae foeda exempla ederentur, Archimeden memoriae proditum est in tanto tumultu, quantum pavor captae urbis in discursu diripientium militum ciere poterat, intentum formis, quas in pulvere descripserat, ab ignaro milite, quis esset, interfectum;",
    "strictness": "strict",
    "highlights": [
@@ -38635,7 +38633,7 @@
     "intentum formis, quas in pulvere descripserat",
     "ab ignaro milite, quis esset, interfectum"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0914:phi001:25s",
@@ -38659,7 +38657,7 @@
    "tiers": "1",
    "gloss": "Livy periocha 25: brief epitome reference to Archimedes's death at Syracuse. CLUSTER with 25.31.9.",
    "latin": "periocha libri XXV P. Cornelius Scipio, postea Africanus, ante annos aedilis factus. Hannibal urbem Tarenton praeter arcem, in quam praesidium Romanorum fugerat, per Tarentinos iuvenes, qui se noctu venatum ire simulaverant, cepit. ludi Apollinares ex Marci carminibus, quibus Cannensis clades praedicta fuerat, instituti sunt. a Q. Fulvio et Ap. Claudio consulibus adversus Hannonem Poenorum ducem prospere pugnatum est. Tib. Sempronius Gracchus proconsul, ab hospite suo Lucano in insidias deductus, a Magone interfectus est. Centenius Paenula, qui centurio militaverat, cum petisset a senatu, ut sibi exercitus daretur, pollicitusque esset, si impetrasset, de Hannibale victoriam, VIII acceptis militum dux factus conflixit acie cum Hannibale et cum exercitu caesus est. Capua obsessa eat a Q. Fulvio et Ap. Claudio consulibus. Cn. Fulvius praetor male adversus Hannibalem pugnavit, in quo proelio XX hominum ceciderunt; ipse cum equitibus ducentis effugit. Claudius Marcellus Syracusas expugnavit tertio anno et ingentem se virum gessit. in eo tumultu captae urbis Archimedes intentus formis, quas in pulvere descripserat, interfectus est. P. et Cn. Scipiones in Hispania tot rerum feliciter gestarum tristem exitum tulerunt, prope cum totis exercitibus caesi anno octavo, quam in Hispaniam ierunt. amissaque eius provinciae possessio foret, nisi L. Marci equitis Romani virtute et industria contractis exercituum reliquiis eiusdem hortatu bina castra hostium expugnata essent. ad XXVII caesa, * ex mille octingentos, praeda ingens capta. dux Marcius appellatus est.",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -39227,7 +39225,7 @@
    ],
    "gloss": "**Merged record** (2 components: 40.29.7-8, 40.29.8).\n\n• [40.29.7-8] **Merged record** (2 components: 40.29.7, 40.29.8).\n• [40.29.8] Livy 40.29.8: continuation — Livy's scepticism about Numa as Pythagoras's pupil. CLUSTER with 40.29.7.",
    "latin": "[40.29.7-8] \n\n[40.29.8] vulgatae opinioni, qua creditur Pythagorae auditorem fuisse Numam, mendacio probabili accommodata fide.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[40.29.7-8] \n\n[40.29.8] vulgatae opinioni, qua creditur Pythagorae auditorem fuisse Numam, mendacio probabili accommodata fide.",
    "merged_from": [
@@ -39385,14 +39383,14 @@
     "circul"
    ],
    "tiers": "2",
-   "gloss": "**Livy 45.12.5** — **the *locus classicus* of Popilius's circle**: \"Popilius pro cetera asperitate animi virga, quam in manu gerebat, *circumscripsit regem* ac 'priusquam hoc *circulo* excedas' inquit 'redde responsum'\". The Roman envoy drawing a circle around Antiochus IV with his staff and demanding an answer before he steps out. The most famous Roman political-geometric act, 168 BCE.",
+   "gloss": "**Livy 45.12.5** Popilius's circle**",
    "latin": "quibus perlectis cum se consideraturum adhibitis amicis, quid faciendum sibi esset dixisset, Popilius pro cetera asperitate animi virga, quam in manu gerebat, circumscripsit regem ac “priusquam hoc circulo excedas” inquit “redde responsum, senatui quod referam.” obstupefactus tam violento imperio parumper cum haesitasset,",
    "strictness": "strict",
    "highlights": [
     "Popilius pro cetera asperitate animi virga, quam in manu gerebat, circumscripsit regem",
     "priusquam hoc circulo excedas"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0914:phi001:45s",
@@ -39532,7 +39530,7 @@
    "tiers": "2",
    "gloss": "**V.M. 1.8e.1**: **the Myth of Er from Plato's Republic** — Er of Pamphylia's near-death account. Substantive cosmological-eschatological reference.",
    "latin": "Quae minus admirabilia fere Eris Pamphyli casus facit, quem Plato scribit inter eos, qui in acie ceciderant, X diebus iacuisse, biduoque post quam inde sublatus esset, inpositum rogo reuixisse ac mira quaedam tempore mortis uisa narrasse.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Eris Pamphyli casus",
     "Plato scribit",
@@ -39724,7 +39722,7 @@
    ],
    "gloss": "**Merged record** (2 components: 4.1e.1-2, 4.1e.2).\n\n• [4.1e.1-2] **Merged record** (2 components: 4.1e.1, 4.1e.2).\n• [4.1e.2] V.M. 4.1e.2: continuation — Plato's similar moderation, asking Speusippus to chastise his slave instead. CLUSTER.",
    "latin": "[4.1e.1-2] \n\n[4.1e.2] Nimis liberalis Archytae moderatio, temperatior Platonis: nam cum ad uersus delictum serui uehementius exarsisset, ueritus ne ipse uindictae modum dispicere non posset, Speusippo amico castigationis arbitrium mandauit deforme sibi futurum existimans, si conmisisset ut parem reprehensionem culpa serui et animaduersio Platonis mereretur. Quo minus miror quod in Xenocrate discipulo suo tam constanter moderatus fuit. audierat eum de se multa inpie locutum: sine ulla cunctatione criminationem respuit. instabat certo uultu index causam quaerens, cur sibi fides non haberetur: adiecit non esse credibile ut, quem tantopere amaret, ab eo inuicem non diligeretur. postremo, cum ad ius iurandum inimicitias serentis malignitas confugisset, ne de periurio eius disputaret, adfirmauit numquam Xenocratem illa dicturum fuisse, nisi ea dici expedire sibi iudicasset. non in corpore mortali, sed in arce caelesti et quidem armatum animum eius uitae stationem putes peregisse, humanorum uitiorum incursus a se inuicta pugna repellentem cunctosque uirtutis numeros altitudinis suae sinu clausos custodientem.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[4.1e.1-2] \n\n[4.1e.2] Nimis liberalis Archytae moderatio, temperatior Platonis: nam cum ad uersus delictum serui uehementius exarsisset, ueritus ne ipse uindictae modum dispicere non posset, Speusippo amico castigationis arbitrium mandauit deforme sibi futurum existimans, si conmisisset ut parem reprehensionem culpa serui et animaduersio Platonis mereretur. Quo minus miror quod in Xenocrate discipulo suo tam constanter moderatus fuit. audierat eum de se multa inpie locutum: sine ulla cunctatione criminationem respuit. instabat certo uultu index causam quaerens, cur sibi fides non haberetur: adiecit non esse credibile ut, quem tantopere amaret, ab eo inuicem non diligeretur. postremo, cum ad ius iurandum inimicitias serentis malignitas confugisset, ne de periurio eius disputaret, adfirmauit numquam Xenocratem illa dicturum fuisse, nisi ea dici expedire sibi iudicasset. non in corpore mortali, sed in arce caelesti et quidem armatum animum eius uitae stationem putes peregisse, humanorum uitiorum incursus a se inuicta pugna repellentem cunctosque uirtutis numeros altitudinis suae sinu clausos custodientem.",
    "merged_from": [
@@ -39808,7 +39806,7 @@
    "tiers": "2",
    "gloss": "**V.M. 4.1e.7**: **Thales of Miletus** — the wise man's share in the Milesian fishermen story. Foundational sage as one of the Seven.",
    "latin": "Huius uiri mentio subicit ut de septem sapientium moderatione referam. a piscatoribus in Milesia regione euerriculum trahentibus quidam iactum emerat. extracta deinde magni ponderis aurea Delphica mensa orta controuersia est, illis piscium se capturam uendidisse adfirmantibus, hoc fortunam ductus emisse dicente. qua cognitione propter nouitatem rei et magnitudinem pecuniae ad uniuersum ciuitatis eius populum delata placuit Apollinem Delphicum consuli cuinam adiudicari mensa deberet. deus respondit illi esse dandam, qui sapientia ceteros praestaret, his uerbis: ti/s sofi/a| prw=tos pa/ntwn; tou/tw| tri/pod' au)dw=. tum Milesii consensu Thaleti mensam dederunt. ille cessit ea Bianti, Bias Pittaco, is protinus alii, deincepsque per omnium vii sapientium orbem ad ultimum ad Solonem peruenit, qui et titulum amplissimae prudentiae et praemium ad ipsum Apollinem transtulit.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "septem sapientium moderatione",
     "aurea Delphica mensa",
@@ -40000,7 +39998,7 @@
     "Antioch"
    ],
    "tiers": "2",
-   "gloss": "**V.M. 6.4.3** — **Valerian retelling of Popilius's circle**, with the explicit \"**virga solum, quo insistebat, denotavit** et 'prius' inquit 'quam hoc circulo excedas da responsum'\" — staff drawing the line on the ground. Companion text to Livy 45.12.5.",
+   "gloss": "**V.M. 6.4.3** — **Valerian retelling of Popilius's circle**, cf. Livy 45.12.5.",
    "latin": "C. uero Popilius a senatu legatus ad Antiochum missus, ut bello se, quo Ptolemaeum lacessebat, abstineret, cum ad eum uenisset atque is prompto animo et amicissimo uultu dexteram ei porrexisset, inuicem illi suam porrigere noluit, sed tabellas senatus consultum continentis tradidit. quas ut legit Antiochus, dixit se cum amicis conlocuturum. indignatus Popilius, quod aliquam moram interposuisset, uirga solum, quo insistebat, denotauit et 'prius' inquit 'quam hoc circulo excedas da responsum, quod senatui referam'. non legatum locutum, sed ipsam curiam ante oculos positam crederes: continuo enim rex adfirmauit fore ne amplius de se Ptolemaeus quereretur, ac tum demum Popilius manum eius tamquam socii adprehendit. quam efficax est animi sermonisque abscisa grauitas! eodem momento Syriae regnum terruit, Aegypti texit.",
    "strictness": "strict",
    "highlights": [
@@ -40078,7 +40076,7 @@
    "tiers": "2",
    "gloss": "**V.M. 7.2e.8**: **Thales's saying** on whether human deeds escape the gods.",
    "latin": "Mirifice etiam Thales: nam interrogatus an facta hominum deos fallerent 'ne cogitata quidem ' inquit, ut non solum manus, sed etiam mentes puras habere uellemus, cum secretis cogitationibus nostris caeleste numen adesse credidissemus.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Thales",
     "an facta hominum deos fallerent",
@@ -40204,7 +40202,7 @@
     "siderum-motus"
    ],
    "tiers": "1",
-   "gloss": "**V.M. 8.7e.2**: Pythagoras's long course of study — beginning with Egypt where he learned \"magnam numerorum vim\" (a great mass of numbers). Substantive on Pythagorean numerical learning.",
+   "gloss": "**V.M. 8.7e.2**: Pythagoras's long course of study, beginning with Egypt where he learned \"magnam numerorum vim\" (a great mass of numbers). ",
    "latin": "Atque ut ad uetustiorem industriae actum transgrediar, Pythagoras, perfectissimum opus sapientiae a iuuenta pariter et omnis honestatis percipiendae cupiditate ingressus,—nihil enim, quod ad ultimum sui peruenturum est finem, non et mature et alacriter incipit,—Aegyptum petiit, ubi litteris gentis eius adsuefactus, praeteriti aeui sacerdotum commentarios scrutatus innumerabilium saeculorum obseruationes cognouit. inde ad Persas profectus magorum exactissimae prudentiae se formandum tradidit, a quibus siderum motus cursusque stellarum et unius cuiusque uim, proprietatem, effectum benignissime demonstratum docili animo sorpsit. Cretam deinde et Lacedaemona nauigauit, quarum legibus ac moribus inspectis ad Olympicum certamen descendit, cumque multiplicis scientiae maximam inter totius Graeciae admirationem specimen exhibuisset, quo cognomine censeretur interrogatus, non se sapientem,—iam enim illud vii excellentes uiri occupauerant—sed amatorem sapientiae, id est Graece filo/sofon edidit. in Italiae etiam partem, quae tunc maior Graecia appellabatur, perrexit, in qua plurimis et opulentissimis urbibus effectus studiorum suorum adprobauit. cuius ardentem rogum plenis uenerationis oculis Metapontus aspexit oppidum, Pythagorae quam suorum cinerum nobilius clariusque monumentum.",
    "strictness": "strict",
    "highlights": [
@@ -40239,7 +40237,7 @@
     "Archyt"
    ],
    "tiers": "1",
-   "gloss": "**V.M. 8.7e.3**: **Plato's mathematical-philosophical odyssey** — from Socrates to Egypt to Italy where he studied with Archytas and the Pythagoreans, \"ut quod altius ad scientiae cumulum desiderabat\". Substantive on the transmission of mathematics from Pythagorean Italy to the Academy.",
+   "gloss": "**V.M. 8.7e.3**: **Plato's mathematical-philosophical odyssey** ",
    "latin": "Platon autem patriam Athenas, praeceptorem Socratem sortitus, et locum et hominem doctrinae fertilissimum, ingenii quoque diuina instructus abundantia, cum omnium iam mortalium sapientissimus haberetur, eo quidem usque, ut, si ipse Iuppiter caelo descendisset, nec elegantiore nec beatiore facundia usurus uideretur, Aegyptum peragrauit, dum a sacerdotibus eius gentis geometriae multiplices numeros et caelestium obseruationum rationem percipit. quoque tempore a studiosis iuuenibus certatim Athenae Platonem doctorem quaerentibus petebantur, ipse Nili fluminis inexplicabiles ripas uastissimosque campos, † effusam barbariam et flexuosos fossarum ambitus Aegyptiorum senum discipulus lustrabat. quo minus miror in Italiam transgressum, ut ab Archyta Tarenti, a Timaeo et Arione et Echecrate Locris Pythagorae praecepta et instituta acciperet: tanta enim uis, tanta copia litterarum undique colligenda erat, ut inuicem per totum terrarum orbem dispergi et dilatari posset. altero etiam et octogesimo anno decedens sub capite Sophronis mimos habuisse fertur. sic ne extrema quidem eius hora agitatione studii uacua fuit.",
    "strictness": "strict",
    "highlights": [
@@ -40297,7 +40295,7 @@
    "tiers": "2",
    "gloss": "**V.M. 8.7e.5**: **Carneades the laborious philosopher** — 90 years of life and philosophy. Biographical-pedagogical.",
    "latin": "Carneades laboriosus et diuturnus sapientiae miles, si quidem xc expletis annis idem illi uiuendi ac philosophandi finis fuit, ita se mirifice doctrinae operibus addixerat, ut, cum cibi capiendi causa recubuisset, cogitationibus inhaerens manum ad mensam porrigere obliuisceretur. sed ei Melissa, quam uxoris loco habebat, temperato inter studia non interpellandi et inediae succurrendi officio dexteram suam necessariis usibus aptabat. ergo animo tantum modo uita fruebatur, corpore uero quasi alieno et superuacuo circumdatus erat. idem cum Chrysippo disputaturus elleboro se ante purgabat ad expromendum ingenium suum adtentius et illius refellendum acrius. quas potiones industria solidae laudis cupidis adpetendas effecit!",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Carneades laboriosus et diuturnus sapientiae miles",
     "xc expletis annis idem illi uiuendi ac philosophandi finis"
@@ -40350,7 +40348,7 @@
     "Archimed"
    ],
    "tiers": "1",
-   "gloss": "**V.M. 8.7e.7**: **Archimedes' machinationes resisting Marcellus at Syracuse**, then his death \"intentus formis quas in pulvere descripserat\" — drawing geometric figures in the sand at the moment of death. The classic Archimedes-death anecdote, with explicit reference to his geometric figures.",
+   "gloss": "**V.M. 8.7e.7**: **Archimedes' machinationes resisting Marcellus at Syracuse**, then his death \"intentus formis quas in pulvere descripserat\" ",
    "latin": "Archimedis quoque fructuosam industriam fuisse dicerem, nisi eadem illi et dedisset uitam et abstulisset: captis enim Syracusis Marcellus, etsi machinationibus eius multum ac diu uictoriam suam inhibitam senserat, eximia tamen hominis prudentia delectatus ut capiti illius parceretur edixit, paene tantum gloriae in Archimede seruato quantum in oppressis Syracusis reponens. at is, dum animo et oculis in terra defixis formas describit, militi, qui praedandi gratia domum inruperat strictoque super caput gladio quisnam esset interrogabat, propter nimiam cupiditatem inuestigandi quod requirebat nomen suum indicare non potuit, sed protecto manibus puluere 'noli' inquit, 'obsecro, istum disturbare', ac perinde quasi neglegens imperii uictoris obtruncatus sanguine suo artis suae liniamenta confudit. quo accidit ut propter idem studium modo donaretur uita, modo spoliaretur.",
    "strictness": "strict",
    "highlights": [
@@ -40438,12 +40436,10 @@
     "Euclid"
    ],
    "tiers": "1",
-   "gloss": "**V.M. 8.12e.1**: **The Delian altar problem** — Plato sending the temple-officials who consulted him about doubling the cube to \"Eucliden geometren\" (anachronistically — the historical figure was probably Helicon or Eudoxus, but Valerius records this attribution). One of the few extant Latin references to the cube-doubling problem.",
+   "gloss": "**V.M. 8.12e.1**: **The Delian altar problem**\" Plato sending the temple-officials who consulted him about doubling the cube to \"Eucliden geometren\" (anachronistically — the historical figure was probably Helicon or Eudoxus, but Valerius records this attribution). Reference to the problem of doubling the cube",
    "latin": "Platonis quoque eruditissimum pectus haec cogitatio attigit, qui conductores sacrae arae de modo et forma eius secum sermonem conferre conatos ad Eucliden geometren ire iussit scientiae eius cedens, immo professioni.",
    "strictness": "strict",
    "highlights": [
-    "Platonis",
-    "conductores sacrae arae de modo et forma",
     "ad Eucliden geometren ire iussit"
    ],
    "provenance": "verified-from-source-parse"
@@ -40519,7 +40515,7 @@
    "tiers": "1",
    "gloss": "**V.M. 8.14e.2**: **Alexander hearing Anaxarchus, on Democritus's authority, declare \"innumerabiles mundos esse\"** — innumerable worlds — and lamenting \"I have not yet possessed even one.\" Substantive on the Democritean infinite-worlds doctrine, in the Latin text.",
    "latin": "Nam Alexandri pectus insatiabile laudis, qui Anaxarcho comiti suo ex auctoritate Democriti praeceptoris innumerabiles mundos esse referenti 'heu me' inquit 'miserum, quod ne uno quidem adhuc sum potitus!' angusta homini possessio gloriae fuit, quae deorum omnium domicilio sufficit.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Anaxarcho comiti suo ex auctoritate Democriti praeceptoris",
     "innumerabiles mundos esse referenti",
@@ -40666,7 +40662,7 @@
    "text": "Non potest ante contemnere porticus, et lacunaria ebore fulgentia, et tonsiles siluas, et deriuata in domos flumina, quam totum circumeat mundum, et terrarum orbem superne despiciens angustum, et magna ex parte opertum mari, etiam qua exstat, late squalidum, et aut ustum aut rigentem. Sibi ipse ait: Hoc est illud punctum quod inter tot gentes ferro et igni diuiditur?",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Hoc est illud punctum quod inter tot gentes ferro et igni diuiditur",
     "totum circumeat mundum",
@@ -40718,7 +40714,7 @@
    "text": "Punctum est istud in quo nauigatis, in quo bellatis, in quo regna disponitis: minima, etiam cum illis utrimque Oceanus occurrit. Sursum ingentia spatia sunt, in quorum possessionem animus admittitur: at ita si minimum secum ex corpore tulit, si sordidum omne detersit, et expeditus leuisque ac contentus modico emicuit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Punctum est istud in quo nauigatis, in quo bellatis, in quo regna disponitis",
     "minima, etiam cum illis utrimque Oceanus occurrit"
@@ -40746,7 +40742,7 @@
    "text": "Cum illa tetigit, alitur, crescit, ac uelut uinculis liberatus, in originem redit; et hoc habet argumentum diuinitatis suae, quod illum diuina delectant: nec ut alienis interest, sed ut suis interest: secure spectat occasus siderum atque ortus, et tam diuersas concordantium uias. Obseruat, ubi quaeque stella primum terris lumen ostendat, ubi culmen eius summum, qua cursus sit, quousque descendat. Curiosus spectator excutit singula, et quaerit. Quidni quaerat? scit illa ad se pertinere.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "secure spectat occasus siderum atque ortus",
     "tam diuersas concordantium uias",
@@ -40801,7 +40797,7 @@
    "text": "Aristoteles quoddam genus horum capram uocat: si me interrogaueris quare, prior mihi rationem reddas oportet, quare haedi uocentur; si autem, quod commodissimum est, conuenerit inter nos, ne alter alterum interroget, quod scit illum respondere non posse, satius erit de re ipsa quaerere quam mirari, quid ita Aristoteles globum ignis appellauerit capram. Talis enim fuit forma eius, qui bellum aduersus Persen Paulo gerente a lunari magnitudine apparuit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Aristoteles quoddam genus horum capram uocat",
     "Talis enim fuit forma eius, qui bellum aduersus Persen Paulo gerente a lunari magnitudine apparuit"
@@ -40877,7 +40873,7 @@
    "text": "Aristoteles rationem eiusmodi reddit: 'Varia et multa terrarum orbis expire, quaedam umida quaedam sicca, quaedam calentia quaedam concipiendis ignibus idonea». Nec mirum est, si terrae omnis generis et uaria euaporatio est, cum in caelo quoque non unus appareat color rerum, sed acrior sit Caniculae rubor, Martis remissior, Iouis nullus in lucem puram nitore perducto.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Aristoteles rationem eiusmodi reddit",
     "Caniculae rubor, Martis remissior, Iouis nullus in lucem puram nitore perducto"
@@ -41074,7 +41070,7 @@
    "text": "numquam ergo ullum sidus talem sibi efligiem circumdabit, nisi cum aer erit densus atque immotus et ob hoc custodiens incidentem in se rotundi lineam luminis. Nec sine causa; repete enim exemplum, quod paulo ante' proposui: lapillus in piscinam aut lacum et alligatam aquam missus circulos facit innumerabiles; at hoc idem non faciet in flumine (quare? Quia omnem figuram fugiens aqua disturbat): idem ergo in aere euenit, ut ille, qui manet, possit figurari, at ille, qui rapitur et currit, non det sui potestatem et omnem ictum uenientemque formam ex eo turbet.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "custodiens incidentem in se rotundi lineam luminis",
     "lapillus in piscinam aut lacum et alligatam aquam missus"
@@ -41458,7 +41454,7 @@
    "text": "Parianus Artemidorus adicit etiam, quale genus nubis esse debeat, quod talem solis imaginem reddit: Si speculum, inquit, concauum feceris, quod sit sectae pilae pars, si extra medium constiteris, quicumque iuxta te steterint, inuersi tibi uidebuntur et propiores a te quam a speculo;",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Parianus Artemidorus adicit",
     "Si speculum, inquit, concauum feceris, quod sit sectae pilae pars",
@@ -41731,7 +41727,7 @@
    "text": "[1.5.10-12] \n\n[1.5.12] \"Praeterea, cum dicitur tibi nubem sole suffectam, non dicitur tibi colorem illum inustum esse uelut duro corpori et stabili ac manenti, sed ut fluido et uago et nihil amplius quam breuem speciem recipienti. Sunt etiam quidam colores, qui ex interuallo uim suam ostendunt: purpuram Tyriam, quo melior est saturiorque, eo altius oportet teneas, ut fulgorem suum intendat. Non tamen ideo non habet colorem illa, quia, quem optimum habet, non quomodocumque explicatur ostendit.\" [5,13 In eadem sententia sum qua Posidonius, ut arcum iudicem fieri nube formata in modum concaui speculi et rotundi, cui forma sit partis e pila secta. Hoc probari, nisi geometrae adiuuerint, non potest, qui argumentis nihil dubii relinquentibus docent solis illam esse effigiem non similem. Neque enim ommia ad uerum specula respondent.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Praeterea, cum dicitur tibi nubem sole suffectam",
     "fluido et uago et nihil amplius quam breuem speciem"
@@ -41817,7 +41813,7 @@
    "text": "[1.6.1-3] \n\n[1.6.2] Quare tamen, si imago solis est arcus, longe ipso sole maior apparet? Quia est alicuius speculi natura talis, ut maiora multo, quae uidit, ostendat et in portentuosam magnitudinem augeat formas, alicuius inuicem talis, ut minuat.\n\n[1.6.3] Illud mihi dic, quare in orbem eat facies, nisi orbi redditur? Dices enim fortasse, unde sit illi color uarius: unde talis figura sit, non dices, nisi aliquod exemplar, ad quod formetur, ostenderis. Nullum autem quam solis est, a quo cum tu quoque fatearis illi colorem dari, sequitur, ut et detur forma. Denique inter me teque conuenit colores illos, quibus caeli regio depingitur, a sole esse; illud unum inter nos non conuenit: tu dicis illum colorem esse, ego uideri; qui siue est, siue uidetur, a sole est. Tu non expedies, quare color ille subito desinat, cum omnes fulgores paulatim discutiantur.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "speculi natura talis, ut maiora multo, quae uidit, ostendat",
     "in portentuosam magnitudinem augeat formas",
@@ -42075,7 +42071,7 @@
    "text": "[1.8.4-5] \n\n[1.8.5] Etiamnunc diximus circulos apparere soli lunaeque in similitudinem arcus circumdatos: quare ille circulus iungitur, in arcu numquam? Deinde quare semper concauae nubes solem accipiunt, non aliquando planae et tumentes?",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "ille circulus iungitur, in arcu numquam",
     "concauae nubes solem accipiunt"
@@ -42138,7 +42134,7 @@
    "text": "Aristoteles ait post autumnale aequinoctium qualibet hora diei arcum fieri, aestate non fieri nisi aut incipiente aut inclinato die. Cuius rei causa manifesta est: primum, quia media diei parte sol calidissimus nubes euincit nec potest imaginem suam ab his recipere quas scindit; at matutino tempore aut uergens in occasum minus habet uirium, ideo a nubibus sustineri et repercuti potest.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Aristoteles ait post autumnale aequinoctium qualibet hora diei arcum fieri",
     "aestate non fieri nisi aut incipiente aut inclinato die"
@@ -42222,7 +42218,7 @@
    "text": "Similis uarietas in coronis est; sed hoc differunt, quod coronae ubique fiunt, ubicumque sidus est, arcus non nisi contra solem, uirgae non nisi in uicinia solis. Possum et hoc modo differentiam omnium reddere: coronam si diuiseris, arcus erit; si direxeris, uirga. In omnibus color multiplex, ex caeruleo fuluoque uarius. Virgae soli tantum adiacent, arcus solares lunaresque sunt, coronae omnium siderum.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "coronam si diuiseris, arcus erit",
     "si direxeris, uirga"
@@ -42307,7 +42303,7 @@
    "text": "Quotiens defectionem solis uolumus deprehendere, ponimus pelues, quas aut oleo aut pice implemus, quia pinguis umor minus facile turbatur et ideo quas recipit imagines seruat; apparere autem imagines non possunt nisi in liquido et immoto. Tunc solemus notare, quemadmodum luna soli se opponat et illum tanto maiorem obiecto corpore abscondat, modo ex parte, si ita competit, ut in latus eius incurreret, modo totum; haec dicitur perfecta defectio, quae stellas quoque ostendit et intercipit lucem, tunc scilicet cum uterque orbis sub eodem libramento stetit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Quotiens defectionem solis uolumus deprehendere, ponimus pelues",
     "quas aut oleo aut pice implemus"
@@ -42423,7 +42419,7 @@
    "text": "Tempus est alios quoque ignes percurrere, quorum diuersae figurae sunt. Aliquando emicat stella, aliquando ardores sunt, hi nonnumquam fixi et haerentes nonnumquam uolubiles. Horum plura genera conspiciuntur: sunt bothyni, cum uelut corona cingente introrsus ingens caeli recessus est similis effossae in orbem specus; sunt pithiae, cum magnitudo uasti rotundique ignis dolio similis uel fertur uel uno loco flagrat; sunt chasmata, cum aliquod spatium caeli desedit et flammam uelut dehiscens in abdito ostentat.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Aliquando emicat stella, aliquando ardores sunt",
     "sunt bothyni, cum uelut corona cingente introrsus ingens caeli recessus"
@@ -42451,7 +42447,7 @@
    "text": "[1.15.1] 'Fulgores', inquis, 'quomodo fiunt, quos Graeci G-sela appellent?' Multis, ut aiunt, modis: potest illos uentorum uis edere, potest superioris caeli feruor (nam cum late fusus sit ignis, inferiora aliquando, si sunt idonea accendi, corripit); potest stellarum motus cursu suo excitare ignem et in subiecta transmittere. Quid porro? Non potest fieri, ut aer uim igneam usque in aethera elidat, ex qua fulgor ardorue sit uel stellae similis excursus?\n\n[1.15.4] At quibus longior mora est et ignis fortior motumque caeli sequens aut etiam proprios cursus agunt, cometas nostri putant, de quibus dictum est. Horum genera sunt pogoniae et cyparissiae et lampades et alia omnia, quorum ignis in exitu sparsus est; dubium, an inter hos ponantur trabes et pithiae raro uisi: multa enim conglobatione ignium indigent, cum ingens illorum orbis aliquantum matutini amplitudinem solis exuperet.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Fulgores",
     "Graeci G-sela appellent",
@@ -42570,7 +42566,7 @@
    "text": "[1.15.7-8] \n\n[1.15.8] Quid ergo? Simulacra ista sunt et inanis uerorum corporum imitatio, quae ipsa a quibusdam ita compositis, ut hoc possint, detorquentur in prauum. Nam, ut dixi, sunt specula, quae faciem prospicientium obliquent, sunt quae in infinitum augeant, ita ut humanum habitum modumque excedant nostrorum corporum.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Simulacra ista sunt et inanis uerorum corporum imitatio",
     "specula, quae faciem prospicientium obliquent",
@@ -42809,7 +42805,7 @@
    "text": "Praeterea duorum siderum occursum, quo interpolari dies solet, non uideremus nec scire possemus, quid esset, nisi liberius humi solis lunaeque imagines uideremus.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "duorum siderum occursum, quo interpolari dies solet",
     "nisi liberius humi solis lunaeque imagines uideremus"
@@ -42976,7 +42972,7 @@
    "text": "Omnis de uniuerso quaestio in caelestia, sublimia, et terreae diuiditur. Prima pars naturam siderum scrutatur, et magnitudinem, et formam ignium, quibus mundus includitur : solidumne sit coelum, ac firmae concretaeque materiae, an ex subtili tenuique nexum ; agatur, an agat ; et infra se sidera habeat, an in contextu sui fixa ; quemadmodum sol anni uices seruet; an retro flectat : cetera deinceps his similia.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "naturam siderum scrutatur, et magnitudinem, et formam ignium",
     "solidumne sit coelum, ac firmae concretaeque materiae"
@@ -43004,7 +43000,7 @@
    "text": "Dicam, quod magis uidebitur mirum : inter coelestia et de terra dicendum erit. Quare? inquis ; quia cum propria terrae excutimus suo loco, utrum lata sit, et inaequalis, et enormiter proiecta, an tota in formam pilae spectet, et in orbem partes suas cogat; alliget aquas, an aquis alligetur ipsa; animal sit, an iners corpus et sine sensu, plenum quidem spiritus, sed alieni ; et cetera huiusmodi quoties in manus uenerint, terram sequentur, et in imis collocabuntur.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "utrum lata sit, et inaequalis, et enormiter proiecta",
     "an tota in formam pilae spectet, et in orbem partes suas cogat"
@@ -43233,7 +43229,7 @@
    "text": "Hunc quidam ex distantibus corpusculis, ut puluerem, struunt plurimumque a uero recedunt. Numquam enim nisi contexti per unitatem corporis nisus est, cum partes consentire ad intentionem debeant et conferre uires. Aer autem, si in atomos inciditur, sparsus est ; tendi uero disiecta non possunt.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Hunc quidam ex distantibus corpusculis, ut puluerem, struunt"
    ],
@@ -43260,7 +43256,7 @@
    "text": "Quidam aera discerpunt et in particulas diducunt ita ut illi inane permisceant. Argumentum autem existimant non pleni corporis sed multum uacui habentis quod auibus in illo tain facilis motus, quod maximis minimisque per illum transcursus est.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Quidam aera discerpunt et in particulas diducunt",
     "illi inane permisceant"
@@ -43428,7 +43424,7 @@
    "text": "Aristoteles multo ante ignem colligi non putat, sed eodem momento exilire quo fiat. Cuius sententia talis est. Duae partes mundi in imo iacent, terra et aqua. Vtraque ex se reddit aliquid terrenus uapor siccus est et fumo similis, qui uentos, fulmina, tonitrua facit ; aquarum halitus umidus est et in imbres et niues cedit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Aristoteles multo ante ignem colligi non putat, sed eodem momento exilire quo fiat",
     "Duae partes mundi in imo iacent, terra et aqua",
@@ -43483,7 +43479,7 @@
    "text": "Anaximandrus omnia ad spiritum rettulit. Tonitrua, inquit, sunt nubis ictae sonus. Quare inaequalia sunt? Quia et ipse ictus inaequalis est. Quare et sereno tonat? Quia tunc quoque per crassum et scissum aera spiritus prosilit. At quare aliquando non fulgurat et tonat? Quia spiritus infirmior non ualuit in flammam, in sonum ualuit. Quid est ergo ipsa fulguratio? Aeris diducentis se corruentisque iactatio languidum ignem nec exiturum pariens. Quid est fulmen? Acrioris densiorisque spiritus cursus.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Anaximandrus omnia ad spiritum rettulit",
     "Tonitrua, inquit, sunt nubis ictae sonus",
@@ -43515,7 +43511,7 @@
    "text": "Anaxagoras ait omnia ista sic fieri ut ex aethere aliqua uis in inferiora descendat. Ita ignis impactus nubibus frigidis sonat ; at, cum illas interscindit, fulget, et minor uis ignium fulgurationes facit, maior fulmina.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Anaxagoras ait omnia ista sic fieri",
     "ex aethere aliqua uis in inferiora descendat",
@@ -43645,7 +43641,7 @@
    "text": "Idem nostra memoria Valerio Asiatico consule iterum accidit. Quorsus haec rettuli? Vt appareret nec extinctum ignem mari superfuso, nec impetum eius grauitate ingentis undae prohibitum exire ; ducentorum passuum fuisse altitudinem Asclepiodotus, auditor Posidonii, tradidit, per quam. diremptis aquis ignis emersit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "ducentorum passuum fuisse altitudinem",
     "Asclepiodotus, auditor Posidonii"
@@ -43743,7 +43739,7 @@
    "text": "Quinque stellarum potestates Chaldaeorum obseruatio excepit quid? tu tot illa milia siderum iudicas otiosa lucere? Quid est porro aliud quod errorem maximum incutiat peritis natalium quam, quod paucis nos sideribus assignˆnt, cum omnia quae supra nos sunt partem nostri sibi uindicent? Summissiora forsitan propius in nos uim suam dirigunt et ea quae frequentius mota aliter nos aliterque prospiciunt. Ceterum et illa quae aut immota sunt aut propter uelocitatem uniuerso parem immotis similia non extra ius dominiumque nostri sunt. Alium aliud aspicit ; distributis rem offlciis tractant ; non magis autem facile est scire quid possint, quam dubitari debet an possint.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Quinque stellarum potestates Chaldaeorum obseruatio excepit",
     "tot illa milia siderum iudicas otiosa lucere"
@@ -44039,7 +44035,7 @@
    "text": "Adiciam, ut Thales ait, \"ualentissimum elementum est.\" Hoc fuisse primum putat, ex hoc surrexisse omnia. Sed nos quoque aut in eadem sententia aut in uicinia eius sumus: dicimus enim ignem esse qui occupet mundum et in se cuncta conuertat, hunc euanidum languentemque considere et nihil relinqui aliud in rerum natura igne restincto quam umorem, in hoc futuri mundi spem latere:",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Hoc fuisse primum putat, ex hoc surrexisse omnia"
    ],
@@ -44068,7 +44064,7 @@
    "text": "[3.14.1-2] \n\n[3.14.2] Hanc ueterem et rudem sententiam explode: nec est quod credas in hunc orbem aquam subire per rimas et facere sentinam. Aegyptii quattuor elementa fecerunt, deinde ex singulis bina paria: aera marem iudicant qua uentus est, feminam qua nebulosus et iners; aquam uirilem uocant mare, muliebrem omnem aliam; ignem uocant masculum, qua ardet flamma, et feminam, qua lucet innoxius tactu; terram fortiorem marem uocant, saxa cautesque, feminae nomen assignant huic tractabili et cultae.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Aegyptii quattuor elementa fecerunt"
    ],
@@ -44264,7 +44260,7 @@
    "text": "Hoc est cur quaedam tigna supra aquam paene tota efferantur, quaedam ad medium submissa sint, quaedam ad aequilibrium aquae descendant. Namque cum utriusque pondus par est, neutra res alteri cedit, grauiora descendunt, leuiora gestantur. Graue autem et leue est non aestimatione nostra, sed comparatione eius, quo uehi debet.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "quaedam tigna supra aquam paene tota efferantur",
     "quaedam ad aequilibrium aquae descendant",
@@ -44461,7 +44457,7 @@
    "text": "Si quis excelsa perlibret, maria paria sunt: nam par undique sibi ipsa tellus est (caua eius et plana inferiora sunt, sed istis adeo in rotundum orbis aequatus est); in parte autem eius et maria sunt, quae in unius aequalitatem pilae coeunt. Sed quemadmodum campos intuentem quae paulatim deuexa sunt fallunt, sic non intellegimus curuaturas maris et uidetur planum quicquid apparet. At illud aequale terris est ideoque, ut effluat, non magna mole se tollet, dum satis est illi, ut supra paria ueniat; leuiter exsurgere; nec a litore, ubi inferius est, sed a medio, ubi ille cumulus est, defluit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Si quis excelsa perlibret, maria paria sunt",
     "par undique sibi ipsa tellus est",
@@ -44490,7 +44486,7 @@
    "text": "Ergo ut solet aestus aequinoctilis sub ipsum lunae solisque coitum omnibus aliis maior undare, sic hic, qui ad occupandas terras emittitur, solitis maximisque uiolentior, plus aquarum trahit nec, antequam supra cacumina eorum, quos perfusurus est, montium creuit, deuoluitur. Per centena milia quibusdam locis aestus excurrit innoxius et ordinem seruat (ad mensuram enim crescit iterumque decrescit):",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "ut solet aestus aequinoctilis sub ipsum lunae solisque coitum omnibus aliis maior undare"
    ],
@@ -44520,7 +44516,7 @@
    "text": "[3.29.1-3] \n\n[3.29.3] Ut in semine omnis futuri hominis ratio comprehensa est et legem barbae canorumque nondum natus infans habet (totius enim corporis et sequentis auctus in paruo occultoque liniamenta sunt), sic origo mundi non minus solem et lunam et uices siderum et animalium ortus quam quibus mutarentur terrena continuit. In his fuit inundatio, quae non secus quam hiems, quam aestas, lege mundi uenit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "origo mundi non minus solem et lunam et uices siderum",
     "in paruo occultoque liniamenta sunt"
@@ -44702,7 +44698,7 @@
    "text": "Quantum creuit Nilus, tantum spei in annum est; nec computatio fallit agricolam, adeo ad mensuram fluminis terra respondet, quam fertilem facit Nilus. Is harenoso ac sitienti solo et aquam inducit et terram: nam cum turbulentus fluat, omnem in siccis atque hiantibus locis faecem relinquit et, quicquid pingue secum tulit, arentibus locis allinit iuuatque agros duabus ex causis, et quod inundat et quod oblimat. Itaque quicquid non adiuit, sterile ac squalidum iacet; si creuit super debitum, nocuit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Quantum creuit Nilus, tantum spei in annum est",
     "nec computatio fallit agricolam",
@@ -44757,7 +44753,7 @@
    "text": "Nilum aliquando marinam aquam detulisse Theophrastus est’ auctor. Biennio continuo regnante Cleopatra non ascendisse, decimo regni anno et undecimo, constat. Significatam aiunt duobus rerum potientibus defectionem: Antonii enim Cleopatraeque defecit imperium. Per nouem annos non ascendisse Nilum superioribus saeculis Callimachus est auctor.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "decimo regni anno et undecimo"
    ],
@@ -44787,7 +44783,7 @@
    "text": "Sed nunc ad inspiciendas causas, propter quas aestate Nilus crescat, accedam et ab antiquissimis incipiam. Anaxagoras ait ex Aethiopiae iugis solutas niues ad Nilum usque decurrere. In eadem opinione omnis uetustas fuit: hoc Aeschylus, Sophocles, Euripides tradunt. Sed falsum esse argumentis pluribus patet.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Anaxagoras ait ex Aethiopiae iugis solutas niues ad Nilum usque decurrere",
     "In eadem opinione omnis uetustas fuit",
@@ -44818,7 +44814,7 @@
    "text": "Si Thaleti credis, etesiae descendenti Nilo resistunt et cursum eius acto contra ostia mari sustinent: ita reuerberatus in se recurrit nec crescit, sed exitu prohibitus resistit et quacumque mox potuit ui congestus erumpit. Euthymenes Massiliensis testimonium dicit: \"Nauigaui, inquit, Atlanticum mare: inde Nilus fluit, maior, quamdiu etesiae tempus obseruant; tunc enim eicitur mare instantibus uentis. Cum resederunt, et pelagus conquiescit minorque descendenti inde uis Nilo est. Ceterum dulcis mari sapor est et similes Niloticis beluae\".",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Si Thaleti credis, etesiae descendenti Nilo resistunt",
     "reuerberatus in se recurrit nec crescit"
@@ -44899,7 +44895,7 @@
    "text": "[4.3.3-5] \n\n[4.3.5] Praeterea potest, etiamsi non fuit grando talis, dum defertur, corrotundari et, totiens per spatium aeris densi deuoluta, aequabiliter atque in orbem teri. Quod nix pati non potest, quia non est tam solida, immo quia fusa est, et non per magnam altitudinem cadit sed circa terras initium eius est: ita non longus illi per aera sed ex proximo lapsus est.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "totiens per spatium aeris densi deuoluta",
     "aequabiliter atque in orbem teri"
@@ -44961,7 +44957,7 @@
    "text": "Quare non et ego mihi idem permittam quod Anaxagoras? Inter nullos magis quam inter philosophos esse debet aequa libertas: grando nihil aliud est quam suspensa glacies, nix [in] pruina pendens [congelatio]. Illud enim iam diximus, quod inter rorem et aquam interest, hoc inter pruinam et glaciem nec non inter niuem et grandinem interesse.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "quod Anaxagoras",
     "grando nihil aliud est quam suspensa glacies"
@@ -45058,7 +45054,7 @@
    "text": "Illud incredibile, Cleonis fuisse publice praepositos chalazophylacas, speculatores uenturae grandinis. Hi cum signum dedissent adesse iam grandinem, quid expectas? ut homines ad paenulas discurrerent aut ad scorteas? Immo pro se quisque alius agnum immolabat, alius pullum: protinus illae nubes alio declinabant, cum aliquid gustassent sanguinis.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Cleonis fuisse publice praepositos chalazophylacas",
     "speculatores uenturae grandinis"
@@ -45089,7 +45085,7 @@
    "text": "Accedit bis ratio Democriti: \"Omne corpus, quo solidius est hoc calorem citius concipit, diutius seruat. Itaque si in sole posueris aeneum uas et uitreum [et argenteum], aeneo citius calor accedet, diutius haerebit.\" Adicit deinde quare hoc existimet fieri.\"His, inquit, corporibus, quae duriora et pressiora sunt, necesse est minora foramina esse et tenuiorem in singulis spiritum: sequitur ut, quemadmodum minora balnearia et minora miliaria citius calefiunt, sic haec foramina occulta et oculos effugientia et celerius feruorem sentiant et propter easdem angustias, quicquid receperunt, tardius reddant.\". Haec longe praeparata ad id perducunt, de quo nunc quaeritur.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "ratio Democriti",
     "Omne corpus, quo solidius est hoc calorem citius concipit, diutius seruat",
@@ -45118,7 +45114,7 @@
    "text": "Omnis aer quo propior est terris, hoc crassior. Quemadmodum in aqua et in omni umore faex ima est, ita in aere spississima quaeque desidunt. Iam autem probatum est omnia, quo crassioris solidiorisque materiae sunt, hoc fidelius custodire calorem receptum. Editior aer, quo longius a terrarum colluuie recessit, hoc sincerior puriorque est; itaque solem non retinet sed uelut per inane transmittit: ideo minus calefit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Omnis aer quo propior est terris, hoc crassior",
     "omnia, quo crassioris solidiorisque materiae sunt, hoc fidelius custodire calorem",
@@ -45148,7 +45144,7 @@
    "text": "[4.11.2-3] \n\n[4.11.3] Pilae proprietas est cum aequalitate quadam rotunditas, aequalitatem autem hanc accipe quam uides in lusoria pila: non multum illi commissurae et rimae [earum] nocent quo minus par sibi ab omni parte dicatur. Quomodo in hac pila nihil illa interualla officiunt ad speciem rotundi, sic ne in uniuerso quidem orbe terrarum editi montes, quorum altitudo totius mundi collatione consumitur.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Pilae proprietas est cum aequalitate quadam rotunditas",
     "aequalitatem autem hanc accipe quam uides in lusoria pila"
@@ -45210,7 +45206,7 @@
    "text": "Qui dicit altiorem montem, quia solem propius excipiat, magis calere debere, idem dicere potest longiorem hominem citius quam pusillum debere calefieri et caput citius quam pedes: at quisquis mundum mensura sua aestimauerit et terrain cogitauerit tenere puncti locum, intelleget nihil in illa posse ita eminere, ut caelestia magis sentiat, uelut in propinquum illis accesserit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "quisquis mundum mensura sua aestimauerit",
     "longiorem hominem citius quam pusillum"
@@ -45288,7 +45284,7 @@
    "text": "Idem et de aere iudicandum est, non esse umquam immobilem, etiamsi quietus sit. Quod ex hoc intellegas licet: cum sol in aliquem clausum locum infusus est, uidemus corpuscula minima in aduersum ferri, alia sursum, alia deorsum uarie concursantia.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "cum sol in aliquem clausum locum infusus est",
     "uidemus corpuscula minima in aduersum ferri",
@@ -45319,7 +45315,7 @@
    "text": "Democritus ait, cum in angusto inani multa sint corpuscula, quae ille atomos uocat, sequi uentum; at contra quietum et placidum aeris statum esse, cum in multo inani pauca sint corpuscula. Nam quemadmodum in foro aut uico, quamdiu paucitas est, sine tumultu ambulatur, ubi turba in angustum concurrit, aliorum in alios incidentium rixa fit: sic in hoc quo circumdati sumus spatio, cum exiguum locum multa corpora impleuerint, necesse est alia aliis incidant et impellant ac repellantur implicenturque et comprimantur, ex quibus nascitur uentus, cum illa quae colluctabantur incubuere et diu fluctuata ac dubia inclinauere se. At ubi in magna laxitate corpora pauca uersantur, nec arietare possunt nec impelli.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Democritus ait, cum in angusto inani multa sint corpuscula",
     "quae ille atomos uocat, sequi uentum",
@@ -45532,7 +45528,7 @@
    "text": "Hoc loco, si tibi uidetur, quaeri potest cur turbo fiat. Euenire in fluminibus solet ut, quamdiu sine impedimento feruntur, simplex et rectum illis iter sit; ubi incurrerunt in aliquod saxum ad latus ripae prominens, retorqueantur et in orbem aquas sine exitu flectant, ita ut circumlata in se sorbeantur et uerticem efficiant.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "simplex et rectum illis iter sit",
     "in orbem aquas sine exitu flectant"
@@ -45632,7 +45628,7 @@
    "text": "[5.16.3-4] \n\n[5.16.4] Qui surgit ab oriente aequinoctiali, subsolanus apud nos dicitur, Graeci illum G-aphelioten uocant. Ab oriente hiberno eurus exit, quem nostri uocauere uulturnum et Liuius hoc illum nomine appellat in illa pugna Romanis parum prospera, in qua Hannibal et contra solem orientera exercitum nostrum,et contra uentum constitutum uenti adiutorio ac fulgoris praestringentis oculos hostium uicit; Uarro quoque hoc nomen usurpat, sed et eurus iam ciuitate donatus est et nostro sermoni non tamquam alienus interuenit. Ab oriente solstitiali excitatum G-kaikian Graeci appellant, apud nos sine nomine est.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Qui surgit ab oriente aequinoctiali, subsolanus apud nos dicitur",
     "Ab oriente hiberno eurus exit"
@@ -45745,7 +45741,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**NQ 5.17.3**: **the horizon-circle and meridian** — \"Graeci G-horizonta uocant, nostri finitorem esse dixerunt, alii finientem. Adiciendus est adhuc meridianus circulus, qui horizonta rectis angulis secat\". Explicit geometrical description with right-angle intersection.",
+   "gloss": "**NQ 5.17.3**: **the horizon-circle and meridian**",
    "latin": "hanc lineam, quae inter aperta et occulta est, id est hunc circulum Graeci G-horizonta uocant, nostri finitorem esse dixerunt, alii finientem. Adiciendus est adhuc meridianus circulus, qui horizonta rectis angulis secat. Ex his quidam circuli in transuersa currunt et alios interuentu suo scindunt; necesse est autem tot aeris discrimina esse quot partes:",
    "text": "hanc lineam, quae inter aperta et occulta est, id est hunc circulum Graeci G-horizonta uocant, nostri finitorem esse dixerunt, alii finientem. Adiciendus est adhuc meridianus circulus, qui horizonta rectis angulis secat. Ex his quidam circuli in transuersa currunt et alios interuentu suo scindunt; necesse est autem tot aeris discrimina esse quot partes:",
    "author": "Seneca, Lucius Annaeus",
@@ -45756,7 +45752,7 @@
     "nostri finitorem esse dixerunt, alii finientem",
     "meridianus circulus, qui horizonta rectis angulis secat"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi1017:phi017:5.17.4",
@@ -45780,7 +45776,7 @@
    "text": "ergo G-horizon, siue finiens circulus, quinque illos orbes quos modo dixi finiens, efficit decem partes, quinque ab ortu, quinque ab occasu; meridianus circulus, qui in horizonta incurrit, regiones duas adicit: sic duodecim aer discrimina accipit et totidem facit uentos.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "G-horizon, siue finiens circulus",
     "efficit decem partes, quinque ab ortu, quinque ab occasu",
@@ -46200,7 +46196,7 @@
    "text": "Quid ergo? Non religionem incutit mentibus, et quidem publice, siue deficere sol uisus est, siue luna, cuius obscuratio frequentior, aut parte sui aut tota delituit? Longeque magis illa, actae in transuersum faces et caeli magna pars ardens et crinita sidera et plures solis orbes et stellae per diem uisae subitique transcursus ignium multam post se lucem trahentium? [3,4] Nihil horum sine timore miramur: et cum timendi sit causa nescire, non est tanti scire, ne timeas? Quanto satius est causas inquirere, et quidem toto in hoc intentum animo! Neque enim illo quicquam inueniri dignius potest, cui se non tantum commodet sed impendat.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "siue deficere sol uisus est, siue luna",
     "actae in transuersum faces et caeli magna pars ardens et crinita sidera et plures solis orbes"
@@ -46230,7 +46226,7 @@
    "text": "In aqua causam esse nec ab uno dictum est nec uno modo. Thales Milesius totam terram subiecto iudicat umore portari et innare, siue illud oceanum uocas, siue magnum mare, siue alterius naturae simplicem adhuc aquam et umidum elementum. Hac, inquit, unda sustinetur orbis uelut aliquod grande nauigium et graue his aquis quas premit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Thales Milesius totam terram subiecto iudicat umore portari et innare",
     "Hac, inquit, unda sustinetur orbis"
@@ -46287,7 +46283,7 @@
    "text": "Ignem causam motus quidam iudicant, imprimis Anaxagoras, qui existimat simili paene ex causa et aera concuti et terram: cum in inferiore parte spiritus crassum aera et in nubes coactum eadem ui qua apud nos quoque nubila frangi solent rupit et ignis ex hoc collisu nubium cursuque elisi aeris emicuit, hic ipse in obuia incurrit exitum quaerens ac diuellit repugnantia, donec per angustum aut nactus est uiam exeundi ad caelum aut ui et iniuria fecit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Ignem causam motus quidam iudicant",
     "imprimis Anaxagoras, qui existimat simili paene ex causa et aera concuti et terram",
@@ -46342,7 +46338,7 @@
    "text": "In hac sententia licet portas Aristotelem et discipulum eius Theophrastum (non, ut Graecis uisum est, diuini, tamen et dulcis eloquii uirum et nitidi sine labore). Quid utrique placeat exponam. Semper aliqua euaporatio est e terra, quae modo arida est, modo umido mixta; haec ab infimo edita et in quantum potuit elata, cum ulteriorem locum in quem exeat non habet, retro fertur atque in se reuoluitur; deinde rixa spiritus reciprocantis iactat obstantia et, siue interclusus siue per angusta enisus est, motum ac tumultum ciet.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Aristotelem et discipulum eius Theophrastum",
     "Semper aliqua euaporatio est e terra"
@@ -46401,7 +46397,7 @@
    "text": "Leuibus adhuc argumentis ago: totum hoc caelum, quod igneus aether, mundi summa pars, claudit, omnes hae stellae, quarum iniri non potest numerus, omnis hic caelestium coetus et, ut alia praeteream, hic tam prope a nobis agens cursum sol, omni terrarum ambitu non semel maior, alimentum ex terreno trahunt et inter se partiuntur nec ullo alio scilicet quam halitu terrarum sustinentur: hoc illis alimentum, hic pastus est.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "totum hoc caelum, quod igneus aether, mundi summa pars, claudit",
     "omnes hae stellae, quarum iniri non potest numerus",
@@ -46537,7 +46533,7 @@
    "text": "Ueniamus nunc ad eos qui omnia ista quae rettuli in causa esse dixerunt aut ex his plura. Democritus plura putat. Ait enim motum aliquando spiritu fieri, aliquando aqua, aliquando utroque, et id hoc modo prosequitur. Aliqua pars terrae concaua est; in hanc aquae magna uis confluit. Ex hac est aliquid tenue et ceteris liquidius. Hoc, cum superueniente grauitate reiectum est, illiditur terris et illas mouet, nec enim fluctuari potest sine motu eius in quod impingitur.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Democritus plura putat",
     "motum aliquando spiritu fieri, aliquando aqua, aliquando utroque",
@@ -46569,7 +46565,7 @@
    "text": "Omnes istas esse posse causas Epicurus ait pluresque alias temptat et illos qui aliquid unum ex istis esse affirmauerunt corripit, cum sit arduum de his quae coniectura assequenda sunt aliquid certi promittere.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Omnes istas esse posse causas Epicurus ait",
     "pluresque alias temptat",
@@ -46600,7 +46596,7 @@
    "text": "Duo genera sunt, ut Posidonio placet, quibus mouetur terra. Utrique nomen est proprium: altera succussio est, cum terra quatitur et sursum ac deorsum mouetur, altera inclinatio, qua in latera nutat alternis nauigii more. Ego et tertium illud existimo quod nostro uocabulo signatum est; non enim sine causa tremorem terrae dixere maiores, qui utrique dissimilis est; nam nec succutiuntur tunc omnia nec inclinantur sed uibrantur, res minime in eiusmodi casu noxia; sicut longe perniciosior est inclinatio concussione: nam nisi celeriter ex altera parte properabit motus qui inclinata restituat, ruina necessario sequitur.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Duo genera sunt, ut Posidonio placet",
     "altera succussio est, cum terra quatitur et sursum ac deorsum mouetur",
@@ -46918,7 +46914,7 @@
    "text": "At quanto illa maiora sunt, quod sol totidem, ut ita dicam, gradus quot dies habet et annum circuitu suo claudit, quod a solstitio ad minuendos dies uertitur, quod ab aequinoctio statim inclinat et dat noctibus spatium, quod sidera abscondit, quod terras, cum tanto maior sit illis, non urit sed calorem suum intensionibus ac remissionibus temperando fouet, quod lunam numquam implet nisi aduersam sibi nec obscurat <nisi uicinam>?",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "sol totidem, ut ita dicam, gradus quot dies habet",
     "annum circuitu suo claudit",
@@ -46978,7 +46974,7 @@
    "text": "[7.1.6-7] \n\n[7.1.7] In qua opinione magni fuere uiri, qui sidera crediderunt ex duro concreta et ignem alienum pascentia. Nam per se, inquiunt, flamma diffugeret, nisi aliquid haberet quod teneret et a quo teneretur, conglobatamque nec stabili inditam corpori profecto iam mundus turbine suo dissipasset.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "sidera crediderunt ex duro concreta et ignem alienum pascentia",
     "profecto iam mundus turbine suo dissipasset"
@@ -47038,7 +47034,7 @@
    "text": "Itaque si omnia terrena sidera sunt, his quoque eadem sors erit; si uero nihil aliud sunt quam purus ignis manensque mensibus senis nec illos conuersio mundi soluit et uelocitas, illa quoque possunt et tenui constare materia nec ob hoc discuti assiduo caeli circumactu.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "si omnia terrena sidera sunt",
     "nihil aliud sunt quam purus ignis manensque mensibus senis",
@@ -47068,7 +47064,7 @@
    "text": "Illo quoque pertinebit haec excussisse ut sciamus utrum mundus terra stante circumeat an mundo stante terra uertatur. Fuerunt enim qui dicerent nos esse quos rerum natura nescientes ferat, nec caeli motu fieri ortus et occasus, nos ipsos oriri et occidere: digna res contemplatione, ut sciamus in quo rerum statu simus, pigerrimam sortiti an uelocissimam sedem, circa nos deus omnia an nos agat.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "utrum mundus terra stante circumeat an mundo stante terra uertatur",
     "Fuerunt enim qui dicerent nos esse quos rerum natura nescientes ferat",
@@ -47097,7 +47093,7 @@
    "text": "Necessarium est autem ueteres ortus cometarum habere collectos. Deprehendi enim propter raritatem eorum cursus adhuc non potest, nec explorari an uices seruent et illos ad suum diem certus ordo producat. Noua haec caelestium obseruatio est et nuper in Graeciam inuecta.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Necessarium est autem ueteres ortus cometarum habere collectos",
     "Deprehendi enim propter raritatem eorum cursus adhuc non potest",
@@ -47130,7 +47126,7 @@
    "text": "Democritus quoque, subtilissimus antiquorum omnium, suspicari se ait plures stellas esse quae currant, sed nec numerum illarum posuit nec nomina, nondum comprehensis quinque siderum cursibus. Eudoxus primus ab Aegypto hos motus in Graeciam transtulit; hic tamen de cometis nihil dicit: ex quo apparet ne apud Aegyptios quidem, quibus maior caeli cura fuit, hanc partem elaboratam.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Democritus quoque, subtilissimus antiquorum omnium",
     "suspicari se ait plures stellas esse quae currant",
@@ -47163,7 +47159,7 @@
    "text": "Conon postea, diligens et ipse inquisitor, defectiones quidem solis seruatas ab Aegyptiis collegit, nullam autem mentionem fecit cometarum, non praetermissurus, si quid explorati apud illos comperisset.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Conon postea, diligens et ipse inquisitor",
     "defectiones quidem solis seruatas ab Aegyptiis collegit",
@@ -47196,7 +47192,7 @@
    "text": "[7.4.1-3] \n\n[7.4.3] Praeterea, inquit, aliam materiam habent fulmina, aliam fulgurationes: aquarum enim et omnis umidi euaporatio splendores tantum caeli citra ictum minaces mouet, illa autem calidior sicciorque terrarum exhalatio fulmina extundit. Trabes uero et faces, quae nullo alio inter se quam magnitudine distant, hoc modo fiunt:",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "aliam materiam habent fulmina, aliam fulgurationes",
     "aquarum enim et omnis umidi euaporatio splendores tantum caeli citra ictum minaces mouet"
@@ -47256,7 +47252,7 @@
    "text": "Ut a proximis mendaciis incipiam, falsum est faces et trabes exprimi turbine: turbo enim circa terras concipitur ac fertur ideoque arbusta radicitus uellit et, quacumque incubuit, solum nudat, siluas interim et tecta corripiens, inferior fere nubibus, utique numquam altior; at contra trabes editior caeli pars ostentat: itaque numquam nubibus obstiterunt.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "turbo enim circa terras concipitur",
     "inferior fere nubibus, utique numquam altior"
@@ -47314,7 +47310,7 @@
    "text": "Charmander quoque, in eo libro quem de cometis a composuit, ait Anaxagorae uisum grande insolitumque caelo lumen magnitudine amplae trabis, et id per multos dies fulsisse. Talem effigiem ignis longi fuisse Callisthenes tradit, antequam Burin et Helicen mare absconderet.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Anaxagorae uisum grande insolitumque caelo lumen",
     "Callisthenes tradit, antequam Burin et Helicen mare absconderet"
@@ -47344,7 +47340,7 @@
    "text": "[7.5.4-5] \n\n[7.5.5] Numquid ergo Aristoteles non illam tantum sed omnes trabes cometas esse credebat hanc habentes differentiam quod his continuus ignis est, ceteris sparsus? Trabes enim flammam aequalem habent nec ullo loco intermissam aut languidam, in ultimis uero partibus coactam, qualem fuisse in illa de qua modo rettuli Callisthenes tradit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Numquid ergo Aristoteles non illam tantum sed omnes trabes cometas esse credebat",
     "his continuus ignis est, ceteris sparsus"
@@ -47434,7 +47430,7 @@
    "text": "Num quis nostrum crederet lunam aut quinque sidera rapi uento aut turbine rotari? Non, ut puto. Quare? Quia non est illis perturbatus et impotens cursus. Ad cometas idem transferamus: non confuse nec tumultuose eunt, ut aliquis credat illos causis turbulentis et inconstantibus pelli.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Num quis nostrum crederet lunam aut quinque sidera rapi uento aut turbine rotari",
     "non est illis perturbatus et impotens cursus",
@@ -47549,7 +47545,7 @@
    "text": "Credamus ignem circumacto turbine accendi et hunc expulsum in sublime praebere nobis opinionem speciemque sideris longi: puto, talis esse debet quale est id quod ignem efficit; turbinis autem rotunda facies est (in eodem enim uestigio uersatur et columnae modo circumagentis se uoluitur): ergo ignem quoque qui inclusus est similem esse illi oportet, atqui longus est et disiectus minimeque similis in orbem coacto.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "turbinis autem rotunda facies est",
     "in eodem enim uestigio uersatur et columnae modo circumagentis se uoluitur"
@@ -47577,7 +47573,7 @@
    "text": "Epigenem relinquamus et aliorum opiniones persequamur. Quas antequam exponere incipiam, illud imprimis praesumendum est, cometas non in una parte caeli aspici nec in signifero tantum orbe sed tam in ortu quam in occasu, frequentissime tamen circa septentrionem.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "cometas non in una parte caeli aspici",
     "nec in signifero tantum orbe",
@@ -47606,7 +47602,7 @@
    "text": "His illud respondebimus: certum esse numerum stellarum mobilium, solere autem eodem tempore et has apparere et cometen, ex quo manifestum fit non illarum coitu fieri cometen sed proprium esse et sui iuris.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "certum esse numerum stellarum mobilium",
     "eodem tempore et has apparere et cometen",
@@ -47635,7 +47631,7 @@
    "text": "Etiamnunc frequenter stella sub altioris stellae uestigium uenit: et Saturnus aliquando supra Iouem est et Mars Uenerem aut Mercurium recta linea despicit, nec tamen propter hunc illorum concursum, cum alter alterum subit, cometes fit; alioquin annis omnibus fieret (omnibus enim aliquae stellae in eodem signo simul sunt).",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Saturnus aliquando supra Iouem est",
     "Mars Uenerem aut Mercurium recta linea despicit"
@@ -47663,7 +47659,7 @@
    "text": "Si cometen faceret stella stellae superueniens, momento esse desineret. Summa enim uelocitas transeuntium est, ideoque omnis defectio siderum breuis est, quia cito illa idem cursus qui admouerat abstrahit; uidemus solem et lunam intra exiguum tempus, cum obscurari coeperunt, liberari: quanto celerior debet fieri in stellis digressio tanto minoribus? Atqui cometae senis mensibus manent, quod non accideret, si duarum stellarum conuentu gignerentur: illae enim diu cohaerere non possunt et necesse est illas lex celeritatis suae separet.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Summa enim uelocitas transeuntium est",
     "omnis defectio siderum breuis est",
@@ -47723,7 +47719,7 @@
    "text": "Aduersus haec ab Artemidoro illa dicuntur: non has tantum stellas quinque discurrere, sed has solas obseruatas esse; ceterum innumerabiles ferri per occultum aut propter obscuritatem luminis nobis ignotas aut propter circulorum positionem talem ut tunc demum, cum ad extrema eorum uenere, uisantur. Ergo intercurrunt quaedam stellae, ut ait, nobis nouae, quae lumen suum constantibus misceant et maiorem quam stellis mos est porrigant ignem.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "ab Artemidoro illa dicuntur",
     "non has tantum stellas quinque discurrere, sed has solas obseruatas esse",
@@ -47753,7 +47749,7 @@
    "text": "Hoc ex his quae mentitur leuissimum est: tota eius enarratio mundi mendacium impudens est. Nam si illi credimus, summa caeli ora solidissima est, in modum tecti durata et alti crassique corporis, quod atomi congestae coaceruataeque fecerunt.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "summa caeli ora solidissima est",
     "in modum tecti durata et alti crassique corporis",
@@ -47811,7 +47807,7 @@
    "text": "Attalo regnante initio cometes modicus apparuit, deinde sustulit se diffuditque et usque in aequinoctialem circulum uenit, ita ut illam plagam caeli, cui lactea nomen est, in immensum extentus aequaret. Quid ergo? <Quot>> conuenisse debent erralicae, ut tam longum caeli tractum occuparent igne continuo?",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Attalo regnante initio cometes modicus apparuit",
     "usque in aequinoctialem circulum uenit",
@@ -47842,7 +47838,7 @@
    "text": "Apollonius Myndius in diuersa opinione est: ait enim cometen non unum ex multis erraticis effici sed multos cometas erraticos esse. Non est, inquit, species falsa nec duarum stellarum confinio ignis extentus, sed proprium sidus cometae est, sicut solis ac lunae. Talis illi forma est, non in rotundum restricta sed procerior et in longum producta.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Apollonius Myndius in diuersa opinione est",
     "cometen non unum ex multis erraticis effici sed multos cometas erraticos esse",
@@ -47871,7 +47867,7 @@
    "text": "Aduersus haec protinus respondetur non idem accidere in cometis quod in ceteris. Cometae enim quo primum die apparuerunt, maximi sunt; atqui deberent crescere, quo propius accederent: nunc autem manet illis prima facies, donec incipiant extingui. Deinde quod aduersus priores, etiam aduersus hunc dicitur: si erraret cometes essetque sidus, intra signiferi terminos moueretur, intra quos omne sidus cursus suos colligit.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "manet illis prima facies, donec incipiant extingui"
    ],
@@ -47900,7 +47896,7 @@
    "text": "Zenon noster in illa sententia est: congruere iudicat stellas et radios inter se committere; hac societate luminis existere imaginem stellae longioris. Ergo quidam nullos esse cometas existimant sed speciem illorum per repercussionem uicinorum siderum aut per coniunctionem cohaerentium reddi;",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Zenon noster in illa sententia est",
     "congruere iudicat stellas et radios inter se committere",
@@ -47957,7 +47953,7 @@
    "text": "In hac sententia sunt plerique nostrorum nec id putant ueritati repugnare. Videmus enim in sublimi uaria ignium concipi genera et modo caelum ardere, modo \"longos a tergo flammarum albescere tractus,\" modo faces cum igne uasto rapi. Iam ipsa fulmina, etiamsi uelocitate mira simul et praestringunt aciem et relinquunt, ignes sunt aeris triti et impetu inter se maiore collisi: ideo ne resistunt quidem sed expressi fluunt et protinus pereunt.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "plerique nostrorum",
     "in sublimi uaria ignium concipi genera",
@@ -48047,7 +48043,7 @@
    "text": "Multos cometas non uidemus, quia obscurantur radiis solis: quo deficiente quondam cometen apparuisse, quem sol uicinus obtexerat, Posidonius tradit; saepe autem cum occidit sol, sparsi ignes non procul ab eo uidentur: uidelicet ipsa stella sole perfunditur et ideo aspici non potest, comae autem radios solis effugiunt.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Multos cometas non uidemus, quia obscurantur radiis solis",
     "quo deficiente quondam cometen apparuisse, quem sol uicinus obtexerat",
@@ -48076,7 +48072,7 @@
    "text": "Etiamnunc ignis aut it quo illum natura sua ducit, id est sursum, aut eo quo trahit materia cui adhaesit et quam depascitur: nullis ignibus ordinariis et caelestibus iter flexum est; sideris proprium est ducere orbem: atqui hoc an cometae alii fecerint nescio, duo nostra aetate fecerunt.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "nullis ignibus ordinariis et caelestibus iter flexum est",
     "sideris proprium est ducere orbem",
@@ -48106,7 +48102,7 @@
    "text": "[7.24.1-2] \n\n[7.24.2] Quod si iudicas non posse ullam stellam, nisi signiferum attigit, uadere, cometes potest sic alium habere circulum ut in hunc tamen parte aliqua sui incidat, quod fieri non est necessarium sed potest. Vide ne hoc magis deceat magnitudinem mundi, ut in multa itinera diuisus circumeat nec unam deterat semitam, ceteris partibus torpeat.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "cometes potest sic alium habere circulum",
     "ut in hunc tamen parte aliqua sui incidat"
@@ -48196,7 +48192,7 @@
    "text": "[7.25.3-4] \n\n[7.25.4] Veniet tempus quo ista quae nunc latent in lucem dies extrahat et longioris aeui diligentia; ad inquisitionem tantorum aetas una non sufficit, ut tota caelo uacet: quid, quod tam paucos annos inter studia ac uitia non aequa portione diuidimus? Itaque per successiones ista longas explicabuntur.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Veniet tempus quo ista quae nunc latent in lucem dies extrahat",
     "longioris aeui diligentia",
@@ -48288,7 +48284,7 @@
    "text": "Quid est ergo cur aliqua redire uideantur? Solis occursus speciem illis tarditatis imponit et natura uiarum circulorumque sic positorum ut certo tempore intuentes fallant: sic naues, quamuis plenis uelis eant, uidentur tamen stare. Erit qui demonstret aliquando in quibus cometae partibus currant, cur tam seducti a ceteris errent, quanti qualesque sint. Contenti simus inuentis: aliquid ueritati et posteri conferant.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Solis occursus speciem illis tarditatis imponit",
     "natura uiarum circulorumque sic positorum ut certo tempore intuentes fallant",
@@ -48317,7 +48313,7 @@
    "text": "Stellae, inquit, omnes rotundae sunt, cometae porrecti, ex quo apparet stellas non esse. Quis enim tibi concedit cometas longos esse? Quorum natura quidem, ut ceterorum siderum, globus est, ceterum fulgor extenditur. Quemadmodum sol radios suos longe lateque dimittit, ceterum ipsi alia est forma, alia ei quod ex ipso fluit lumini, sic cometarum corpus ipsum corrotundatur, splendor autem longior quam ceterorum siderum apparet.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Stellae, inquit, omnes rotundae sunt, cometae porrecti",
     "natura quidem, ut ceterorum siderum, globus est, ceterum fulgor extenditur"
@@ -48376,7 +48372,7 @@
    "text": "[7.28.1-2] \n\n[7.28.2] Hoc ut scias ita esse, non statim cometas ortus uentos et pluuias minatur, ut Aristoteles ait, sed annum totum suspectum facit; ex quo apparet illum non ex proximo quae in proximum daret signa traxisse, sed habere reposita et comprensa legibus mundi.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "non statim cometas ortus uentos et pluuias minatur",
     "annum totum suspectum facit",
@@ -48532,7 +48528,7 @@
    "text": "Nec miremur tam tarde erui quae tam alte iacent. Panaetio et his qui uideri uolunt cometen non esse ordinarium sidus sed falsam sideris faciem, diligenter tractandum est an aeque omnis pars anni edendis cometis satis apta sit, an omnis caeli regio idonea in qua creentur, an quacumque ire ibi etiam concipi possint, et cetera: quae uniuersa tolluntur, cum dico illos non fortuitos esse ignes, sed intextos mundo, quos non frequenter educit sed in occulto mouet.",
    "author": "Seneca, Lucius Annaeus",
    "author_id": "phi1017",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Panaetio et his qui uideri uolunt cometen non esse ordinarium sidus",
     "sed falsam sideris faciem",
@@ -49051,7 +49047,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Tacitus Germania 11.2** — direct ethnographic contrast: \"**nec dierum numerum, ut nos, sed noctium computant**\" — the Germans do not count the number of days, as we do, but compute by nights. Comparative-anthropological evidence for Roman counting practice as something the Romans considered distinctively their own.",
+   "gloss": "**Tacitus Germania 11.2**  '**nec dierum numerum, ut nos, sed noctium computant**': the Germans do not count the number of days, as we do, but compute by nights",
    "latin": "arbitrium est, apud principes praetractentur. coeunt, nisi quid fortuitum et subitum incidit, certis diebus, cum aut incohatur luna aut impletur; nam agendis rebus hoc auspicatissimum initium credunt. nec dierum numerum, ut nos, sed noctium computant. sic constituunt, sic condicunt:",
    "text": "arbitrium est, apud principes praetractentur. coeunt, nisi quid fortuitum et subitum incidit, certis diebus, cum aut incohatur luna aut impletur; nam agendis rebus hoc auspicatissimum initium credunt. nec dierum numerum, ut nos, sed noctium computant. sic constituunt, sic condicunt:",
    "highlights": [
