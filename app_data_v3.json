@@ -8807,7 +8807,7 @@
    "latin": "iam vero censores quem ad modum isto praetore in Sicilia creati sint, operae pretium est cognoscere. ille enim est magistratus apud Siculos qui diligentissime mandatur a populo propter hanc causam, quod omnes Siculi ex censu quotannis tributa conferunt, in censu habendo potestas omnis aestimationis habendae summaeque faciendae censori permittitur. itaque et populus cui maximam fidem suarum rerum habeat maxima cura deligit, et propter magnitudinem potestatis hic magistratus a populo summa ambitione contenditur.",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "in censu habendo potestas omnis aestimationis habendae summaeque faciendae censori permittitur",
     "omnes Siculi ex censu quotannis tributa conferunt"
@@ -8884,7 +8884,7 @@
     "Archimed*"
    ],
    "tiers": "1",
-   "gloss": "**Verr. 2.4.131** (Cuomo \"Verr. 2.58.131\"): **Marcellus seeking out Archimedes** at the sack of Syracuse — \"*requisisse etiam dicitur Archimedem illum, summo ingenio hominem ac disciplina, quem cum audisset interfectum permoleste tulisse*\" (Marcellus is said to have sought out the famous Archimedes, a man of supreme genius and discipline, and to have grieved deeply at hearing of his death). Cicero contrasts Marcellus' respect for the mathematician with Verres' looting. One of Cuomo's key \"Archimedes-myth\" texts.",
+   "gloss": "**Verr. 2.4.131**: Marcellus seeking out Archimedes",
    "latin": "Vt saepius ad Marcellum revertar, iudices, sic habetote, pluris esse a Syracusanis istius adventu deos quam victoria Marcelli homines desideratos. etenim ille requisisse etiam dicitur Archimedem illum, summo ingenio hominem ac disciplina, quem cum audisset interfectum permoleste tulisse: iste omnia quae requisivit, non ut conservaret verum ut asportaret requisivit. iam illa quae leviora videbuntur ideo praeteribo, quod mensas Delphicas e marmore, crateras ex aere pulcherrimas, vim maximam vasorum Corinthiorum ex omnibus aedibus sacris abstulit Syracusis.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -8894,7 +8894,7 @@
     "summo ingenio hominem ac disciplina",
     "quem cum audisset interfectum permoleste tulisse"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0474:phi005:2.5.27",
@@ -8970,7 +8970,7 @@
     "numer*"
    ],
    "tiers": "1,3",
-   "gloss": "**Lucullus 22**: **\"quo modo aut geometres cernere ea potest\"** — the geometer's perception requires veridical sense-impressions; argument from geometry to epistemology.",
+   "gloss": "**Lucullus 22**: the geometer's perception ",
    "latin": "quod si essent falsae notitiae (e)nnoi/as enim notitias appellare tu videbare) — si igitur essent eae falsae aut eius modi visis inpressae qualia visa a falsis discerni non possent, quo tandem his modo uteremur, quo modo autem quid cuique rei consentaneum esset quid repugnaret videremus? Memoriae quidem certe, quae non modo philosophiam sed omnis vitae usum omnesque artes una maxime continet, nihil omnino loci relinquitur. quae potest enim esse memoria falsorum, aut quid quisquam meminit quod non animo conprehendit et tenet? Ars vero quae potest esse nisi quae non ex una aut duabus sed ex multis animi perceptionibus constat? quam si subtraxeris, qui distingues artificem ab inscio: non enim fortuito hunc artificem dicemus esse illum negabimus, sed cum alterum percepta et conprehensatenere videmus alterum non item. cumque artium aliud eius modi genus sit ut tantum modo animo rem cernat, aliud ut moliatur aliquid et faciat, quo modo aut geometres cernere ea potest quae aut nulla sunt aut internosci a falsis non possunt, aut is qui fidibus utitur explere numeros et conficere versus; quod idem in similibus quoque artibus continget, quarum omne opus est in faciendo atque agendo. quid enim est quod arte effici possit nisi is qui artem tractabit multa perceperit?",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -8978,7 +8978,7 @@
    "highlights": [
     "quo modo aut geometres cernere ea potest"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0474:phi046:32",
@@ -9164,7 +9164,7 @@
     "mathematic*"
    ],
    "tiers": "1",
-   "gloss": "Sun > 18× earth (\"mathematici amplius duodeviginti partibus confirmant\"). Substantive quantitative astronomy.",
+   "gloss": "the sun is more than 18 times greater than the earth",
    "latin": "Quid ego de nave; vidi enim a te remum contemni: maiora fortasse quaeris. Quid potest sole maius, quem mathematici amplius duodeviginti partibus confirmant maiorem esse quam terram: quantulus nobis videtur; mihi quidem quasi pedalis; Epicurus autem posse putat etiam minorem esse eum quam videatur, sed non multo; ne maiorem quidem multo putat esse, vel tantum esse quantus videatur, ut oculi aut nihil mentiantur tamen aut non multum — mentiantur tamen: ubi igitur illud est 'semel'? — sed ab hoc credulo, qui numquam sensus mentiri putat, discedamus, qui ne nunc quidem, cum ille sol, qui tanta incitatione fertur ut celeritas eius quanta sit ne cogitari quidem possit, tamen nobis stare videatur.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -9195,7 +9195,7 @@
     "ratio"
    ],
    "tiers": "1,3",
-   "gloss": "Geometry, literature, music as domains of dialectic's judgment; 'in geometriane quid sit verum aut falsum dialecticus iudicabit'. Brief reference to mathematics within a logical argument.",
+   "gloss": "geometry, literature, music as domains of dialectic's judgment",
    "latin": "Sed abeo a sensibus; quid est quod ratione percipi possit? dialecticam inventam esse dicitis veri et falsi quasi disceptatricem et iudicem. cuius veri et falsi, et in qua re? in geometriane quid sit verum aut falsum dialecticus iudicabit an in litteris an in musicis? at ea non novit. in philosophia igitur: sol quantus sit quid ad ilium? quod sit summum bonum quid habet ut queat iudicare? quid igitur iudicabit? quae coniunctio quae diiunctio vera sit, quid ambigue dictum sit, quid sequatur quamque rem quid repugnet: si haec et horum similia iudicat, de se ipsa iudicat; plus autem pollicebatur. nam haec quidem iudicare ad ceteras res, quae sunt in philosophia multae atque magnae, non est satis.",
    "english": "Cicero's sceptical attack: the dialectician judges what is true and false in geometry, but in geometry itself? In music? Whatever is to be judged must come from those arts themselves, not from a generic faculty.",
    "highlight": true,
@@ -9205,7 +9205,7 @@
    "highlights": [
     "in geometriane quid sit verum aut falsum dialecticus iudicabit"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0474:phi046:106",
@@ -9229,7 +9229,7 @@
     "mathematic*"
    ],
    "tiers": "1",
-   "gloss": "**Lucullus 106**: **the famous Polyaenus passage** — \"Polyaenus, qui magnus mathematicus fuisse dicitur, is postea quam Epicuro adsentiens **totam geometriam falsam esse credidit**\" — Polyaenus the great mathematician converting to Epicureanism and coming to believe all geometry false. The locus classicus for Epicurean rejection of geometry.",
+   "gloss": "**Lucullus 106**:  Polyaenus converts to Epicureanism and coming to believe all geometry false. ",
    "latin": "'Unde memoria, si nihil percipimus?' sic enim quaerebas. quid meminisse visa nisi conprensa non possumus? quid Polyaenus, qui magnus mathematicus fuisse dicitur, is postea quam Epicuro adsentiens totam geometriam falsam esse credidit, num illa etiam quae sciebat oblitus est? atqui falsum quod est id percipi non potest, ut vobismet ipsis placet. si igitur memoria perceptarum conprensarumque rerum est, omnia quae quisque meminit habet ea conprensa atque percepta; falsi autem conprendi nihil potest; et omnia meminit Seiron Epicuri dogmata; vera igitur illa sunt nunc omnia. hoc per me licet; sed tibi aut concedendum est ita esse, quod minime vis, aut memoriam mihi remittas oportet et fateare esse ei locum etiam si conprehensio perceptioque nulla sit.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -9256,15 +9256,9 @@
    "figures": [
     "Archimedes"
    ],
-   "search_terms": [
-    "Archimed*",
-    "geometr*",
-    "mathematic*",
-    "punct*",
-    "ratio"
-   ],
+   "search_terms": [],
    "tiers": "1,2,3",
-   "gloss": "Continuation of academic discussion of mathematical certainty: 'illa initia mathematicorum' (the foundations: point without magnitude, line without breadth) and Archimedes' demonstration that the sun is many times larger than the earth. Substantive mathematical-philosophical.",
+   "gloss": "discussion of mathematical certainty: 'illa initia mathematicorum' (the foundations: point without magnitude, line without breadth) and Archimedes' demonstration that the sun is many times larger than the earth. ",
    "latin": "In tres igitur partes et a plerisque et a vobismet ipsis distributa sapientia est. Primum ergo si planet quae de natura rerum sint quaesita videamus — vel, ut illud ante: estne quisquam tanto inflatus errore ut sibi se ilia scire persuaserit? non quaero rationes eas quae ex coniectura pendent, quae disputationibus huc et illuc trahuntur, nullam adhibent persuadendi necessitatem; geometrae provideant, qui se profitentur non persuadere sed cogere, et qui omnia vobis quae describunt probant. non quaero ex his illa initia mathematicorum, quibus non concessis digitum progredi non possunt, punctum esse quod magnitudinem nullam habeat, extremitatem et quasi libramentum in quo nulla omnino crassitudo sit, liniamentum longitudinem sine ulla latitudine ** carentem. haec cum vera esse concessero, si adigam ius iurandum sapientem, nec prius quam Archimedes eo inspectante rationes omnes descripserit eas quibus efficitur multis partibus solem maiorem esse quam terrain, iuraturum putas? si fecerit, solem ipsum, quem deum censet esse, contempserit.",
    "english": "On the foundations of mathematics: even the geometers' starting points ('initia mathematicorum'), if any are in doubt — the geometric point with no extension, the line with length but no breadth — cannot be defended against sceptical attack. The most rigorous of all knowledge is shown to rest on undefended axioms.",
    "highlight": true,
@@ -9292,7 +9286,7 @@
     "ratio"
    ],
    "tiers": "1,2,3",
-   "gloss": "On geometric proofs ('geometricis rationibus') and their compelling force in argument.",
+   "gloss": "On geometric proofs and their compelling force in argument.",
    "latin": "Quod si geometricis rationibus non est crediturus, quae vim adferunt in docendo vos ipsi ut dicitis, ne ille longe aberit ut argumentis credat philosophorum — aut si est crediturus, quorum potissimum? omnia enim physicorum licet explicare, sed longum est; quaero tamen quem sequatur. finge aliquem nunc fieri sapientem, nondum esse; quam potissimum sententiam melius eliget et disciplinam? etsi quamcumque eliget insipiens eliget; sed sit ingenio divino: quem unum e physicis potissimum probabit? nec plus uno poterit. Non persequor quaestiones infinitas; tantum de principiis rerum e quibus omnia constant videamus quem probet; est enim inter magnos homines summa dissensio.",
    "english": "Cicero pushes further: even those who refuse to credit the philosophers' arguments will surely accept geometric demonstrations? The geometers' demonstrations carry a force ('vim adferunt') that no other discipline matches. Geometric proof as the gold standard of knowledge.",
    "highlight": true,
@@ -9353,7 +9347,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -10997,7 +10991,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Numeri quidam sunt in coniunctione servandi",
     "Numeros aures ipsae metiuntur"
@@ -11032,7 +11026,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "numerorum ac sonorum, ut mensurae, ut siderum"
    ],
@@ -11057,7 +11051,7 @@
    "tiers": [
     1
    ],
-   "gloss": "**Phil. 11.12**: ***castrorum antea metator***, **nunc, ut sperat, urbis** (\"formerly a measurer of military camps, now, as he hopes, of the city itself\"). Cicero attacking Antony's ally Saxa as \"*castrorum metator*\" — the camp-surveyor now turned would-be allotter of Rome itself. The classic Latin instance of \"*metator*\" (military land-surveyor) used as political insult. Cuomo cites this as a key text on Roman ambivalence toward surveying.",
+   "gloss": "**Phil. 11.12**: ***castrorum antea metator***, **nunc, ut sperat, urbis** ('formerly a measurer of military camps, now, as he hopes, of the city itself'). Cicero attacking Antony's ally Saxa as the camp-surveyor now turned would-be allotter of Rome itself. ",
    "latin": "neque hoc in hoc uno est: sunt alii in isdem castris honeste condemnati, turpiter restituti. quod horum consilium qui omnibus bonis hostes sunt nisi crudelissimum putatis fore? accedit Saxa nescio quis, quem nobis Caesar ex ultima Celtiberia tribunum plebis dedit, castrorum antea metator, nunc, ut sperat, urbis: a qua cum sit alienus, suo capiti salvis nobis ominetur. cum hoc veteranus Cafo, quo neminem veterani peius oderunt. his quasi praeter dotem quam in civilibus malis acceperant agrum Campanum est largitus Antonius, ut haberent reliquorum nutriculas praediorum. quibus utinam contenti essent! ferremus, etsi tolerabile non erat, sed quidvis patiendum fuit, ut hoc taeterrimum bellum non haberemus.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -11111,7 +11105,7 @@
    "tiers": [
     1
    ],
-   "gloss": "**Phil. 14.10**: **\"peritus metator et callidus *decempeda* sua Saxa diviserat\"** (\"Saxa, the experienced surveyor, had with his cunning ten-foot rod divided up [the city]\"). The most explicit Latin reference to the **decempeda** — the 10-foot surveyor's measuring rod — as instrument of political violation. Cuomo's second-most-cited surveyor passage.",
+   "gloss": "**Phil. 14.10**: 'Saxa, the experienced surveyor, had with his cunning ten-foot rod divided up [the city]'",
    "latin": "si vero coloniarum et municipiorum sine ulla dubitatione hostis est, quid tandem huius censetis urbis quam ille ad explendas egestates latrocini sui concupivit, quam iam peritus metator et callidus decempeda sua Saxa diviserat? recordamini, per deos immortalis! patres conscripti, quid hoc biduo timuerimus a domesticis hostibus rumoribus improbissimis dissipatis. quis liberos, quis coniugem aspicere poterat sine fletu? quis domum, quis tecta, quis larem familiarem? aut foedissimam mortem omnes aut miserabilem fugam cogitabant. haec a quibus timebantur, eos hostis appellare dubitamus? gravius si quis attulerit nomen, libenter adsentiar: hoc volgari contentus vix sum, leviore non utar.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -11197,7 +11191,7 @@
    "latin": "Multa sunt a nobis et in Academicis conscripta contra physicos et saepe cum P. Nigidio Carneadeo more et modo disputata. Fuit enim vir ille cum ceteris artibus, quae quidem dignae libero essent, ornatus omnibus, tum acer investigator et diligens earum rerum, quae a natura involutae videntur; denique sic iudico, post illos nobiles Pythagoreos, quorum disciplina extincta est quodam modo, cum aliquot saecla in Italia Siciliaque viguisset, hunc extitisse, qui illam renovaret.",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "post illos nobiles Pythagoreos",
     "quorum disciplina extincta est quodam modo",
@@ -11230,7 +11224,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Corporeum autem et aspectabile itemque tractabile",
     "mundum efficere moliens deus",
@@ -11264,7 +11258,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -11288,14 +11282,14 @@
     "propor*"
    ],
    "tiers": "3",
-   "gloss": "Already in semantic findings (Tim. 15: 'inter ignem atque terram aquam... proportione coniungeret' — proportional geometric mean for solid bodies).",
+   "gloss": "",
    "latin": "Sed cum soliditas mundo quaereretur, solida autem omnia uno medio numquam, duobus semper copulentur, ita contigit, ut inter ignem atque terram aquam deus animamque poneret eaque inter se conpararet et proportione coniungeret, ut, quem ad modum ignis animae, sic anima aquae, quodque anima aquae, id aqua terrae proportione redderet. Qua ex coniunctione caelum ita aptum est, ut sub aspectum et tactum cadat. Itaque et ob eam causam et ex iis rebus numero quattuor mundi est corpus effectum ea constrictum conparatione, qua dixi; ex quo ipse se concordi quadam amicitia et caritate conplectitur atque ita apte cohaeret, ut dissolvi nullo modo queat nisi ab eodem, a quo est conligatus.",
    "english": "Two means are needed for solid bodies: 'between fire and earth God placed water and air, and arranged them in proportion to one another' so that the ratio of fire to air equals air to water and water to earth. The cubic-mean construction inherited from Pythagorean number-theory.",
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
    "strictness": "strict",
-   "provenance": "verified-from-source-parse"
+   "provenance": "needs checking"
   },
   {
    "id": "phi0474:phi072:18",
@@ -11374,7 +11368,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "dupla et tripla intervalla explere partis",
     "in singulis essent bina media",
