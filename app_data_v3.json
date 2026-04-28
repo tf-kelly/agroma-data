@@ -6688,7 +6688,7 @@
     "geometr*"
    ],
    "tiers": "1",
-   "gloss": "**Off. 3.33**: **\"ut geometrae solent, non omnia docere, sed postulare ut quaedam sibi concedantur\"** — the geometers' method of postulating axioms rather than proving everything. Programmatic on geometric methodology, parallel to Fin. 5.83 and Tusc. 5.18.",
+   "gloss": "**Off. 3.33**: the geometers' method of postulating axioms rather than proving everything, cf. Fin. 5.83 and Tusc. 5.18.",
    "latin": "Sed quoniam operi inchoato, prope tamen absoluto tamquam fastigium imponimus, ut geometrae solent non omnia docere, sed postulare, ut quaedam sibi concedantur, quo facilius, quae volunt, explicent, sic ego a te postulo, mi Cicero, ut mihi concedas, si potes, nihil praeter id, quod honestum sit, propter se esse expetendum. Sin hoc non licet per Cratippum, at illud certe dabis, quod honestum sit, id esse maxime propter se expetendum. Mihi utrumvis satis est et tum hoc, tum illud probabilius videtur nec praeterea quicquam probabile.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -6697,7 +6697,7 @@
     "ut geometrae solent non omnia docere",
     "sed postulare, ut quaedam sibi concedantur"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0474:phi055:3.45",
@@ -6765,7 +6765,7 @@
     "music*"
    ],
    "tiers": "1,2,3",
-   "gloss": "On the obscurity and depth of mathematics ('quanta in obscuritate rerum et quam recondita in arte... versentur'). Programmatic statement on the difficulty of mathematics.",
+   "gloss": "On the obscurity and depth of mathematics ",
    "latin": "Quis ignorat, ei, qui mathematici vocantur, quanta in obscuritate rerum et quam recondita in arte et multiplici subtilique versentur? Quo tamen in genere ita multi perfecti homines exstiterunt, ut nemo fere studuisse ei scientiae vehementius videatur, quin quod voluerit consecutus sit. Quis musicis, quis huic studio litterarum, quod profitentur ei, qui grammatici vocantur, penitus se dedit, quin omnem illarum artium paene infinitam vim et materiem scientia et cognitione comprehenderit?",
    "english": "Crassus's defence of the orator's universal learning. He observes that those called 'mathematici' move in extraordinarily abstruse and intricate matters, yet have produced great practitioners — implicitly the standard against which the orator must measure himself.",
    "highlight": true,
@@ -6878,7 +6878,7 @@
     "mathematic*"
    ],
    "tiers": "1",
-   "gloss": "**De Or. 1.61**: Crassus on **\"physica ista ipsa et mathematica\"** — physics and mathematics named as parallel sciences requiring rhetorical clothing. Disciplinary-methodological.",
+   "gloss": "**De Or. 1.61**: Crassus on physics and mathematics as parallel sciences requiring rhetorical clothing. ",
    "latin": "Atque haud scio an minus vobis hoc sim probaturus; equidem non dubitabo, quod sentio, dicere: physica ista ipsa et mathematica et quae paulo ante ceterarum artium propria posuisti, scientiae sunt eorum, qui illa profitentur, inlustrari autem oratione si quis istas ipsas artis velit, ad oratoris ei confugiendum est facultatem.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -6993,7 +6993,7 @@
     "siderum/sidera"
    ],
    "tiers": "1,2,3",
-   "gloss": "The disciplinary contents of music, geometry, and astronomy spelled out: 'in musicis numeri et voces et modi; in geometria lineamenta, formae, intervalla, magnitudines; in astrologia caeli conversio, ortus, obitus motusque siderum'. Programmatic and substantive.",
+   "gloss": "The disciplinary contents of music, geometry, and astronomy ",
    "latin": "Hoc video, dum breviter voluerim dicere, dictum a me esse paulo obscurius; sed experiar et dicam, si potero, planius. Omnia fere, quae sunt conclusa nunc artibus, dispersa et dissipata quondam fuerunt; ut in musicis numeri et voces et modi; in geometria lineamenta, formae, intervalla, magnitudines; in astrologia caeli conversio, ortus, obitus motusque siderum; in grammaticis poetarum pertractatio, historiarum cognitio, verborum interpretatio, pronuntiandi quidam sonus; in hac denique ipsa ratione dicendi excogitare, ornare, disponere, meminisse, agere, †ignota quondam omnibus et diffusa late videbantur.",
    "english": "Crassus's programmatic statement on how the disciplines were systematised: music's numbers, voices, and modes once lay scattered, as did the geometers' lines and figures, and the astronomers' celestial motions; each was reduced to art by collecting and ordering. The locus classicus for the Roman reception of Greek systematisation of the mathematical sciences.",
    "highlight": true,
@@ -7057,7 +7057,7 @@
     "ratio"
    ],
    "tiers": "1,2,3",
-   "gloss": "**De Or. 1.217**: **\"geometriam aut musicam philosophi esse\"** — Crassus arguing that geometry and music are philosophical (Platonic) disciplines because Plato excelled in them. Substantive on the philosophical status of mathematics.",
+   "gloss": "**De Or. 1.217**: Crassus arguing that geometry and music are philosophical (Platonic) disciplines because Plato excelled in them. ",
    "latin": "Nam si ut quisque in aliqua arte et facultate excellens aliam quoque artem sibi adsumpserit, is perficiet ut, quod praeterea sciet, id eius, in quo excellet, pars quaedam esse videatur, licet ista ratione dicamus pila bene et duodecim scriptis ludere proprium esse iuris civilis, quoniam utrumque eorum P. Mucius optime fecerit; eademque ratione dicantur ei quos fusikou/s Graeci nominant eidem poetae, quoniam Empedocles physicus egregium poema fecerit. At hoc ne philosophi quidem ipsi, qui omnia sicut propria sua esse atque a se possideri volunt, dicere audent, geometriam aut musicam philosophi esse, quia Platonem omnes in illis artibus praestantissimum fuisse fateantur.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -7247,7 +7247,7 @@
     "music*"
    ],
    "tiers": "1,3",
-   "gloss": "**De Or. 3.79**: **\"quid faciet in geometria qui non didicerit? quid in musicis?\"** — geometry and music as disciplines that absolutely require formal instruction, contrasted with rhetoric. Substantive on mathematical pedagogy.",
+   "gloss": "**De Or. 3.79**: geometry and music absolutely require formal instruction, contrasted with rhetoric.",
    "latin": "Non est enim philosophia similis artium reliquarum: nam quid faciet in geometria qui non didicerit? quid in musicis? Aut taceat oportebit aut ne sanus quidem iudicetur. Haec vero, quae sunt in philosophia, ingeniis eruuntur ad id, quod in quoque veri simile est, eliciendum acutis atque acribus eaque exercitata oratione poliuntur. Hic noster vulgaris orator, si minus erit doctus, at tamen in dicendo exercitatus, hac ipsa exercitatione communi istos quidem nostros verberabit neque se ab eis contemni ac despici sinet;",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -7280,7 +7280,7 @@
     "music*"
    ],
    "tiers": "1,3",
-   "gloss": "**De Or. 3.127**: **Hippias of Elis at Olympia** boasting mastery of all liberal arts including \"geometriam, musicam, litterarum cognitionem et poetarum atque illa, quae de naturis rerum, quae de hominum moribus\". The liberal-arts canon listing.",
+   "gloss": "**De Or. 3.127**: Hippias of Elis at Olympia boasting mastery of all liberal arts ",
    "latin": "ex quibus Elius Hippias, cum Olympiam venisset maxima illa quinquennali celebritate ludorum, gloriatus est cuncta paene audiente Graecia nihil esse ulla in arte rerum omnium quod ipse nesciret; nec solum has artis, quibus liberales doctrinae atque ingenuae continerentur, geometriam, musicam, litterarum cognitionem et poetarum atque illa, quae de naturis rerum, quae de hominum moribus, quae de rebus publicis dicerentur, se tenere sed anulum, quem haberet, pallium, quo amictus, soccos, quibus indutus esset, se sua manu confecisse.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -7318,7 +7318,7 @@
     "music*"
    ],
    "tiers": "1,3",
-   "gloss": "THE key passage on mathematicians as exemplars of their disciplines: 'Num geometriam Euclide aut Archimede, num musicam Damone aut Aristoxeno'. Names Euclid and Archimedes as paragons of geometry.",
+   "gloss": "mathematicians as exemplars of their disciplines",
    "latin": "Tum Crassus 'non in hac' inquit 'una, Catule, re, sed in aliis etiam compluribus distributione partium ac separatione magnitudines sunt artium deminutae. An tu existimas, cum esset Hippocrates ille Cous, fuisse tum alios medicos, qui morbis, alios, qui vulneribus, alios, qui oculis mederentur? Num geometriam Euclide aut Archimede, num musicam Damone aut Aristoxeno, num ipsas litteras Aristophane aut Callimacho tractante tam discerptas fuisse, ut nemo genus universum complecteretur atque ut alius aliam sibi partem in qua elaboraret seponeret?",
    "english": "Crassus argues that division of labour shrank the great arts. Hippocrates and Euclid did not separate medicine from philosophy or geometry from philosophy as later specialists did; Damon and Aristoxenus likewise combined music, philosophy, and the polymath's learning. Archimedes is named alongside Euclid as a geometer of the highest rank.",
    "highlight": true,
@@ -7897,7 +7897,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[1.16-22] \n\n[1.21] Tum Philus: Nihil novi vobis adferam, neque quod a me sit cogitatum aut inventum; nam memoria teneo C. Sulpicium Gallum, doctissimum, ut scitis, hominem, cum idem hoc visum diceretur et esset casu apud M. Marcellum, qui cum eo consul fuerat, sphaeram, quam M. Marcelli avus captis Syracusis ex urbe locupletissima atque ornatissima sustulisset, cum aliud nihil ex tanta praeda domum suam deportavisset, iussisse proferri; cuius ego sphaerae cum persaepe propter Archimedi gloriam nomen audissem, speciem ipsam non sum tanto opere admiratus; erat enim illa venustior et nobilior in volgus, quam ab eodem Archimede factam posuerat in templo Virtutis Marcellus idem.\n\n[1.22] Sed posteaquam coepit rationem huius operis scientissime Gallus exponere, plus in illo Siculo ingenii, quam videretur natura humana ferre potuisse, iudicavi fuisse. Dicebat enim Gallus sphaerae illius alterius solidae atque plenae vetus esse inventum, et eam a Thalete Milesio primum esse tornatam, post autem ab Eudoxo Cnidio, discipulo, ut ferebat, Platonis, eandem illam astris stellisque, quae caelo inhaererent, esse descriptam; cuius omnem ornatum et descriptionem sumptam ab Eudoxo multis annis post non astrologiae scientia, sed poetica quadam facultate versibus Aratum extulisse. Hoc autem sphaerae genus, in quo solis et lunae motus inessent et earum quinque stellarum, quae errantes et quasi vagae nominarentur, in illa sphaera solida non potuisse finiri, atque in eo admirandum esse inventum Archimedi, quod excogitasset, quem ad modum in dissimillimis motibus inaequabiles et varios cursus servaret una conversio. Hanc sphaeram Gallus cum moveret, fiebat, ut soli luna totidem conversionibus in aere illo, quot diebus in ipso caelo, succederet, ex quo et in caelo sphaera solis fieret eadem illa defectio et incideret luna tum in eam metam, quae esset umbra terrae, cum sol e regione",
    "merged_from": [
@@ -8002,7 +8002,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Pericles ille",
     "cum obscurato sole tenebrae factae essent repente",
@@ -8056,7 +8056,7 @@
     "geometr*"
    ],
    "tiers": "1",
-   "gloss": "**Rep. 1.29**: **the Plato/Aristippus castaway anecdote** — washed ashore on an unknown coast, the philosopher rejoiced at seeing **\"in arena geometricas formas quasdam esse descriptas\"** (geometric figures drawn in the sand), recognising these as the marks of civilised men. The geometric-figure-as-cultural-marker topos. Substantive.",
+   "gloss": "**Rep. 1.29**",
    "latin": "ut mihi Platonis illud, seu quis dixit alius, perelegans esse videatur; quem cum ex alto ignotas ad terras tempestas et in desertum litus detulisset, timentibus ceteris propter ignorationem locorum animadvertisse dicunt in arena geometricas formas quasdam esse descriptas; quas ut vidisset, exclamavisse, ut bono essent animo; videre enim se hominum vestigia; quae videlicet ille non ex agri consitura, quam cernebat, sed ex doctrinae indiciis interpretabatur. Quam ob rem, Tubero, semper mihi et doctrina et eruditi homines et tua ista studia placuerunt.",
    "author": "Cicero",
    "author_id": "phi0474",
