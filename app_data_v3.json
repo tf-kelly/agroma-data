@@ -4698,7 +4698,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "cylindri vel quadrati vel coni vel pyramidis"
    ],
@@ -4789,7 +4789,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Crotoniates autem Alcmaeo",
     "soli et lunae reliquisque sideribus animoque",
@@ -5146,7 +5146,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Democriti sive etiam ante Leucippi",
     "corpuscula quaedam levia alia aspera",
@@ -5611,7 +5611,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "conum tibi ais et cylindrum et pyramidem pulchriorem quam sphaeram videri"
    ],
@@ -5688,7 +5688,7 @@
    "latin": "Maxume vero sunt admirabiles motus earum quinque stellarum quae falso vocantur errantes; nihil enim errat quod in omni aeternitate conservat progressus et regressus reliquosque motus constantis et ratos. quod eo est admirabilius in is stellis quas dicimus, quia tum occultantur tum rursus aperiuntur, tum adeunt tum recedunt, tum antecedunt tum autem subsecuntur, tum celerius moventur tum tardius, tum omnino ne moventur quidem sed ad quoddam tempus insistunt. quarum ex disparibus motionibus magnum annum mathematici nominaverunt, qui tum efficitur cum solis et lunae et quinque errantium ad eandem inter se comparationem confectis omnium spatiis est facta conversio;",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "quinque stellarum quae falso vocantur errantes",
     "magnum annum mathematici nominaverunt",
@@ -5885,7 +5885,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "sphaeram aliquis tulerit hanc quam nuper familiaris noster effecit Posidonius",
     "singulae conversiones idem efficiunt in sole et in luna et in quinque stellis errantibus"
@@ -6171,7 +6171,7 @@
    "latin": "Quocirca si mundus globosus est ob eamque causam omnes eius partes undique aequabiles ipsae per se atque inter se continentur, contingere idem terrae necesse est, ut omnibus eius partibus in medium vergentibus (id autem medium infimum in sphaera est) nihil interrumpat quo labefactari possit tanta contentio gravitatis et ponderum. Eademque ratione mare, cum supra terram sit, medium tamen terrae locum expetens conglobatur undique aequabiliter, neque redundat umquam neque effunditur.",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "mundus globosus est",
     "omnes eius partes undique aequabiles",
@@ -6366,7 +6366,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "unde orationem unde numeros unde cantus",
     "ad harmoniam canere mundum ut Pythagoras existimat"
