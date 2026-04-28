@@ -21425,7 +21425,7 @@
    "latin": "[1.329-359] \n\n[1.359] pondere res rebus nihilo maiore figura?",
    "english": "Without void, no motion: bodies could not move past each other if all space were full. Without void, no rarefaction or division: porous bodies must contain interstices. Without void, sound and light could not penetrate solids. The argument is fundamentally geometric — three-dimensional space requires both occupied and unoccupied regions for change to be possible. 'Locus ac spatium quod inane vocamus' — place and space which we call void.",
    "highlight": true,
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[1.329-359] \n\n[1.359] pondere res rebus nihilo maiore figura?",
    "merged_from": [
@@ -21522,7 +21522,7 @@
    "latin": "[1.483-583] \n\n[1.550] ex infinito iam tempore res reparare.\n\n[1.558] infinita aetas ante acti temporis omnis\n\n[1.583] innumerabilibus plagis vexata per aevom.",
    "english": "Were matter infinitely divisible, things would dissolve over time and nothing would remain to regenerate them. Therefore atoms must be 'firma soliditate' — solid through and through, with no internal void, indivisible. The argument anticipates Aristotle's reductio in the *Physics*: an infinite regress of division is incompatible with the persistence of the world.",
    "highlight": true,
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[1.483-583] \n\n[1.550] ex infinito iam tempore res reparare.\n\n[1.558] infinita aetas ante acti temporis omnis\n\n[1.583] innumerabilibus plagis vexata per aevom.",
    "merged_from": [
@@ -21626,7 +21626,7 @@
    "latin": "Tum porro quoniam est extremum quodque cacumen corporis illius, quod nostri cernere sensus iam nequeunt, id ni mirum sine partibus extat et minima constat natura nec fuit umquam per se secretum neque post hac esse valebit, alterius quoniamst ipsum pars primaque et una, inde aliae atque aliae similes ex ordine partes agmine condenso naturam corporis explent; quae quoniam per se nequeunt constare, necessest haerere unde queant nulla ratione revelli. sunt igitur solida primordia simplicitate, quae minimis stipata cohaerent partibus arte. non ex illorum conventu conciliata, sed magis aeterna pollentia simplicitate, unde neque avelli quicquam neque deminui iam concedit natura reservans semina rebus. Praeterea nisi erit minimum, parvissima quaeque corpora constabunt ex partibus infinitis, quippe ubi dimidiae partis pars semper habebit dimidiam partem nec res praefiniet ulla. ergo rerum inter summam minimamque quod escit, nil erit ut distet; nam quamvis funditus omnis summa sit infinita, tamen, parvissima quae sunt, ex infinitis constabunt partibus aeque. quod quoniam ratio reclamat vera negatque credere posse animum, victus fateare necessest esse ea quae nullis iam praedita partibus extent et minima constent natura. quae quoniam sunt, illa quoque esse tibi solida atque aeterna fatendum. Denique si minimas in partis cuncta resolvi cogere consuesset rerum natura creatrix, iam nihil ex illis eadem reparare valeret propterea quia, quae nullis sunt partibus aucta, non possunt ea quae debet genitalis habere materies, varios conexus pondera plagas concursus motus, per quas res quaeque geruntur.",
    "english": "The most rigorously mathematical passage in Lucretius. If matter were infinitely divisible, the smallest body would contain infinite parts equal in number to the parts of the universe — 'parvissima quae sunt, ex infinitis constabunt partibus aeque'. Since reason rejects this, there must be 'minima... natura' — minimal parts which constitute the irreducible bottom of physical division. This is the Epicurean answer to Zeno's paradoxes of plurality.",
    "highlight": true,
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "extremum quodque cacumen",
     "corporis illius, quod nostri cernere sensus iam nequeunt",
@@ -21658,7 +21658,7 @@
    ],
    "gloss": "**Merged record** (3 components: 1.616-622, 1.621, 1.622).\n\n• [1.616-622] **Merged record** (3 components: 1.616, 1.621, 1.622).\n• [1.621] DRN 1.621: even smallest things would have infinite parts if divisible. CLUSTER.\n• [1.622] DRN 1.622: continuation. CLUSTER.",
    "latin": "[1.616-622] \n\n[1.621] summa sit infinita, tamen, parvissima quae sunt,\n\n[1.622] ex infinitis constabunt partibus aeque.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[1.616-622] \n\n[1.621] summa sit infinita, tamen, parvissima quae sunt,\n\n[1.622] ex infinitis constabunt partibus aeque.",
    "merged_from": [
@@ -21916,7 +21916,7 @@
    "latin": "[1.951-1051] Sed quoniam docui solidissima materiai corpora perpetuo volitare invicta per aevom, nunc age, summai quaedam sit finis eorum necne sit, evolvamus; item quod inane repertumst seu locus ac spatium, res in quo quaeque gerantur, pervideamus utrum finitum funditus omne constet an immensum pateat vasteque profundum. Omne quod est igitur nulla regione viarum finitumst; namque extremum debebat habere. extremum porro nullius posse videtur esse, nisi ultra sit quod finiat, ut videatur quo non longius haec sensus natura sequatur. nunc extra summam quoniam nihil esse fatendum, non habet extremum, caret ergo fine modoque. nec refert quibus adsistas regionibus eius; usque adeo, quem quisque locum possedit, in omnis tantundem partis infinitum omne relinquit. Praeterea si iam finitum constituatur omne quod est spatium, si quis procurrat ad oras ultimus extremas iaciatque volatile telum, id validis utrum contortum viribus ire quo fuerit missum mavis longeque volare, an prohibere aliquid censes obstareque posse? alterutrum fatearis enim sumasque necessest. quorum utrumque tibi effugium praecludit et omne cogit ut exempta concedas fine patere. nam sive est aliquid quod probeat efficiatque quo minus quo missum est veniat finique locet se, sive foras fertur, non est a fine profectum. hoc pacto sequar atque, oras ubi cumque locaris extremas, quaeram: quid telo denique fiet? fiet uti nusquam possit consistere finis effugiumque fugae prolatet copia semper. Praeterea spatium summai totius omne undique si inclusum certis consisteret oris finitumque foret, iam copia materiai undique ponderibus solidis confluxet ad imum nec res ulla geri sub caeli tegmine posset nec foret omnino caelum neque lumina solis, quippe ubi materies omnis cumulata iaceret ex infinito iam tempore subsidendo. at nunc ni mirum requies data principiorum corporibus nullast, quia nil est funditus imum, quo quasi confluere et sedes ubi ponere possint. semper in adsiduo motu res quaeque geruntur partibus in cunctis, infernaque suppeditantur ex infinito cita corpora materiai. Postremo ante oculos res rem finire videtur; aer dissaepit collis atque aera montes, terra mare et contra mare terras terminat omnis; omne quidem vero nihil est quod finiat extra. est igitur natura loci spatiumque profundi, quod neque clara suo percurrere fulmina cursu perpetuo possint aevi labentia tractu nec prorsum facere ut restet minus ire meando; usque adeo passim patet ingens copia rebus finibus exemptis in cunctas undique partis. Ipsa modum porro sibi rerum summa parare ne possit, natura tenet, quae corpus inane et quod inane autem est finiri corpore cogit, ut sic alternis infinita omnia reddat, aut etiam alterutrum, nisi terminet alterum eorum, simplice natura pateat tamen inmoderatum, nec mare nec tellus neque caeli lucida templa nec mortale genus nec divum corpora sancta exiguum possent horai sistere tempus; nam dispulsa suo de coetu materiai copia ferretur magnum per inane soluta, sive adeo potius numquam concreta creasset ullam rem, quoniam cogi disiecta nequisset. nam certe neque consilio primordia rerum ordine se suo quaeque sagaci mente locarunt nec quos quaeque darent motus pepigere profecto sed quia multa modis multis mutata per omne ex infinito vexantur percita plagis, omne genus motus et coetus experiundo tandem deveniunt in talis disposituras, qualibus haec rerum consistit summa creata, et multos etiam magnos servata per annos ut semel in motus coniectast convenientis, efficit ut largis avidum mare fluminis undis integrent amnes et solis terra vapore fota novet fetus summissaque gens animantum floreat et vivant labentis aetheris ignes. quod nullo facerent pacto, nisi materiai ex infinito suboriri copia posset, unde amissa solent reparare in tempore quaeque. nam vel uti privata cibo natura animantum diffluit amittens corpus, sic omnia debent dissolui simul ac defecit suppeditare materies aliqua ratione aversa viai. nec plagae possunt extrinsecus undique summam conservare omnem, quae cumque est conciliata. cudere enim crebro possunt partemque morari, dum veniant aliae ac suppleri summa queatur; inter dum resilire tamen coguntur et una principiis rerum spatium tempusque fugai largiri, ut possint a coetu libera ferri. quare etiam atque etiam suboriri multa necessest, et tamen ut plagae quoque possint suppetere ipsae, infinita opus est vis undique materiai.\n\n[1.967] tantundem partis infinitum omne relinquit.\n\n[1.991] ex infinito iam tempore subsidendo.\n\n[1.997] ex infinito cita corpora materiai.\n\n[1.1011] ut sic alternis infinita omnia reddat,\n\n[1.1025] ex infinito vexantur percita plagis,\n\n[1.1036] ex infinito suboriri copia posset,\n\n[1.1051] infinita opus est vis undique materiai.",
    "english": "The classic infinite-universe argument: were there an edge of the cosmos and someone hurled a spear at it, either it pierces through (and there's more space beyond) or it strikes something solid (and that something occupies space). Either way, more space exists. The argument is purely geometric, deriving infinity from the impossibility of a coherent boundary.",
    "highlight": true,
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "summai quaedam sit finis eorum necne sit",
     "utrum finitum funditus omne constet an immensum pateat"
@@ -22134,7 +22134,7 @@
    "latin": "[1.1052-1071] \n\n[1.1071] infinita; neque omnino, si iam medium sit ,",
    "english": "If atoms were finite in number in infinite space, they would be too dispersed to combine; the universe could not have arisen. Therefore atoms are also infinite. Lucretius then attacks the doctrine of a cosmic centre to which heavy things tend (a doctrine he attributes to opponents — possibly Aristotelian-Stoic). In an infinite cosmos there can be no privileged centre.",
    "highlight": true,
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[1.1052-1071] \n\n[1.1071] infinita; neque omnino, si iam medium sit ,",
    "merged_from": [
@@ -22188,7 +22188,7 @@
    "tiers": "2",
    "gloss": "**DRN 1.1109**: \"temporis ut puncto\" — the geometric instant in atomic kinematics.",
    "latin": "temporis ut puncto nihil extet reliquiarum",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "temporis ut puncto"
    ],
@@ -22291,7 +22291,7 @@
    "latin": "Nunc quae mobilitas sit reddita materiai corporibus, paucis licet hinc cognoscere, Memmi. primum aurora novo cum spargit lumine terras et variae volucres nemora avia pervolitantes aera per tenerum liquidis loca vocibus opplent, quam subito soleat sol ortus tempore tali convestire sua perfundens omnia luce, omnibus in promptu manifestumque esse videmus. at vapor is, quem sol mittit, lumenque serenum non per inane meat vacuum; quo tardius ire cogitur, aerias quasi dum diverberat undas; nec singillatim corpuscula quaeque vaporis sed complexa meant inter se conque globata; qua propter simul inter se retrahuntur et extra officiuntur, uti cogantur tardius ire. at quae sunt solida primordia simplicitate, cum per inane meant vacuum nec res remoratur ulla foris atque ipsa suis e partibus unum, unum, in quem coepere, locum conixa feruntur, debent ni mirum praecellere mobilitate et multo citius ferri quam lumina solis multiplexque loci spatium transcurrere eodem tempore quo solis pervolgant fulgura caelum. * * * nec persectari primordia singula quaeque, ut videant qua quicque geratur cum ratione.",
    "english": "Atoms move with extraordinary velocity through the void — faster than the sun's rays at dawn, since light is impeded by air whereas atoms in pure void encounter no resistance. The argument is implicitly mathematical: speed is inversely proportional to resistance, and in void there is no resistance, so atomic speed is maximal.",
    "highlight": true,
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "mobilitas sit reddita materiai corporibus",
     "quam subito soleat sol ortus tempore tali",
@@ -22365,7 +22365,7 @@
    "latin": "[2.216-263] \n\n[2.255] ex infinito ne causam causa sequatur,\n\n[2.263] nonne vides etiam patefactis tempore puncto",
    "english": "The most famous and philosophically consequential passage in the poem. Atoms falling through the void deviate, at uncertain times and places, by the smallest possible amount — 'tantum quod momen mutatum dicere possis'. Without this swerve, no collisions would occur, no compound bodies, and crucially no 'libera voluntas' — free will. The clinamen is Epicurus's solution to mechanistic fatalism, and Lucretius states it more clearly than any extant Epicurean source.",
    "highlight": true,
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[2.216-263] \n\n[2.255] ex infinito ne causam causa sequatur,\n\n[2.263] nonne vides etiam patefactis tempore puncto",
    "merged_from": [
@@ -23564,7 +23564,7 @@
    ],
    "gloss": "**Merged record** (2 components: 2.1045-1053, 2.1053).\n\n• [2.1045-1053] **Merged record** (2 components: 2.1045, 2.1053).\n• [2.1053] DRN 2.1053: infinite empty space. CLUSTER.",
    "latin": "[2.1045-1053] \n\n[2.1053] undique cum vorsum spatium vacet infinitum",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[2.1045-1053] \n\n[2.1053] undique cum vorsum spatium vacet infinitum",
    "merged_from": [
@@ -24177,7 +24177,7 @@
    ],
    "gloss": "**Merged CLUSTER** (2 components, no primary anchor: 4.298, 4.317).\n\n• [4.298] **DRN 4.298**: mirror-vision — \"rectam si fronte figuram\". CLUSTER.\n• [4.317] **DRN 4.317**: \"flexa figura docet speculi convertier ad nos\" — the curved mirror inverts the image. Substantive atomic-mirror optics. CLUSTER.",
    "latin": "[4.298] atque ea continuo rectam si fronte figuram\n\n[4.317] flexa figura docet speculi convertier ad nos.",
-   "strictness": "strict",
+   "strictness": "loose",
    "text": "[4.298] atque ea continuo rectam si fronte figuram\n\n[4.317] flexa figura docet speculi convertier ad nos.",
    "highlights": [],
    "merged_from": [
@@ -25644,7 +25644,7 @@
     "cuomo-add"
    ],
    "tiers": "1",
-   "gloss": "**Martial 10.62**: **the *calculator* and his pupils** — \"Ludi magister, parce simplici turbae... Nec **calculator** nec notarius velox / Maiore quisquam *circulo* coronetur.\" Martial begs the schoolmaster to spare his young pupils during the summer heat: not even the *calculator* (arithmetic teacher) or the *notarius velox* (shorthand teacher) is surrounded by a larger crowd of students. The most explicit Latin literary attestation of arithmetic as a school discipline with a paid professional teacher. Cuomo's key text for the social context of Roman elementary calculation.",
+   "gloss": "**Martial 10.62**: the *calculator* and his pupils",
    "latin": "Ludi magister, parce simplici turbae: Sic te frequentes audiant capillati Et delicatae diligat chorus mensae, Nec calculator nec notarius velox Maiore quisquam circulo coronetur. Albae leone flammeo calent luces Tostamque fervens Iulius coquit messem. Cirrata loris horridis Scythae pellis, Qua vapulavit Marsyas Celaenaeus, Ferulaeque tristes, sceptra paedagogorum, Cessent et Idus dormiant in Octobres: Aestate pueri si valent, satis discunt.",
    "strictness": "strict",
    "highlights": [
@@ -25652,7 +25652,7 @@
     "Nec calculator nec notarius velox",
     "Maiore quisquam circulo coronetur"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi1294:phi002:11.4",
@@ -26673,7 +26673,7 @@
    "tiers": "2",
    "gloss": "**Sat. 60**: **the descending circulus from the ceiling** — \"subito **circulus ingens**, de cupa videlicet grandi excussus, demittitur, cuius **per totum orbem coronae aureae** cum alabastris unguenti pendebant\". A large ring-mechanism with golden crowns hung around its full circumference. Mechanical-architectural mathematics in a satirical setting.",
    "latin": "Nec diu mirari licuit tam elegantes strophas; nam repente lacunaria sonare coeperunt totumque triclinium intremuit. Consternatus ego exsurrexi et timui, ne per tectum petauristarius aliquis descenderet. Nec minus reliqui convivae mirantes erexere vultus, expectantes quid novi de caelo nuntiaretur. Ecce autem diductis lacunaribus subito circulus ingens, de cupa videlicet grandi excussus, demittitur, cuius per totum orbem coronae aureae cum alabastris unguenti pendebant. Dum haec apophoreta iubemur sumere, respiciens ad mensam iam illic repositorium cum placentis aliquot erat positum, quod medium Priapus a pistore factus tenebat, gremioque satis amplo omnis generis poma et uvas sustinebat more vulgato. Avidius ad pompam manus porreximus, et repente nova ludorum remissio hilaritatem hic refecit. Omnes enim placentae omniaque poma etiam minima vexatione contacta coeperunt effundere crocum, et usque ad os os Buecheler: nos. molestus umor ac cidere. Rati ergo sacrum esse fericulum tam religioso apparatu perfusum, consurreximus altius et “Augusto, patri patriae, feliciter” diximus. Quibusdam tamen etiam post hanc venerationem poma rapientibus et ipsi ipsi Heinsius: ipsas. mappas implevimus, ego praecipue, qui nullo satis amplo munere putabam me onerare Gitonis sinum. Inter haec tres pueri candidas succincti tunicas intraverunt, quorum duo Lares bullatos super mensam posuerunt, unus pateram vini circumferens “dii propitii” clamabat. Aiebat autem unum Cerdonem, alterum Felicionem, tertium Lucrionem Lucrionem Reinesius: lucronem. vocari. Nos etiam veram imaginem ipsius Trimalchionis, cum iam omnes basiarent, erubuimus praeterire.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "subito circulus ingens, de cupa videlicet grandi excussus, demittitur",
     "cuius per totum orbem coronae aureae cum alabastris unguenti pendebant"
@@ -26749,7 +26749,7 @@
    "tiers": "1",
    "gloss": "**Petronius Sat. 88** — **Eumolpus's lament for the decline of intellectual seriousness**: \"Democritus\" researching herbs to identify their virtues, \"Eudoxus\" growing old on a mountaintop tracking celestial motions. The most substantive single Latin literary tribute to mathematical-scientific dedication.",
    "latin": "Erectus his sermonibus consulere prudentiorem coepi aetates tabularum et quaedam argumenta mihi obscura simulque causam desidiae praesentis excutere, cum pulcherrimae artes perissent, inter quas pictura ne minimum quidem sui vestigium reliquisset. Tum ille “pecuniae” inquit \"cupiditas haec tropica instituit. Priscis enim temporibus, cum adhuc nuda virtus LO placeret, vigebant artes ingenuae summumque certamen inter homines erat, ne quid profuturum saeculis diu lateret. Itaque herbarum omnium sucos Democritus expressit, et ne lapidum virgultorumque, vis lateret, aetatem inter experimenta consumpsit. Eudoxos quidem in cacumine excelsissimi monis con senuit, ut astrorum caelique motus deprehenderet, et Chrysippus, ut ad inventionem sufficeret, ter elleboro animum detersit. Verum ut ad plastas convertar, Lysippum statuae unius lineamentis inhaerentem inopia extinxit, et Myron, qui paene animas hominum ferarumque aere comprehenderat, non invenit heredem. At nos vino scortisque demersi ne paratas quidem artes audemus cognoscere, sed accusatores antiquitatis vitia tantum docemus et discimus. Ubi est dialectica? Ubi astronomia? Ubi sapientiae cultissima cultissima cod. Paris. 6842 D: consultissima other MSS. via? Quis unquam venit in templum et votum fecit, si ad eloquentiam pervenisset? Quis, si philosophiae fontem attigisset? Ac ne bonam quidem mentem aut bonam valitudinem petunt, sed statim antequam limen Capitolii tangant, alius donum promittit, si propinquum divitem extulerit, alius, si thesaurum effoderit, alius, si ad trecenties sestertium salvus pervenerit. Ipse senatus, recti bonique praeceptor, mille pondo auri Capitolio promittere solet, et ne quis dubitet pecuniam concupiscere, Iovem quoque peculio exornat. Noli ergo mirari, si pictura defecit, cum omnibus diis hominibusque formosior videatur massa auri, quam quicquid Apelles Phidiasque, Graeculi delirantes, fecerunt.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Chrysippus, ut ad inventionem sufficeret, ter elleboro animum detersit",
     "pulcherrimae artes perissent",
@@ -48624,7 +48624,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Vergil Eclogues 3.40-42** — the engraved cup with two figures: Conon, and a forgotten second mathematician (commentators variously: Eudoxus, Aratus, or Archimedes) \"**descripsit radio totum qui gentibus orbem, / tempora quae messor, quae curvus arator haberet**\" — who described the whole world for the nations with the *radius*, marking the seasons of reaper and ploughman. Iconic Roman literary engagement with the Greek mathematician as cultural figure: the *radius* (the surveyor's/geometer's rod or compass-arm) producing astronomical-agricultural time-keeping. The \"quis fuit alter\" — Menalcas can't remember the name — is itself a comment on Roman familiarity with Greek mathematicians.",
+   "gloss": "**Vergil Eclogues 3.40-42** — the engraved cup with two figures: Conon, and a forgotten second mathematician (commentators variously: Eudoxus, Aratus, or Archimedes) ",
    "latin": "in medio duo signa, Conon, et—quis fuit alter,\ndescripsit radio totum qui gentibus orbem,\ntempora quae messor, quae curvus arator haberet?",
    "text": "in medio duo signa, Conon, et—quis fuit alter,\ndescripsit radio totum qui gentibus orbem,\ntempora quae messor, quae curvus arator haberet?",
    "highlights": [
@@ -48759,14 +48759,14 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Juvenal Saturae 10.246-251** — the figure of Nestor in Juvenal's diatribe against long life: \"**felix nimirum, qui tot per saecula mortem / distulit atque suos iam dextra conputat annos**\" (10.248-249) — Nestor counts his years on the **right hand**. Direct attestation of the Roman finger-counting system in which the right hand carries the high places (hundreds and thousands). Companion to Plautus Mil. Glor. 2.2.204-205.",
+   "gloss": "**Juvenal Saturae 10.246-251**:\" Nestor counts his years on the **right hand** (i.e. a high number in Roman finger counting)",
    "latin": "[10.245] perpetuo maerore et nigra veste senescant.\n[10.246] rex Pylius, magno si quicquam credis Homero,\n[10.247] exemplum vitae fuit a cornice secundae,\n[10.248] felix nimirum, qui tot per saecula mortem\n[10.249] distulit atque suos iam dextra conputat annos,\n[10.250] quique novum totiens mustum bibit. oro, parumper\n[10.251] attendas quantum de legibus ipse queratur",
    "text": "[10.245] perpetuo maerore et nigra veste senescant.\n[10.246] rex Pylius, magno si quicquam credis Homero,\n[10.247] exemplum vitae fuit a cornice secundae,\n[10.248] felix nimirum, qui tot per saecula mortem\n[10.249] distulit atque suos iam dextra conputat annos,\n[10.250] quique novum totiens mustum bibit. oro, parumper\n[10.251] attendas quantum de legibus ipse queratur",
    "highlights": [
     "felix nimirum, qui tot per saecula mortem",
     "distulit atque suos iam dextra conputat annos"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0959:phi006:3.121-123",
@@ -48777,7 +48777,7 @@
    "work_id": "phi006",
    "citation": "3.121-123",
    "verdict": "KEEP",
-   "strictness": "strict",
+   "strictness": "loose",
    "substantive": true,
    "topics": [
     "practical-arithmetic",
@@ -48818,7 +48818,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Persius Saturae 1.128-133** — Persius dismissing the kind of person who finds the truth uncomfortable: \"**nec qui abaco numeros et secto in pulvere metas / scit risisse vafer**\" (1.131-132) — nor the man clever enough to laugh at numbers on the *abacus* and at boundary-lines drawn in the cut-up dust. Direct evidence for the abacus and the *pulvis*-board (sand-table for geometric figures and arithmetic) as familiar Roman objects.",
+   "gloss": "**Persius Saturae 1.128-133** — Persius dismissing the kind of person who finds the truth uncomfortable: \"**nec qui abaco numeros et secto in pulvere metas / scit risisse vafer**\" (1.131-132); nor the man clever enough to laugh at numbers on the *abacus* and at boundary-lines drawn in the cut-up dust.",
    "latin": "[1.128] sordidus et lusco qui possit dicere lusce\n[1.129] sese aliquem credens, Italo quod honore supinus\n[1.130] fregerit heminas Arrcti aedilis iniquas,\n[1.131] nec qui abaco numeros et secto in pulvere metas\n[1.132] scit risisse vafer, multum gaudere paratus,\n[1.133] si cynico barbam petulans nonaria vellat.",
    "text": "[1.128] sordidus et lusco qui possit dicere lusce\n[1.129] sese aliquem credens, Italo quod honore supinus\n[1.130] fregerit heminas Arrcti aedilis iniquas,\n[1.131] nec qui abaco numeros et secto in pulvere metas\n[1.132] scit risisse vafer, multum gaudere paratus,\n[1.133] si cynico barbam petulans nonaria vellat.",
    "highlights": [
@@ -48849,7 +48849,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Ovid Ars Amatoria 3.121-125** — \"**seu quia tot digiti, per quos numerare solemus**\" (3.123): \"or perhaps because there are as many fingers as we are accustomed to count by\" — explicit reference to the ten-finger basis of Roman arithmetic, embedded in didactic-erotic verse.",
+   "gloss": "**Ovid Ars Amatoria 3.121-125 finger counting",
    "latin": "[3.121] annus erat, decimum cum luna receperat orbem:\n[3.122] hic numerus magno tunc in honore fuit;\n[3.123] seu quia tot digiti, per quos numerare solemus,\n[3.124] seu quia bis quinto femina mense parit,\n[3.125] seu quod adusque decem numero crescente venitur,",
    "text": "[3.121] annus erat, decimum cum luna receperat orbem:\n[3.122] hic numerus magno tunc in honore fuit;\n[3.123] seu quia tot digiti, per quos numerare solemus,\n[3.124] seu quia bis quinto femina mense parit,\n[3.125] seu quod adusque decem numero crescente venitur,",
    "highlights": [
@@ -48902,7 +48902,7 @@
    "work_id": "phi001",
    "citation": "44",
    "verdict": "KEEP*",
-   "strictness": "strict",
+   "strictness": "loose",
    "substantive": true,
    "topics": [
     "practical-arithmetic"
@@ -48916,7 +48916,7 @@
    "tiers": [
     "T2"
    ],
-   "gloss": "**Petronius Sat. 44** — Ganymedes complaining: \"**omnes opertis oculis bona sua computant**\" — everyone counts their property with their eyes shut. Practical-arithmetic vocabulary in freedman-satire register.",
+   "gloss": "**Petronius Sat. 44** — Ganymedes complaining: \"**omnes opertis oculis bona sua computant**\" — everyone counts their property with their eyes shut. ",
    "latin": "coloniae miserentur? Ita meos fruniscar, ut ego puto omnia illa a diibus a diibus Buecheler: aedilibus. fieri. Nemo enim caelum caelum putat, HL nemo ieiunium servat, nemo Iovem pili facit, sed omnes opertis oculis bona sua computant. Antea H stolatae ibant nudis pedibus in clivum, passis capillis, mentibus puris, et Iovem aquam exorabant. Itaque statim urceatim plovebat: aut tune aut nunquam: et omnes redibant udi redibant Jacobs: ridebant udi Triller: ut dii. tanquam mures. Itaque dii pedes la",
    "text": "coloniae miserentur? Ita meos fruniscar, ut ego puto omnia illa a diibus a diibus Buecheler: aedilibus. fieri. Nemo enim caelum caelum putat, HL nemo ieiunium servat, nemo Iovem pili facit, sed omnes opertis oculis bona sua computant. Antea H stolatae ibant nudis pedibus in clivum, passis capillis, mentibus puris, et Iovem aquam exorabant. Itaque statim urceatim plovebat: aut tune aut nunquam: et omnes redibant udi redibant Jacobs: ridebant udi Triller: ut dii. tanquam mures. Itaque dii pedes la",
    "highlights": [
@@ -48933,7 +48933,7 @@
    "work_id": "phi001",
    "citation": "45",
    "verdict": "KEEP*",
-   "strictness": "strict",
+   "strictness": "loose",
    "substantive": true,
    "topics": [
     "practical-arithmetic"
