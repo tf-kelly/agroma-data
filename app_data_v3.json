@@ -11403,7 +11403,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "eandem proportionem",
     "ducenta quinquaginta sex cum ducentis quadraginta tribus"
@@ -11463,7 +11463,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "rationis concentionisque, quae a(rmoni/a Graece"
    ],
@@ -11521,7 +11521,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "mensura quaedam evidens",
     "in octo cursibus celeritates tarditatesque declararet"
@@ -11555,7 +11555,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Ceterorum autem siderum ambitus",
     "numero commetiuntur",
@@ -11717,7 +11717,7 @@
    "tiers": [
     1
    ],
-   "gloss": "**Tusc. 1.5** — **THE locus classicus** for the Roman attitude to mathematics: \"in summo apud illos honore geometria fuit, itaque nihil mathematicis inlustrius; at nos metiendi ratiocinandique utilitate huius artis terminavimus modum\" (\"among them [the Greeks] geometry was held in the highest honour, and so nothing was more illustrious than mathematicians; but we [Romans] have circumscribed the extent of this art to the practical use of measuring and reckoning\"). The opening passage of Cuomo's *Ancient Mathematics* chapter 6 and the most-cited Latin text on the supposed Greek-vs-Roman divide. Methodological-cultural.",
+   "gloss": "**Tusc. 1.5** attitude to mathematics ('among them [the Greeks] geometry was held in the highest honour, and so nothing was more illustrious than mathematicians; but we [Romans] have circumscribed the extent of this art to the practical use of measuring and reckoning\"'. ",
    "latin": "in summo apud illos honore geometria fuit, itaque nihil mathematicis inlustrius; at nos metiendi ratiocinandique utilitate huius artis terminavimus modum.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -11778,7 +11778,7 @@
     "ratio"
    ],
    "tiers": "1,2,3",
-   "gloss": "Xenocrates: the soul is a 'numerum' (number); Pythagoras' view that number's power is greatest in nature ('cuius vis ut iam ante Pythagorae visum erat'). Mathematical metaphysics.",
+   "gloss": "Xenocrates: the soul is a number; Pythagoras' view that number's power is greatest in nature",
    "latin": "hic ab artificio suo non recessit et tamen dixit aliquid, quod ipsum quale esset erat multo ante et dictum et explanatum a Platone. Xenocrates animi figuram et quasi corpus negavit esse ullum, numerum dixit esse, cuius vis, ut iam ante Pythagorae visum erat, in natura maxuma esset. eius doctor Plato triplicem finxit animum, cuius principatum, id est rationem, in capite sicut in arce posuit, et duas partes parere voluit, iram et cupiditatem, quas locis disclusit: iram in pectore, cupiditatem supter praecordia locavit.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -11788,7 +11788,7 @@
     "numerum dixit esse",
     "iam ante Pythagorae visum erat"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "manually checked"
   },
   {
    "id": "phi0474:phi049:1.22",
@@ -11893,7 +11893,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "terram in medio mundo sitam",
     "ad universi caeli complexum quasi puncti instar optinere",
@@ -11931,7 +11931,7 @@
    "latin": "si vero aut numerus quidam sit animus, quod subtiliter magis quam dilucide dicitur, aut quinta illa non nominata magis quam non intellecta natura, multo etiam integriora ac puriora sunt, ut a terra longissime se ecferant. Horum igitur aliquid animus, ne tam vegeta mens aut in corde cerebrove aut in Empedocleo sanguine demersa iaceat. Dicaearchum vero cum Aristoxeno aequali et condiscipulo suo, doctos sane homines, omittamus; quorum alter ne condoluisse quidem umquam videtur, qui animum se habere non sentiat, alter ita delectatur suis cantibus, ut eos etiam ad haec transferre conetur. harmonian autem ex intervallis sonorum nosse possumus, quorum varia compositio etiam harmonias efficit pluris; membrorum vero situs et figura corporis vacans animo quam possit harmoniam efficere, non video. sed hic quidem, quamvis eruditus sit, sicut est, haec magistro concedat Aristoteli, canere ipse doceat; bene enim illo Graecorum proverbio praecipitur: quam quisque norit artem, in hac se exerceat.",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "numerus quidam sit animus",
     "quinta illa non nominata",
@@ -12012,7 +12012,7 @@
     "quadrat*"
    ],
    "tiers": "1,2",
-   "gloss": "Plato's slave-boy proof in the Meno: 'pusionem quendam Socrates interrogat quaedam geometrica de dimensione quadrati' — boy doubling the area of a square. Substantive mathematical-philosophical.",
+   "gloss": "Plato's proof with the enslaved boy in the Meno: doubling the area of a square.",
    "latin": "Habet primum memoriam, et eam infinitam rerum innumerabilium. quam quidem Plato recordationem esse volt vitae superioris. nam in illo libro, qui inscribitur Menon, pusionem quendam Socrates interrogat quaedam geometrica de dimensione quadrati. ad ea sic ille respondet ut puer, et tamen ita faciles interrogationes sunt, ut gradatim respondens eodem perveniat, quo si geometrica didicisset. ex quo effici volt Socrates, ut discere nihil aliud sit nisi recordari. quem locum multo etiam accuratius explicat in eo sermone, quem habuit eo ipso die, quo excessit e vita; docet enim quemvis, qui omnium rerum rudis esse videatur, bene interroganti respondentem declarare se non tum illa discere, sed reminiscendo recognoscere, nec vero fieri ullo modo posse, ut a pueris tot rerum atque tantarum insitas et quasi consignatas in animis notiones, quas e)nnoi/as vocant, haberemus, nisi animus, ante quam in corpus intravisset, in rerum cognitione viguisset.",
    "english": "Plato's Meno and the doubling of the square: 'is anything more apparent than the geometric question of the dimension of the square — that boy who, when questioned by Socrates, gave such answers as if he had been taught it before?' Cicero uses Plato's anamnesis argument as evidence for innate ideas.",
    "highlight": true,
@@ -12054,7 +12054,7 @@
     ",",
     "2"
    ],
-   "gloss": "**Merged record** (2 components: 1.62-63, 1.63).\n\n• [1.62-63] **Merged record** (2 components: 1.62, 1.63).\n• [1.63] Archimedes' sphere captures all the celestial motions in one machine: 'cum Archimedes lunae solis quinque errantium motus in sphaeram inligavit, effecit idem quod ille, qui in Timaeo mundum aedificavit, Platonis deus'. Substantive mathematical astronomy.",
+   "gloss": "[1.63] Archimedes' sphere captures all the celestial motions in one machine",
    "latin": "[1.62-63] \n\n[1.63] nam cum Archimedes lunae solis quinque errantium motus in sphaeram inligavit, effecit idem quod ille, qui in Timaeo mundum aedificavit, Platonis deus, ut tarditate et celeritate dissimillimos motus una regeret conversio. quod si in hoc mundo fieri sine deo non potest, ne in sphaera quidem eosdem motus Archimedes sine divino ingenio potuisset imitari.",
    "english": "On the soul's divine activities: 'who has held that those motions of stars, those varied courses, sometimes regular and sometimes wandering, were discernible save by some mind partaking of divinity?' Astronomy as the soul's self-recognition.",
    "highlight": true,
@@ -12591,7 +12591,7 @@
    "highlight": true,
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "numeri motusque tractabantur",
     "Pythagoras nominis solum inventor, sed rerum etiam ipsarum amplificator"
@@ -12617,7 +12617,7 @@
     "mathematic*"
    ],
    "tiers": "1",
-   "gloss": "**Tusc. 5.18**: **\"mathematicorum iste mos est, non est philosophorum. nam geometrae cum aliquid docere volunt, si quid ad eam rem pertinet eorum quae ante docuerunt, id sumunt pro concesso et probato\"** — explicit description of the geometers' method of taking previously-proven results as given. The clearest Latin description of cumulative deductive method.",
+   "gloss": "**Tusc. 5.18**: *the geometers' method of taking previously-proven results as given. ",
    "latin": "Verum tamen mathematicorum iste mos est, non est philosophorum. nam geometrae cum aliquid docere volunt, si quid ad eam rem pertinet eorum quae ante docuerunt, id sumunt pro concesso et probato, illud modo explicant, de quo ante nihil scriptum est; philosophi quamcumque rem habent in manibus, in eam quae conveniunt, congerunt omnia, etsi alio loco disputata sunt. quod ni ita esset, cur Stoicus, si esset quaesitum, satisne ad beate vivendum virtus posset, multa diceret? cui satis esset respondere se ante docuisse nihil bonum esse nisi quod honestum esset, hoc probato consequens esse beatam vitam virtute esse contentam, et quo modo hoc sit consequens illi, sic illud huic, ut, si beata vita virtute contenta sit, nisi honestum quod sit, nihil aliud sit bonum.",
    "author": "Cicero",
    "author_id": "phi0474",
@@ -12685,7 +12685,7 @@
    "latin": "Non ego iam cum huius vita, qua taetrius miserius detestabilius excogitare nihil possum, Platonis aut Archytae vitam comparabo, doctorum hominum et plane sapientium:",
    "author": "Cicero",
    "author_id": "phi0474",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Platonis aut Archytae vitam",
     "doctorum hominum et plane sapientium"
@@ -12728,7 +12728,7 @@
     "2",
     "3"
    ],
-   "gloss": "**Merged record** (3 components: 5.64-66, 5.65, 5.66).\n\n• [5.64-66] **Merged record** (3 components: 5.64, 5.65, 5.66).\n• [5.65] Continuation: Cicero finds the cylinder-and-sphere figure on a column at Agrigentum's gates.\n• [5.66] Continuation: 'sui civis unius acutissimi monumentum ignorasset' — Syracuse had forgotten its sharpest citizen's tomb; 'mathematicum' contrasted with the tyrant's life. Pythagoras, Anaxagoras, Democritus reference.",
+   "gloss": "• [5.65] Cicero finds the cylinder-and-sphere figure on a column at Agrigentum's gates.\n",
    "latin": "[5.64-66] \n\n[5.65] ego autem cum omnia conlustrarem oculis—est enim ad portas Agragantinas magna frequentia sepulcrorum—, animum adverti columellam non multum e dumis eminentem, in qua inerat sphaerae figura et cylindri. atque ego statim Syracusanis— erant autem principes mecum—dixi me illud ipsum arbitrari esse, quod quaererem. inmissi cum falcibus multi purgarunt et aperuerunt locum.\n\n[5.66] quo cum patefactus esset aditus, ad adversam basim accessimus. apparebat epigramma exesis posterioribus partibus versiculorum dimidiatum fere. ita nobilissima Graeciae civitas, quondam vero etiam doctissima, sui civis unius acutissimi monumentum ignorasset, nisi ab homine Arpinate didicisset. sed redeat, unde aberravit oratio: quis est omnium, qui modo cum Musis, id est cum humanitate et cum doctrina, habeat aliquod commercium, qui se non hunc mathematicum malit quam illum tyrannum? si vitae modum actionemque quaerimus, alterius mens rationibus agitandis exquirendisque alebatur cum oblectatione sollertiae, qui est unus suavissimus pastus animorum, alterius in caede et iniuriis cum et diurno et nocturno metu. age confer Democritum Pythagoram, Anaxagoram: quae regna, quas opes studiis eorum et delectationibus antepones?",
    "english": "Cicero, as quaestor in Sicily (75 BCE), recovers Archimedes' tomb at Syracuse — overgrown and forgotten, recognisable only by its inscription showing a cylinder and a sphere. The most famous mathematical anecdote in Roman literature; Cicero presents himself as preserving the memory of Hellenistic mathematical achievement against Roman indifference.",
    "highlight": true,
@@ -12889,7 +12889,7 @@
     "linea*"
    ],
    "tiers": "1,2",
-   "gloss": "Diodotus the blind Stoic in Cicero's house: still pursuing geometry by directing his pupils 'unde quo quamque lineam scriberent' — where to draw which line. Beautiful illustration of geometric instruction.",
+   "gloss": "Diodotus the blind Stoic in Cicero's house: still pursuing geometry by directing his pupils in where to draw which line.",
    "latin": "Diodotus Stoicus caecus multos annos nostrae domi vixit. is vero, quod credibile vix esset, cum in philosophia multo etiam magis assidue quam antea versaretur et cum fidibus Pythagoreorum more uteretur cumque ei libri noctes et dies legerentur, quibus in studiis oculis non egebat, tum, quod sine oculis fieri posse vix videtur, geometriae munus tuebatur verbis praecipiens discentibus, unde quo quamque lineam scriberent. Asclepiadem ferunt, non ignobilem Eretricum philosophum, cum quidam quaereret, quid ei caecitas attulisset, respondisse, puero ut uno esset comitatior. ut enim vel summa paupertas tolerabilis sit, si liceat quod quibusdam Graecis cotidie, sic caecitas ferri facile possit, si non desint subsidia valetudinum.",
    "english": "Diodotus the blind Stoic, who lived in Cicero's house and 'pursued geometry for whole days' though he could not see — directing pupils to draw lines where to begin and end them; even, remarkably, teaching music. The most vivid biographical glimpse of the Stoic mathematical-musical tradition in Cicero.",
    "highlight": true,
@@ -13306,7 +13306,7 @@
     "1",
     "2"
    ],
-   "gloss": "**Merged record** (3 components: 1.1.1, 1.1.2, 1.1.a).\n\n• [1.1.1] NA 1.1.1: **Pythagoras's proportional method for calculating Hercules's body-height** from his footprint at Olympia. \"scite subtiliterque ratiocinatum Pythagoram philosophum dicit.\" A genuinely mathematical procedure: geometric proportion applied to anthropometry.\n• [1.1.2] NA 1.1.2: continuation — the Olympic stadium-track measured in Hercules-feet, then proportionally adjusted. Substantive on the proportional method. CLUSTER with T1 1.1.1.\n• [1.1.a] NA 1.1 chapter argument: \"Quali proportione quibusque collectionibus Plutarchus ratiocinatum esse Pythagoram philosophum dixerit\". CLUSTER with 1.1.1.",
+   "gloss": "**Merged record** (3 components: 1.1.1, 1.1.2, 1.1.a).\n\n• [1.1.1] NA 1.1.1: **Pythagoras's proportional method for calculating Hercules's body-height** from his footprint at Olympia. \n• [1.1.2] NA 1.1.2:  the Olympic stadium-track measured in Hercules-feet, then proportionally adjusted. S\n",
    "latin": "[1.1.1] Plutarchus in libro quem de Herculis quam diu quam diu, Klotz; quantum, ω . inter homines fuit animi corporisque ingenio atque virtutibus conscripsit, scite subtiliterque ratiocinatum Pythagoram philosophum dicit in reperienda modulandaque status longitudinisque eius praestantia.\n\n[1.1.2] Nam cum fere constaret, curriculum stadii quod est Pisis apud Iovem Olympium Herculem pedibus suis metatum idque fecisse longum pedes sescentos, cetera quoque stadia in terra Graecia ab aliis postea instituta pedum quidem esse numero sescentum, sed tamen esse aliquantulum breviora, facile intellexit, modum spatiumque plantae Herculis, ratione proportionis habita, tanto fuisse quam aliorum procerius, quanto Olympicum stadium longius esset quam cetera.\n\n[1.1.a] Argument Quali proportione quibusque collectionibus Plutarchus ratiocinatum esse Pythagoram philosophum dixerit de comprehendenda corporis proceritate qua fuit Hercules, cum vitam inter homines viveret.",
    "strictness": "strict",
    "highlights": [
@@ -13337,7 +13337,7 @@
     "propor"
    ],
    "tiers": "2",
-   "gloss": "NA 1.1.2: continuation — the Olympic stadium-track measured in Hercules-feet, then proportionally adjusted. Substantive on the proportional method. CLUSTER with T1 1.1.1.",
+   "gloss": "NA 1.1.2: the Olympic stadium-track measured in Hercules-feet, then proportionally adjusted. Substantive on the proportional method. cf. NA 1.1.1.",
    "latin": "Nam cum fere constaret, curriculum stadii quod est Pisis apud Iovem Olympium Herculem pedibus suis metatum idque fecisse longum pedes sescentos, cetera quoque stadia in terra Graecia ab aliis postea instituta pedum quidem esse numero sescentum, sed tamen esse aliquantulum breviora, facile intellexit, modum spatiumque plantae Herculis, ratione proportionis habita, tanto fuisse quam aliorum procerius, quanto Olympicum stadium longius esset quam cetera.",
    "strictness": "strict",
    "provenance": "verified-from-source-parse"
@@ -13365,7 +13365,7 @@
    "tiers": "1",
    "gloss": "NA 1.1 chapter argument: \"Quali proportione quibusque collectionibus Plutarchus ratiocinatum esse Pythagoram philosophum dixerit\". CLUSTER with 1.1.1.",
    "latin": "Argument Quali proportione quibusque collectionibus Plutarchus ratiocinatum esse Pythagoram philosophum dixerit de comprehendenda corporis proceritate qua fuit Hercules, cum vitam inter homines viveret.",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -13559,7 +13559,7 @@
    "tiers": "1",
    "gloss": "NA 1.9.1: Beginning of the chapter on the Pythagorean order and pedagogical sequence. Substantive on the discipline of Pythagorean schooling.",
    "latin": "ordo atque ratio Pythagorae, ac deinceps familiae et et added by Bongars. successionis eius, recipiendi instituendique discipulos huiuscemodi fuisse traditur:",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "ordo atque ratio Pythagorae",
     "recipiendi instituendique discipulos"
@@ -13598,7 +13598,7 @@
     "1",
     "2"
    ],
-   "gloss": "**Merged record** (5 components: 1.9.6, 1.9.9, 1.9.11, 1.9.12, 1.9.a).\n\n• [1.9.6] **NA 1.9.6** — the canonical statement of the Pythagorean curriculum: \"hi dicebantur in eo tempore μαθηματικοί, ab his scilicet artibus quas iam discere atque meditari inceptaverant: quoniam *geometriam, gnomonicam, musicam* ceterasque item disciplinas altiores μαθήματα veteres Graeci appellabant.\" Foundational definition of what counted as mathematical.\n• [1.9.9] NA 1.9.9: continuation — students wanting to start with Plato's Symposium. Pedagogical. CLUSTER with T1 1.9.6.\n• [1.9.11] NA 1.9.11: continued Taurus material — CLUSTER with 1.9.6/8.\n• [1.9.12] NA 1.9.12: CLUSTER with 1.9.6 — the Pythagorean cohort's practices.\n• [1.9.a] NA 1.9 chapter argument. CLUSTER with 1.9.6.",
+   "gloss": " [1.9.6] **NA 1.9.6**the Pythagorean curriculum\n",
    "latin": "[1.9.6] hi dicebantur in eo tempore μαθηματικοί, ab his scilicet artibus quas iam discere atque meditari inceptaverant: quoniam geometriam, gnomonicam, musicam ceterasque item disciplinas altiores μαθήματα veteres Graeci appellabant; vulgus autem, quos gentilicio vocabulo Chaldaeos dicere oportet, mathematicos dicit.\n\n[1.9.9] Alius ait hoc me primum doce, item alius hoc volo, inquit, discere, istud nolo ; hic a Symposio Platonis incipere gestit propter Alcibiadae comisationem, ille a Phaedro propter Lysiae orationem.\n\n[1.9.11] Haec Taurus dicere solitus, novicios philosophorum philosoplorum sectatores cum veteribus Pythagoricis pensitans.\n\n[1.9.12] Sed id quoque non Praetereundum est, quod omnes, simul atque a atque a, J. Gronov; at quia, P; qui a, ω . Pythagora in cohortem illam disciplinarum recepti erant, quod quisque familiae, pecuniae habebat in medium dabat et coibatur societas inseparabilis, tamquam tamquanla tam, qualn, Momsen. illud fuit anticum consortium, quod iure atque verbo Romano appellabatur ercto non cito.\n\n[1.9.a] Argument Quis modus fuerit, quis ordo disciplinae Pythagoricae, quantumque temporis imperatum observatumque sit discendi simul ac tacendi.",
    "strictness": "strict",
    "highlights": [
@@ -13662,7 +13662,7 @@
    ],
    "gloss": "**Merged CLUSTER** (3 components, no primary anchor: 1.9.9, 1.9.11, 1.9.12).\n\n• [1.9.9] NA 1.9.9: continuation — students wanting to start with Plato's Symposium. Pedagogical. CLUSTER with T1 1.9.6.\n• [1.9.11] NA 1.9.11: continued Taurus material — CLUSTER with 1.9.6/8.\n• [1.9.12] NA 1.9.12: CLUSTER with 1.9.6 — the Pythagorean cohort's practices.",
    "latin": "[1.9.9] Alius ait hoc me primum doce, item alius hoc volo, inquit, discere, istud nolo ; hic a Symposio Platonis incipere gestit propter Alcibiadae comisationem, ille a Phaedro propter Lysiae orationem.\n\n[1.9.11] Haec Taurus dicere solitus, novicios philosophorum philosoplorum sectatores cum veteribus Pythagoricis pensitans.\n\n[1.9.12] Sed id quoque non Praetereundum est, quod omnes, simul atque a atque a, J. Gronov; at quia, P; qui a, ω . Pythagora in cohortem illam disciplinarum recepti erant, quod quisque familiae, pecuniae habebat in medium dabat et coibatur societas inseparabilis, tamquam tamquanla tam, qualn, Momsen. illud fuit anticum consortium, quod iure atque verbo Romano appellabatur ercto non cito.",
-   "strictness": "strict",
+   "strictness": "loose",
    "text": "[1.9.9] Alius ait hoc me primum doce, item alius hoc volo, inquit, discere, istud nolo ; hic a Symposio Platonis incipere gestit propter Alcibiadae comisationem, ille a Phaedro propter Lysiae orationem.\n\n[1.9.11] Haec Taurus dicere solitus, novicios philosophorum philosoplorum sectatores cum veteribus Pythagoricis pensitans.\n\n[1.9.12] Sed id quoque non Praetereundum est, quod omnes, simul atque a atque a, J. Gronov; at quia, P; qui a, ω . Pythagora in cohortem illam disciplinarum recepti erant, quod quisque familiae, pecuniae habebat in medium dabat et coibatur societas inseparabilis, tamquam tamquanla tam, qualn, Momsen. illud fuit anticum consortium, quod iure atque verbo Romano appellabatur ercto non cito.",
    "highlights": [],
    "merged_from": [
@@ -13769,7 +13769,7 @@
    "tiers": "1",
    "gloss": "NA 1.9 chapter argument. CLUSTER with 1.9.6.",
    "latin": "Argument Quis modus fuerit, quis ordo disciplinae Pythagoricae, quantumque temporis imperatum observatumque sit discendi simul ac tacendi.",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -13863,7 +13863,7 @@
     "1",
     "2"
    ],
-   "gloss": "**Merged record** (2 components: 1.20.1-2, 1.20.2).\n\n• [1.20.1-2] **Merged record** (2 components: 1.20.1, 1.20.2).\n• [1.20.2] NA 1.20.2: **definition of plane figure** — \"in duas partis solum lineas habet, qua latum est et qua longum\". Triangles and squares. CLUSTER with T1 1.20.1.",
+   "gloss": "[1.20.2] NA 1.20.2: definition of plane figure",
    "latin": "[1.20.1-2] \n\n[1.20.2] Haec ipsi vocant ἐπίπεδον καὶ στερεόν. Planum est quod in duas partis solum lineas habet, qua latum est et qua longum; qualia sunt triquetra et quadrata, quae in area fiunt, sine altitudine.",
    "strictness": "strict",
    "highlights": [],
@@ -13915,7 +13915,7 @@
     "pyramid"
    ],
    "tiers": "1",
-   "gloss": "NA 1.20.3: definition of the solid figure (\"non longitudines modo et latitudines planas... sed etiam extollunt altitudines\"); examples include triangular metae and *pyramids*. Explicit geometry.",
+   "gloss": "NA 1.20.3: definition of the solid figure ",
    "latin": "Solidum est quando non longitudines modo et latitudines planas plans numeri linearum efficiunt, sed etiam extollunt altitudines, quales sunt ferme metae triangulae quas pyramidas appellant, vel qualia sunt quadrata undique, quae, κύβους illi, nos quadrantalia dicimus.",
    "strictness": "strict",
    "highlights": [
@@ -13953,7 +13953,7 @@
     "1",
     "2"
    ],
-   "gloss": "**Merged record** (4 components: 1.20.6, 1.20.7, 1.20.8, 1.20.a).\n\n• [1.20.6] NA 1.20.6: **Pythagoras on the cube of three (= 27) as having the power of the lunar circle**, since the moon completes its orbit in 27 days. Numerical-astronomical correlation.\n• [1.20.7] NA 1.20.7: **definition of *linea*** — \"quam γραμμὴν Graeci nominant\". CLUSTER.\n• [1.20.8] NA 1.20.8: **Varro's definition of line**: \"longitudo quaedam sine latitudine et altitudine\" — Latin equivalent to Euclid Elements 1 def. 2. CLUSTER.\n• [1.20.a] NA 1.20 chapter argument: \"Quid geometrae dicant ἐπίπεδον, quid στερεόν, quid κύβον, quid γραμμήν\". CLUSTER with 1.20.1/3/6.",
+   "gloss": " [1.20.7] NA 1.20.7:definition of *linea*\n[1.20.8] NA 1.20.8: Varro's definition of a line \n",
    "latin": "[1.20.6] Huius numeri cubum Pythagoras vim habere lunaris circuli dixit, quod et luna orbem suum lustret septem et viginti diebus et numerus ternio, ternio, ς triennio, ω . qui τριὰς Graece dicitur, tantundem tatutndem efficiat in cubo.\n\n[1.20.7] Linea autem a nostris dicitur, quam γραμμὴν Graeci nominant.\n\n[1.20.8] Eam ea M., ω . corr. in ς M. Varro ita definit: Linea est, inquit, longitudo quaedam sine latitudine et altitudine.\n\n[1.20.a] Argument Quid geometrae dicant ἐπίπεδον, quid στερεόν, quid κύβον quid γραμμήν; quibusque ista omnia Latinis vocabulis appellentur.",
    "strictness": "strict",
    "highlights": [
@@ -13983,7 +13983,7 @@
    "tiers": [
     "2"
    ],
-   "gloss": "**Merged CLUSTER** (2 components, no primary anchor: 1.20.7, 1.20.8).\n\n• [1.20.7] NA 1.20.7: **definition of *linea*** — \"quam γραμμὴν Graeci nominant\". CLUSTER.\n• [1.20.8] NA 1.20.8: **Varro's definition of line**: \"longitudo quaedam sine latitudine et altitudine\" — Latin equivalent to Euclid Elements 1 def. 2. CLUSTER.",
+   "gloss": "",
    "latin": "[1.20.7] Linea autem a nostris dicitur, quam γραμμὴν Graeci nominant.\n\n[1.20.8] Eam ea M., ω . corr. in ς M. Varro ita definit: Linea est, inquit, longitudo quaedam sine latitudine et altitudine.",
    "strictness": "strict",
    "text": "[1.20.7] Linea autem a nostris dicitur, quam γραμμὴν Graeci nominant.\n\n[1.20.8] Eam ea M., ω . corr. in ς M. Varro ita definit: Linea est, inquit, longitudo quaedam sine latitudine et altitudine.",
@@ -14035,7 +14035,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "NA 1.20 chapter argument: \"Quid geometrae dicant ἐπίπεδον, quid στερεόν, quid κύβον, quid γραμμήν\". CLUSTER with 1.20.1/3/6.",
+   "gloss": "",
    "latin": "Argument Quid geometrae dicant ἐπίπεδον, quid στερεόν, quid κύβον quid γραμμήν; quibusque ista omnia Latinis vocabulis appellentur.",
    "strictness": "strict",
    "provenance": "verified-from-source-parse"
@@ -14188,7 +14188,7 @@
    "tiers": "2",
    "gloss": "NA 2.8.9: **Plato uses syllogisms with reversed order** (\"synlogismos repudiate conversoque ordine\"). Brief but technical-logical observation.",
    "latin": "Aput Platonem quoque multis in locis reperias synlogismos, repudiate conversoque ordine isto qui in docendo traditur, cum eleganti quadam reprehensionis contemptione positos esse.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "synlogismos, repudiate conversoque ordine"
    ],
@@ -15071,7 +15071,7 @@
    ],
    "gloss": "**Merged record** (5 components: 3.17.1, 3.17.3, 3.17.5, 3.17.6, 3.17.a).\n\n• [3.17.1] NA 3.17.1: **Plato's purchase of three Pythagorean books from Philolaus** for ten thousand denarii. Foundational story for Plato-Pythagoras transmission. Biographical-mathematical.\n• [3.17.3] NA 3.17.3: **Aristotle bought books of Speusippus** for three Attic talents = ~72,000 sesterces. Mathematical-financial calculation. CLUSTER with T1 3.17.1 (Plato buying Pythagorean books).\n• [3.17.5] NA 3.17.5: continuation of the Philolaus-Plato anecdote. CLUSTER with 3.17.1.\n• [3.17.6] NA 3.17.6: continuation — Greek epigram on Plato buying the Pythagorean book. CLUSTER with T1 3.17.1.\n• [3.17.a] NA 3.17 argument. CLUSTER with 3.17.1.",
    "latin": "[3.17.1] MEMORIAE mandatum est Platonem philosophum tenui admodum pecunia familiari fuisse atque eum tamen tris Philolai Pythagorici libros decem milibus denarium mercatum.\n\n[3.17.3] Aristotelem quoque traditum libros pauculos Speusippi philosophi post mortem eius emisse talentis Atticis tribus; ea summa fit nummi nostri sestertia duo et septuaginta milia.\n\n[3.17.5] In eo libro Platonem philosophum after philosophum the MSS. repeat tenui fuisse from § 1. contumeliose appellat, quod inpenso pretio librum Pythagoricae disciplinae emisset exque eo Timaeum, nobilem illum dialogum, concinnasset. Versus super ea re Τίμωνος hi sunt:\n\n[3.17.6] Καὶ σύ, Πλάτων, καὶ γάρ σε μαθητείης πόθος ἔσχεν, Πολλῶν δʼ ἀργυρίων ὀλίγην ἠλλάξαο βίβλον, Ἔνθεν ἀπαρχόμενος τιμαιογραφεῖν ἐδιδάχθης.\n\n[3.17.a] Argument Id quoque esse a gravissimis viris memoriae mandatum, quod tris libros Plato Philolai Pythagorici et Aristoteles pauculos Speusippi philosophi mercati sunt pretiis fidem non capientibus.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Platonem philosophum tenui admodum pecunia familiari fuisse",
     "tris Philolai Pythagorici libros decem milibus denarium mercatum"
@@ -15108,7 +15108,7 @@
    ],
    "gloss": "**Merged CLUSTER** (3 components, no primary anchor: 3.17.3, 3.17.5, 3.17.6).\n\n• [3.17.3] NA 3.17.3: **Aristotle bought books of Speusippus** for three Attic talents = ~72,000 sesterces. Mathematical-financial calculation. CLUSTER with T1 3.17.1 (Plato buying Pythagorean books).\n• [3.17.5] NA 3.17.5: continuation of the Philolaus-Plato anecdote. CLUSTER with 3.17.1.\n• [3.17.6] NA 3.17.6: continuation — Greek epigram on Plato buying the Pythagorean book. CLUSTER with T1 3.17.1.",
    "latin": "[3.17.3] Aristotelem quoque traditum libros pauculos Speusippi philosophi post mortem eius emisse talentis Atticis tribus; ea summa fit nummi nostri sestertia duo et septuaginta milia.\n\n[3.17.5] In eo libro Platonem philosophum after philosophum the MSS. repeat tenui fuisse from § 1. contumeliose appellat, quod inpenso pretio librum Pythagoricae disciplinae emisset exque eo Timaeum, nobilem illum dialogum, concinnasset. Versus super ea re Τίμωνος hi sunt:\n\n[3.17.6] Καὶ σύ, Πλάτων, καὶ γάρ σε μαθητείης πόθος ἔσχεν, Πολλῶν δʼ ἀργυρίων ὀλίγην ἠλλάξαο βίβλον, Ἔνθεν ἀπαρχόμενος τιμαιογραφεῖν ἐδιδάχθης.",
-   "strictness": "strict",
+   "strictness": "loose",
    "text": "[3.17.3] Aristotelem quoque traditum libros pauculos Speusippi philosophi post mortem eius emisse talentis Atticis tribus; ea summa fit nummi nostri sestertia duo et septuaginta milia.\n\n[3.17.5] In eo libro Platonem philosophum after philosophum the MSS. repeat tenui fuisse from § 1. contumeliose appellat, quod inpenso pretio librum Pythagoricae disciplinae emisset exque eo Timaeum, nobilem illum dialogum, concinnasset. Versus super ea re Τίμωνος hi sunt:\n\n[3.17.6] Καὶ σύ, Πλάτων, καὶ γάρ σε μαθητείης πόθος ἔσχεν, Πολλῶν δʼ ἀργυρίων ὀλίγην ἠλλάξαο βίβλον, Ἔνθεν ἀπαρχόμενος τιμαιογραφεῖν ἐδιδάχθης.",
    "highlights": [],
    "merged_from": [
@@ -15192,7 +15192,7 @@
    "tiers": "1",
    "gloss": "NA 3.17 argument. CLUSTER with 3.17.1.",
    "latin": "Argument Id quoque esse a gravissimis viris memoriae mandatum, quod tris libros Plato Philolai Pythagorici et Aristoteles pauculos Speusippi philosophi mercati sunt pretiis fidem non capientibus.",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -15709,7 +15709,7 @@
    "tiers": "2",
    "gloss": "NA 5.3.1: opens the Democritus-meets-Protagoras chapter — Plato wrote a dialogue named for him. CLUSTER with T1 5.3.4-5.",
    "latin": "PROTAGORAM, virum in studiis doctrinarum egregium, cuius nomen Plato libro suo illi incluto inscripsit, adulescentem aiunt victus quaerendi gratia in mercedem missum vecturasque onerum corpore suo factitavisse,",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "PROTAGORAM, virum in studiis doctrinarum egregium",
     "cuius nomen Plato libro suo illi incluto inscripsit",
@@ -15741,7 +15741,7 @@
    "tiers": [
     "1"
    ],
-   "gloss": "**Merged record** (3 components: 5.3.4-6, 5.3.5, 5.3.6).\n\n• [5.3.4-6] **Merged record** (3 components: 5.3.4, 5.3.5, 5.3.6).\n• [5.3.5] NA 5.3.5: **the precise geometric content** — Protagoras \"ratione quadam *quasi geometrica*\" arranging the load. Democritus recognises geometric talent in unschooled labour. CLUSTER with 5.3.4.\n• [5.3.6] NA 5.3.6: continuation — Democritus recruits Protagoras as student. CLUSTER.",
+   "gloss": "\n",
    "latin": "[5.3.4-6] \n\n[5.3.5] Quod ubi Protagoras, ut erat petitum, fecit atque itidem Democritus acervum ilium et quasi orbem caudicum, brevi vinculo comprehensum, ratione quadam quasi geometrica librari continerique animadvertit, interrogavit quis id lignum ita composuisset, et cum ille a se compositum dixisset, desideravit uti solveret ac denuo in modum eundem collocaret.\n\n[5.3.6] At postquam ille solvit ac similiter composuit, tum Democritus, animi aciem sollertiamque hominis non docti demiratus, Mi adulescens, inquit, cum ingenium bene faciendi habeas, sunt maiora melioraque quae facere mecum possis, abduxitque eum statim stating secumque habuit et sumptum ministravit et philosophias docuit et esse eum fecit quantus postea fuit.",
    "strictness": "strict",
    "highlights": [],
@@ -15751,7 +15751,7 @@
     "5.3.5",
     "5.3.6"
    ],
-   "provenance": "verified-from-source-parse"
+   "provenance": "needs checking"
   },
   {
    "id": "phi1254:phi001:5.3.5",
@@ -15829,7 +15829,7 @@
    "tiers": "2",
    "gloss": "**NA 5.15.7**: **Plato's acoustic theory** — \"Non enim percussus, inquit, aer, sed plaga ipsa atque percussio, id vox est.\" The percussion-of-air theory of voice, contrasted with the Democritean atomic-stream theory at T1 5.15.8.",
    "latin": "Plato autem non esse vocem corpus putat: Non enim percussus, inquit, aer, sed plaga ipsa atque percussio, id vox est.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Plato autem non esse vocem corpus putat",
     "Non enim percussus, inquit, aer, sed plaga ipsa atque percussio, id vox est"
@@ -15860,7 +15860,7 @@
    "tiers": "1",
    "gloss": "NA 5.15.8: **Democritus and Epicurus on voice as a flux of atoms**: \"ex individuis corporibus vocem constare dicunt eamque... ῥεῦμα ἀτόμων appellant.\" Explicit atomic theory of sound — quantitative-physical content.",
    "latin": "Democritus ac deinde Epicurus ex individuis corporibus vocem constare dicunt eamque, ut ipsis eorum verbis utar, ῥεῦμα ἀτόμων appellant.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Democritus ac deinde Epicurus ex individuis corporibus vocem constare",
     "ῥεῦμα ἀτόμων appellant"
@@ -16090,7 +16090,7 @@
    ],
    "gloss": "**Merged record** (2 components: 7.2.11-12, 7.2.12).\n\n• [7.2.11-12] **Merged record** (2 components: 7.2.11, 7.2.12).\n• [7.2.12] NA 7.2.12: continuation — quotes the Pythagorean verse on self-chosen miseries. CLUSTER with 7.2.11.",
    "latin": "[7.2.11-12] \n\n[7.2.12] Infert deinde verba haec, his quae dixi congruentia: Διὸ καὶ ὑπὸ τῶν Πυθαγορείων εἴρηται. Γνώσει δʼ ἀνθρώπους αὐθαίρετα πήματʼ ἔχοντας, ὡς τῶν βλαβῶν ἑκάστοις παρʼ αὐτοῖς γινομένων καὶ καθʼ ὁρμὴν αὐτῶν ἁμαρτανόντων τε καὶ βλαπτομένων καὶ κατὰ τὴν αὐτῶν διάνοιαν καὶ θέσιν.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [],
    "text": "[7.2.11-12] \n\n[7.2.12] Infert deinde verba haec, his quae dixi congruentia: Διὸ καὶ ὑπὸ τῶν Πυθαγορείων εἴρηται. Γνώσει δʼ ἀνθρώπους αὐθαίρετα πήματʼ ἔχοντας, ὡς τῶν βλαβῶν ἑκάστοις παρʼ αὐτοῖς γινομένων καὶ καθʼ ὁρμὴν αὐτῶν ἁμαρτανόντων τε καὶ βλαπτομένων καὶ κατὰ τὴν αὐτῶν διάνοιαν καὶ θέσιν.",
    "merged_from": [
@@ -16230,7 +16230,7 @@
    "tiers": "2",
    "gloss": "NA 7.13.11: **Parmenides on the contradiction of motion-and-rest at the boundary** — \"ex duobus contrariis, altero manente, alterum constitui\". An Eleatic-mathematical observation about contraries.",
    "latin": "Vidit quippe utrumque esse pugnans neque posse ex duobus contrariis, altero manente, alterum constitui quaestionemque fieri per diversorum inter se finium mortis et vitae cohaerentiam, et idcirco peperit ipse expressitque aliud quoddam novum in confinio tempus, quod verbis propriis atque integris τὴν ἐξαίφνης φύσιν appellavit idque ipsum ita, uti dico, inquit, in libro, cui Parmenides titulus est, scriptum ab eo reperietis.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "ex duobus contrariis, altero manente, alterum constitui"
    ],
@@ -16884,7 +16884,7 @@
    "tiers": [
     "1"
    ],
-   "gloss": "**Merged record** (2 components: 10.12.9, 10.12.a).\n\n• [10.12.9] NA 10.12.9: **The famous flying mechanical wooden dove of Archytas the Pythagorean** — \"neque minus admirabile neque tamen vanum aeque videri debet\". One of the few extant Latin records of Archytas's mechanical-mathematical achievements.\n• [10.12.a] NA 10.12 argument. CLUSTER with 10.12.9.",
+   "gloss": "The  flying mechanical wooden dove of Archytas the Pythagorean",
    "latin": "[10.12.9] Sed id quod Archytam Pythagoricum commentum esse atque fecisse traditur, neque minus admirabile neque tamen vanum aeque videri debet. Nam et plerique nobilium Graecorum et Favorinus philosophus, memoriarum veterum exequentissimus, affirmatissime scripserunt simulacrum columbae e ligno ab Archyta ratione quadam disciplinaque mechanica factum volasse; ita erat scilicet libramentis suspensum et aura spiritus inclusa atque occulta concitum.\n\n[10.12.a] Argument De portentis fabularum quae Plinius Secundus indignissime in Democritum philosophum confert; et ibidem de simulacro volucri columbae.",
    "strictness": "strict",
    "highlights": [
@@ -16918,7 +16918,7 @@
    "tiers": "1",
    "gloss": "NA 10.12 argument. CLUSTER with 10.12.9.",
    "latin": "Argument De portentis fabularum quae Plinius Secundus indignissime in Democritum philosophum confert; et ibidem de simulacro volucri columbae.",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -18235,7 +18235,7 @@
    ],
    "gloss": "**Merged record** (2 components: 15.26.1, 15.26.a).\n\n• [15.26.1] **NA 15.26.1**: **Aristotle's definition of syllogism** in Greek verse: \"Λόγος, ἐν τεθέντων τινῶν, ἕτερόν τι τῶν κειμένων ἐξ ἀνάγκης συμβαίνει διὰ τῶν κειμένων\". One of the few Latin texts giving a precise Aristotelian logical definition.\n• [15.26.a] NA 15.26 argument. CLUSTER.",
    "latin": "[15.26.1] ARISTOTELES, quid syllogismus esset, his versibus definivit: Λόγος, ἐν τεθέντων τινῶν, ἕτερόν τι τῶν κειμένων ἐξ ἀνάγκης συμβαίνει διὰ τῶν κειμένων.\n\n[15.26.a] Argument Quibus verbis Aristoteles philosophus definierit syllogismum; eiusque definitionis interpretamentum verbis Latinis factum.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "ARISTOTELES, quid syllogismus esset, his versibus definivit",
     "Λόγος, ἐν τεθέντων τινῶν, ἕτερόν τι τῶν κειμένων"
@@ -18265,7 +18265,7 @@
    "tiers": "2",
    "gloss": "NA 15.26 argument. CLUSTER.",
    "latin": "Argument Quibus verbis Aristoteles philosophus definierit syllogismum; eiusque definitionis interpretamentum verbis Latinis factum.",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -18290,7 +18290,7 @@
    "tiers": "2",
    "gloss": "NA 16.8.9: **conditional propositions illustrated with \"si Plato ambulat, Plato movetur\"** — Plato as the conventional logical-example name. Briefly logical.",
    "latin": "Sed quod Graeci συνημμένον ἀξίωμα dicunt, id alii nostrorum adiunctum, alii conexum dixerunt. Id conexum tale est: si Plato ambulat, Plato movetur ; si dies est, sol super terras est.",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "si Plato ambulat, Plato movetur",
     "si dies est, sol super terras est"
@@ -18389,7 +18389,7 @@
     "1",
     "2"
    ],
-   "gloss": "**Merged record** (4 components: 16.18.1, 16.18.2, 16.18.5, 16.18.a).\n\n• [16.18.1] **NA 16.18.1**: opens the canonical chapter on the parts of geometry — \"Pars quaedam geometriae ὀπτική appellatur quae ad oculos pertinet, pars altera, quae ad auris, κανονική vocatur, qua musici ut fundamento artis suae utuntur\". Foundational classification of mathematical sciences.\n• [16.18.2] **NA 16.18.2**: continuation — both optical and canonical parts depend on **\"spatiis et intervallis linearum et ratione numerorum\"**. Substantive on the mathematical foundation of music and optics. CLUSTER with T1 16.18.1.\n• [16.18.5] NA 16.18.5: **The third part — μετρική** — measuring syllabic length, the geometric foundation of metre. Substantive on the mathematics of poetic rhythm.\n• [16.18.a] NA 16.18 chapter argument. CLUSTER with 16.18.1.",
+   "gloss": " [16.18.1] **NA 16.18.1**: the parts of geometry \n",
    "latin": "[16.18.1] PARS quaedam geometriae ὀπτική appellatur quae ad oculos pertinet, pars altera, quae ad auris, κανονική vocatur, qua musici ut fundamento artis suae utuntur.\n\n[16.18.2] Utraque harum spatiis et intervallis linearum et ratione numerorum constat.\n\n[16.18.5] Est et alia species κανονικῆς, quae appellatur μετρική, per quam syllabarum longarum et brevium et mediocrium iunctura et modus congruens cum principiis geometriae aurium mensura examinatum.\n\n[16.18.a] Argument Lepida quaedam et memoratu et cognitu de parte geometriae quae ὀπτική appellatur, et item alia quae κανονική, et tertia itidem quae dicitur μετρική.",
    "strictness": "strict",
    "highlights": [
@@ -18424,9 +18424,9 @@
     "2",
     "1"
    ],
-   "gloss": "**Merged CLUSTER** (2 components, no primary anchor: 16.18.2, 16.18.5).\n\n• [16.18.2] **NA 16.18.2**: continuation — both optical and canonical parts depend on **\"spatiis et intervallis linearum et ratione numerorum\"**. Substantive on the mathematical foundation of music and optics. CLUSTER with T1 16.18.1.\n• [16.18.5] NA 16.18.5: **The third part — μετρική** — measuring syllabic length, the geometric foundation of metre. Substantive on the mathematics of poetic rhythm.",
+   "gloss": "",
    "latin": "[16.18.2] Utraque harum spatiis et intervallis linearum et ratione numerorum constat.\n\n[16.18.5] Est et alia species κανονικῆς, quae appellatur μετρική, per quam syllabarum longarum et brevium et mediocrium iunctura et modus congruens cum principiis geometriae aurium mensura examinatum.",
-   "strictness": "strict",
+   "strictness": "loose",
    "text": "[16.18.2] Utraque harum spatiis et intervallis linearum et ratione numerorum constat.\n\n[16.18.5] Est et alia species κανονικῆς, quae appellatur μετρική, per quam syllabarum longarum et brevium et mediocrium iunctura et modus congruens cum principiis geometriae aurium mensura examinatum.",
    "highlights": [],
    "merged_from": [
@@ -18482,7 +18482,7 @@
    "tiers": "1",
    "gloss": "NA 16.18 chapter argument. CLUSTER with 16.18.1.",
    "latin": "Argument Lepida quaedam et memoratu et cognitu de parte geometriae quae ὀπτική appellatur, et item alia quae κανονική, et tertia itidem quae dicitur μετρική.",
-   "strictness": "strict",
+   "strictness": "loose",
    "provenance": "verified-from-source-parse"
   },
   {
@@ -18909,7 +18909,7 @@
    "tiers": "1",
    "gloss": "**NA 17.21.23**: \"Eudoxus *astrologus* in terra Graecia nobilitatus est\" — Eudoxus the astronomer/mathematician named in his disciplinary capacity. Strict.",
    "latin": "Neque multo postea Eudoxus astrologus in terra Graecia nobilitatus est Lacedaemoniique ab Atheniensibus apud Corinthun superati duce Phormione,",
-   "strictness": "strict",
+   "strictness": "loose",
    "highlights": [
     "Eudoxus astrologus in terra Graecia nobilitatus est"
    ],
@@ -19710,7 +19710,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "**NA Preface 13**: Gellius announces that some chapters in his work will be technical/scrupulous, drawn from grammar, dialectic, or *geometry*. Methodological framing of the work as covering the liberal arts including mathematics. Strict because of the disciplinary listing.",
+   "gloss": "**NA Preface 13**: Gellius announces that some chapters in his work will be technical, drawn from grammar, dialectic, or geometry ",
    "latin": "Quod erunt autem in his commentariis pauca quaedam scrupulosa et anxia, vel ex grammatica vel ex dialectica vel etiam ex geometrica, geometrica, ω ; geometria, ς ( A.L.L. x, p. 240). quodque erunt item paucula remotiora super augurio iure et pontificio, non oportet ea defugere, quasi aut cognitu non utilia aut perceptu difficilia. Non enim fecimus altos nimis et obscuros in his rebus quaestionum sinus, sed primitias quasdam et quasi libamenta ingenuarum artium dedimus, quae virum civiliter eruditum neque audisse umquam neque attigisse, si non inutile, at quidem certe indecorum est.",
    "strictness": "strict",
    "highlights": [
@@ -20542,7 +20542,7 @@
     "geometri"
    ],
    "tiers": "1",
-   "gloss": "**Juvenal Sat. 3.76**: the famous Greek immigrant catalogue — \"grammaticus rhetor *geometres* pictor aliptes\". The geometer in the social-satirical list of Greek professionals. Disciplinary content.",
+   "gloss": "**Juvenal Sat. 3.76**: the geometer in the social-satirical list of Greek professionals. ",
    "latin": "grammaticus rhetor geometres pictor aliptes",
    "strictness": "strict",
    "highlights": [
@@ -48727,7 +48727,7 @@
    "tiers": [
     "T1"
    ],
-   "gloss": "**Juvenal Saturae 9.35-44** — Naevolus complaining about his patron's ingratitude. Line 9.40: \"**computat, et cevet. ponatur calculus**\" — he reckons up, and shimmies. Let the *calculus* be set. Practical Roman arithmetic in satirical-erotic register; the calculus-and-tabula world of patronage accounting.",
+   "gloss": "**Juvenal Saturae 9.35-44** — Naevolus complains about his patron's ingratitude. Line 9.40:' he reckons up, and shimmies. Let the *calculus* be set.'",
    "latin": "[Sat. 9.36] viderit et blandae adsidue densaeque tabellae\n[Sat. 9.37] sollicitent, αὐτὸς γὰρ ἐφέλκεται ἄνδρα κίναιδος .\n[Sat. 9.38] quod tamen ulterius monstrum quam mollis avarus?\n[Sat. 9.39] haec tribui, deinde illa dedi, mox plura tulisti ;\n[Sat. 9.40] computat, et cevet. ponatur calculus, adsint\n[Sat. 9.41] cum tabula pueri; numera numera Ψ : numeras P. sestertia quinque\n[Sat. 9.42] omnibus in rebus: numerentur deinde labores,\n[Sat. 9.43] an facile et pronum est agere intra viscera penem\n[Sat. 9.44] legitimum atque illic hesternae occurrere cenae?",
    "text": "[Sat. 9.36] viderit et blandae adsidue densaeque tabellae\n[Sat. 9.37] sollicitent, αὐτὸς γὰρ ἐφέλκεται ἄνδρα κίναιδος .\n[Sat. 9.38] quod tamen ulterius monstrum quam mollis avarus?\n[Sat. 9.39] haec tribui, deinde illa dedi, mox plura tulisti ;\n[Sat. 9.40] computat, et cevet. ponatur calculus, adsint\n[Sat. 9.41] cum tabula pueri; numera numera Ψ : numeras P. sestertia quinque\n[Sat. 9.42] omnibus in rebus: numerentur deinde labores,\n[Sat. 9.43] an facile et pronum est agere intra viscera penem\n[Sat. 9.44] legitimum atque illic hesternae occurrere cenae?",
    "highlights": [
