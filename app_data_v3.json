@@ -27147,8 +27147,8 @@
    "tiers": "2",
    "gloss": "Plautus Rud. 4.3.1003c — \"Salve, Thales\": comic-proverbial Thales-as-sage. Roman literary use of the canonical mathematician-philosopher as a figure of wisdom. Substantive in AgRoMa frame: how Roman comedy positions Greek mathematicians in popular cultural reference.",
    "latin": "Salve, Thales.",
-   "strictness": "strict",
-   "provenance": "verified-from-source-parse"
+   "strictness": "loose",
+   "provenance": "deleted"
   },
   {
    "id": "phi0119:phi019:2.4.544",
